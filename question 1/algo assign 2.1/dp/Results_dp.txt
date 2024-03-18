@@ -1,0 +1,9450 @@
+Number of Vertices: 3
+89,76
+33,92
+144,65
+Cost of Triangulation from DP is 228.566690
+Cost of Triangulation is 228.566690
+
+Number of Vertices: 3
+106,81
+107,158
+173,158
+Cost of Triangulation from DP is 245.075098
+Cost of Triangulation is 245.075098
+
+Number of Vertices: 3
+114,110
+198,171
+56,158
+Cost of Triangulation from DP is 321.692280
+Cost of Triangulation is 321.692280
+
+Number of Vertices: 3
+114,172
+19,85
+97,19
+Cost of Triangulation from DP is 384.935566
+Cost of Triangulation is 384.935566
+
+Number of Vertices: 3
+132,28
+33,60
+80,152
+Cost of Triangulation from DP is 341.815363
+Cost of Triangulation is 341.815363
+
+Number of Vertices: 3
+139,34
+56,30
+170,80
+Cost of Triangulation from DP is 263.049973
+Cost of Triangulation is 263.049973
+
+Number of Vertices: 3
+182,174
+161,43
+26,11
+Cost of Triangulation from DP is 497.034659
+Cost of Triangulation is 497.034659
+
+Number of Vertices: 3
+99,118
+60,10
+41,182
+Cost of Triangulation from DP is 374.243483
+Cost of Triangulation is 374.243483
+
+Number of Vertices: 3
+74,89
+192,175
+100,2
+Cost of Triangulation from DP is 432.756998
+Cost of Triangulation is 432.756998
+
+Number of Vertices: 3
+66,78
+182,15
+70,48
+Cost of Triangulation from DP is 279.029718
+Cost of Triangulation is 279.029718
+
+Number of Vertices: 3
+94,96
+34,171
+167,116
+Cost of Triangulation from DP is 315.660612
+Cost of Triangulation is 315.660612
+
+Number of Vertices: 3
+167,44
+60,132
+141,17
+Cost of Triangulation from DP is 316.684850
+Cost of Triangulation is 316.684850
+
+Number of Vertices: 3
+113,118
+33,192
+191,80
+Cost of Triangulation from DP is 389.410932
+Cost of Triangulation is 389.410932
+
+Number of Vertices: 3
+149,136
+159,179
+199,110
+Cost of Triangulation from DP is 180.259369
+Cost of Triangulation is 180.259369
+
+Number of Vertices: 3
+1,51
+84,138
+181,12
+Cost of Triangulation from DP is 463.430548
+Cost of Triangulation is 463.430548
+
+Number of Vertices: 3
+95,107
+129,199
+140,0
+Cost of Triangulation from DP is 413.462947
+Cost of Triangulation is 413.462947
+
+Number of Vertices: 3
+108,93
+10,81
+178,27
+Cost of Triangulation from DP is 371.405362
+Cost of Triangulation is 371.405362
+
+Number of Vertices: 3
+8,181
+129,118
+175,141
+Cost of Triangulation from DP is 359.571652
+Cost of Triangulation is 359.571652
+
+Number of Vertices: 3
+44,73
+121,121
+198,181
+Cost of Triangulation from DP is 376.448198
+Cost of Triangulation is 376.448198
+
+Number of Vertices: 3
+136,129
+18,9
+186,159
+Cost of Triangulation from DP is 451.826767
+Cost of Triangulation is 451.826767
+
+Number of Vertices: 3
+40,170
+3,75
+98,84
+Cost of Triangulation from DP is 301.106752
+Cost of Triangulation is 301.106752
+
+Number of Vertices: 3
+51,7
+72,74
+50,37
+Cost of Triangulation from DP is 143.277107
+Cost of Triangulation is 143.277107
+
+Number of Vertices: 3
+56,154
+66,141
+170,180
+Cost of Triangulation from DP is 244.400596
+Cost of Triangulation is 244.400596
+
+Number of Vertices: 3
+116,11
+107,117
+5,193
+Cost of Triangulation from DP is 446.760347
+Cost of Triangulation is 446.760347
+
+Number of Vertices: 3
+121,71
+66,72
+31,123
+Cost of Triangulation from DP is 220.806050
+Cost of Triangulation is 220.806050
+
+Number of Vertices: 3
+113,197
+8,2
+18,106
+Cost of Triangulation from DP is 457.504280
+Cost of Triangulation is 457.504280
+
+Number of Vertices: 3
+1,80
+198,18
+154,98
+Cost of Triangulation from DP is 451.882910
+Cost of Triangulation is 451.882910
+
+Number of Vertices: 3
+127,73
+38,49
+97,75
+Cost of Triangulation from DP is 186.720567
+Cost of Triangulation is 186.720567
+
+Number of Vertices: 3
+172,128
+144,196
+188,11
+Cost of Triangulation from DP is 381.788513
+Cost of Triangulation is 381.788513
+
+Number of Vertices: 3
+89,40
+158,48
+45,156
+Cost of Triangulation from DP is 349.837308
+Cost of Triangulation is 349.837308
+
+Number of Vertices: 3
+71,186
+91,180
+37,43
+Cost of Triangulation from DP is 315.125283
+Cost of Triangulation is 315.125283
+
+Number of Vertices: 3
+125,134
+54,58
+198,15
+Cost of Triangulation from DP is 393.894464
+Cost of Triangulation is 393.894464
+
+Number of Vertices: 3
+188,94
+50,166
+147,90
+Cost of Triangulation from DP is 320.075553
+Cost of Triangulation is 320.075553
+
+Number of Vertices: 3
+199,22
+70,105
+43,175
+Cost of Triangulation from DP is 446.927870
+Cost of Triangulation is 446.927870
+
+Number of Vertices: 3
+183,163
+110,78
+142,137
+Cost of Triangulation from DP is 227.712875
+Cost of Triangulation is 227.712875
+
+Number of Vertices: 3
+161,83
+163,93
+119,28
+Cost of Triangulation from DP is 157.892678
+Cost of Triangulation is 157.892678
+
+Number of Vertices: 3
+183,86
+3,145
+128,131
+Cost of Triangulation from DP is 386.267716
+Cost of Triangulation is 386.267716
+
+Number of Vertices: 3
+138,152
+108,181
+82,42
+Cost of Triangulation from DP is 306.570234
+Cost of Triangulation is 306.570234
+
+Number of Vertices: 3
+33,58
+75,21
+105,120
+Cost of Triangulation from DP is 254.434634
+Cost of Triangulation is 254.434634
+
+Number of Vertices: 3
+189,3
+171,54
+115,195
+Cost of Triangulation from DP is 411.563673
+Cost of Triangulation is 411.563673
+
+Number of Vertices: 3
+176,185
+127,71
+12,150
+Cost of Triangulation from DP is 431.298429
+Cost of Triangulation is 431.298429
+
+Number of Vertices: 3
+109,166
+38,114
+196,106
+Cost of Triangulation from DP is 351.891573
+Cost of Triangulation is 351.891573
+
+Number of Vertices: 3
+49,82
+122,180
+19,136
+Cost of Triangulation from DP is 295.978900
+Cost of Triangulation is 295.978900
+
+Number of Vertices: 3
+119,142
+62,148
+46,146
+Cost of Triangulation from DP is 146.548942
+Cost of Triangulation is 146.548942
+
+Number of Vertices: 3
+22,100
+55,26
+154,140
+Cost of Triangulation from DP is 369.938959
+Cost of Triangulation is 369.938959
+
+Number of Vertices: 3
+161,7
+134,33
+118,118
+Cost of Triangulation from DP is 243.013913
+Cost of Triangulation is 243.013913
+
+Number of Vertices: 3
+144,98
+118,80
+129,136
+Cost of Triangulation from DP is 129.546305
+Cost of Triangulation is 129.546305
+
+Number of Vertices: 3
+105,65
+127,72
+199,83
+Cost of Triangulation from DP is 191.630113
+Cost of Triangulation is 191.630113
+
+Number of Vertices: 3
+129,95
+50,59
+187,190
+Cost of Triangulation from DP is 387.673886
+Cost of Triangulation is 387.673886
+
+Number of Vertices: 3
+71,132
+130,197
+177,131
+Cost of Triangulation from DP is 274.813230
+Cost of Triangulation is 274.813230
+
+Number of Vertices: 4
+186,52
+182,99
+126,176
+70,74
+Cost of Triangulation from DP is 606.322009
+Cost of Triangulation is 606.322009
+
+Number of Vertices: 4
+172,106
+150,90
+116,16
+154,73
+Cost of Triangulation from DP is 249.663898
+Cost of Triangulation is 249.663898
+
+Number of Vertices: 4
+32,55
+47,152
+94,148
+88,18
+Cost of Triangulation from DP is 566.124711
+Cost of Triangulation is 566.124711
+
+Number of Vertices: 4
+47,197
+131,28
+139,69
+98,177
+Cost of Triangulation from DP is 706.021040
+Cost of Triangulation is 706.021040
+
+Number of Vertices: 4
+86,86
+189,68
+84,122
+82,88
+Cost of Triangulation from DP is 333.274933
+Cost of Triangulation is 333.274933
+
+Number of Vertices: 4
+92,141
+113,105
+33,21
+2,171
+Cost of Triangulation from DP is 663.994421
+Cost of Triangulation is 663.994421
+
+Number of Vertices: 4
+56,52
+87,195
+147,131
+139,124
+Cost of Triangulation from DP is 530.567126
+Cost of Triangulation is 530.567126
+
+Number of Vertices: 4
+93,82
+87,40
+10,65
+65,92
+Cost of Triangulation from DP is 327.309971
+Cost of Triangulation is 327.309971
+
+Number of Vertices: 4
+145,99
+175,81
+171,56
+36,41
+Cost of Triangulation from DP is 420.103867
+Cost of Triangulation is 420.103867
+
+Number of Vertices: 4
+164,126
+178,138
+25,147
+1,111
+Cost of Triangulation from DP is 659.813672
+Cost of Triangulation is 659.813672
+
+Number of Vertices: 4
+78,88
+11,96
+3,184
+85,127
+Cost of Triangulation from DP is 455.788778
+Cost of Triangulation is 455.788778
+
+Number of Vertices: 4
+159,178
+95,72
+166,89
+181,155
+Cost of Triangulation from DP is 474.889761
+Cost of Triangulation is 474.889761
+
+Number of Vertices: 4
+2,3
+54,72
+84,67
+198,33
+Cost of Triangulation from DP is 642.097308
+Cost of Triangulation is 642.097308
+
+Number of Vertices: 4
+194,144
+186,58
+28,29
+144,173
+Cost of Triangulation from DP is 734.581956
+Cost of Triangulation is 734.581956
+
+Number of Vertices: 4
+113,77
+35,111
+91,146
+170,187
+Cost of Triangulation from DP is 508.867501
+Cost of Triangulation is 508.867501
+
+Number of Vertices: 4
+88,193
+45,153
+35,25
+81,98
+Cost of Triangulation from DP is 500.128805
+Cost of Triangulation is 500.128805
+
+Number of Vertices: 4
+35,115
+34,82
+77,86
+50,175
+Cost of Triangulation from DP is 333.131156
+Cost of Triangulation is 333.131156
+
+Number of Vertices: 4
+125,198
+137,25
+156,6
+199,23
+Cost of Triangulation from DP is 560.591386
+Cost of Triangulation is 560.591386
+
+Number of Vertices: 4
+149,29
+130,31
+38,123
+25,190
+Cost of Triangulation from DP is 711.587717
+Cost of Triangulation is 711.587717
+
+Number of Vertices: 4
+32,77
+106,81
+199,61
+87,20
+Cost of Triangulation from DP is 495.492514
+Cost of Triangulation is 495.492514
+
+Number of Vertices: 4
+145,149
+12,97
+51,155
+197,195
+Cost of Triangulation from DP is 621.885962
+Cost of Triangulation is 621.885962
+
+Number of Vertices: 4
+130,82
+60,82
+125,133
+137,99
+Cost of Triangulation from DP is 309.548923
+Cost of Triangulation is 309.548923
+
+Number of Vertices: 4
+41,18
+56,36
+89,65
+156,98
+Cost of Triangulation from DP is 416.495512
+Cost of Triangulation is 416.495512
+
+Number of Vertices: 4
+59,49
+159,175
+7,151
+1,87
+Cost of Triangulation from DP is 677.343987
+Cost of Triangulation is 677.343987
+
+Number of Vertices: 4
+1,71
+114,47
+150,139
+12,193
+Cost of Triangulation from DP is 812.564027
+Cost of Triangulation is 812.564027
+
+Number of Vertices: 4
+53,89
+89,171
+73,170
+14,93
+Cost of Triangulation from DP is 408.660633
+Cost of Triangulation is 408.660633
+
+Number of Vertices: 4
+15,154
+179,143
+71,40
+11,3
+Cost of Triangulation from DP is 789.177630
+Cost of Triangulation is 789.177630
+
+Number of Vertices: 4
+133,177
+54,88
+111,41
+185,28
+Cost of Triangulation from DP is 701.364717
+Cost of Triangulation is 701.364717
+
+Number of Vertices: 4
+167,186
+99,134
+60,97
+173,105
+Cost of Triangulation from DP is 492.826323
+Cost of Triangulation is 492.826323
+
+Number of Vertices: 4
+142,138
+86,89
+112,46
+148,103
+Cost of Triangulation from DP is 354.709564
+Cost of Triangulation is 354.709564
+
+Number of Vertices: 4
+0,190
+176,142
+175,154
+55,181
+Cost of Triangulation from DP is 627.460872
+Cost of Triangulation is 627.460872
+
+Number of Vertices: 4
+48,167
+16,26
+27,15
+91,145
+Cost of Triangulation from DP is 634.668502
+Cost of Triangulation is 634.668502
+
+Number of Vertices: 4
+105,121
+39,86
+29,147
+119,135
+Cost of Triangulation from DP is 407.764479
+Cost of Triangulation is 407.764479
+
+Number of Vertices: 4
+189,71
+149,197
+134,27
+170,11
+Cost of Triangulation from DP is 546.057945
+Cost of Triangulation is 546.057945
+
+Number of Vertices: 4
+105,65
+117,183
+69,172
+12,5
+Cost of Triangulation from DP is 680.775227
+Cost of Triangulation is 680.775227
+
+Number of Vertices: 4
+100,139
+160,168
+165,47
+53,102
+Cost of Triangulation from DP is 597.627198
+Cost of Triangulation is 597.627198
+
+Number of Vertices: 4
+181,67
+34,76
+28,191
+88,175
+Cost of Triangulation from DP is 692.591402
+Cost of Triangulation is 692.591402
+
+Number of Vertices: 4
+68,29
+16,15
+68,122
+192,113
+Cost of Triangulation from DP is 632.917376
+Cost of Triangulation is 632.917376
+
+Number of Vertices: 4
+199,82
+134,114
+126,171
+139,186
+Cost of Triangulation from DP is 414.271534
+Cost of Triangulation is 414.271534
+
+Number of Vertices: 4
+108,194
+195,145
+105,10
+52,16
+Cost of Triangulation from DP is 870.088325
+Cost of Triangulation is 870.088325
+
+Number of Vertices: 4
+25,139
+7,161
+11,76
+67,79
+Cost of Triangulation from DP is 371.912662
+Cost of Triangulation is 371.912662
+
+Number of Vertices: 4
+59,198
+117,192
+123,13
+27,131
+Cost of Triangulation from DP is 681.226848
+Cost of Triangulation is 681.226848
+
+Number of Vertices: 4
+116,46
+106,78
+89,133
+110,70
+Cost of Triangulation from DP is 200.128470
+Cost of Triangulation is 200.128470
+
+Number of Vertices: 4
+23,89
+55,55
+111,61
+159,197
+Cost of Triangulation from DP is 605.593721
+Cost of Triangulation is 605.593721
+
+Number of Vertices: 4
+84,88
+76,39
+145,50
+120,158
+Cost of Triangulation from DP is 452.826382
+Cost of Triangulation is 452.826382
+
+Number of Vertices: 4
+110,34
+126,52
+168,138
+19,55
+Cost of Triangulation from DP is 597.824730
+Cost of Triangulation is 597.824730
+
+Number of Vertices: 4
+16,181
+161,7
+114,135
+11,187
+Cost of Triangulation from DP is 702.563514
+Cost of Triangulation is 702.563514
+
+Number of Vertices: 4
+115,23
+166,36
+98,175
+32,91
+Cost of Triangulation from DP is 711.194514
+Cost of Triangulation is 711.194514
+
+Number of Vertices: 4
+51,58
+36,86
+58,68
+102,2
+Cost of Triangulation from DP is 239.668327
+Cost of Triangulation is 239.668327
+
+Number of Vertices: 4
+189,173
+75,46
+46,97
+88,163
+Cost of Triangulation from DP is 644.493327
+Cost of Triangulation is 644.493327
+
+Number of Vertices: 5
+119,3
+169,12
+187,162
+9,110
+22,57
+Cost of Triangulation from DP is 1205.683684
+Cost of Triangulation is 1205.683684
+
+Number of Vertices: 5
+188,135
+31,49
+170,63
+12,152
+191,38
+Cost of Triangulation from DP is 1023.053368
+Cost of Triangulation is 1023.053368
+
+Number of Vertices: 5
+129,108
+91,169
+159,167
+97,97
+130,196
+Cost of Triangulation from DP is 602.660259
+Cost of Triangulation is 602.660259
+
+Number of Vertices: 5
+91,42
+135,89
+101,45
+58,143
+129,73
+Cost of Triangulation from DP is 475.828055
+Cost of Triangulation is 475.828055
+
+Number of Vertices: 5
+153,59
+103,3
+78,181
+128,62
+64,160
+Cost of Triangulation from DP is 814.077683
+Cost of Triangulation is 814.077683
+
+Number of Vertices: 5
+76,108
+68,148
+43,116
+88,133
+26,190
+Cost of Triangulation from DP is 415.227397
+Cost of Triangulation is 415.227397
+
+Number of Vertices: 5
+101,23
+31,175
+57,91
+111,72
+37,105
+Cost of Triangulation from DP is 686.904320
+Cost of Triangulation is 686.904320
+
+Number of Vertices: 5
+99,169
+171,76
+108,174
+84,147
+176,146
+Cost of Triangulation from DP is 516.454262
+Cost of Triangulation is 516.454262
+
+Number of Vertices: 5
+0,150
+185,63
+34,155
+79,2
+186,132
+Cost of Triangulation from DP is 1272.167810
+Cost of Triangulation is 1272.167810
+
+Number of Vertices: 5
+143,153
+63,63
+75,25
+129,66
+146,123
+Cost of Triangulation from DP is 626.072328
+Cost of Triangulation is 626.072328
+
+Number of Vertices: 5
+194,161
+95,78
+74,135
+123,32
+15,33
+Cost of Triangulation from DP is 923.336874
+Cost of Triangulation is 923.336874
+
+Number of Vertices: 5
+62,86
+178,130
+77,158
+155,30
+122,140
+Cost of Triangulation from DP is 785.036929
+Cost of Triangulation is 785.036929
+
+Number of Vertices: 5
+18,50
+199,47
+41,140
+102,12
+118,77
+Cost of Triangulation from DP is 1046.852315
+Cost of Triangulation is 1046.852315
+
+Number of Vertices: 5
+166,94
+168,162
+145,105
+186,175
+61,46
+Cost of Triangulation from DP is 716.969308
+Cost of Triangulation is 716.969308
+
+Number of Vertices: 5
+133,122
+72,121
+60,36
+76,16
+187,61
+Cost of Triangulation from DP is 824.565763
+Cost of Triangulation is 824.565763
+
+Number of Vertices: 5
+179,82
+129,42
+155,65
+120,2
+149,194
+Cost of Triangulation from DP is 738.567984
+Cost of Triangulation is 738.567984
+
+Number of Vertices: 5
+118,2
+60,55
+137,57
+99,2
+86,157
+Cost of Triangulation from DP is 690.636648
+Cost of Triangulation is 690.636648
+
+Number of Vertices: 5
+143,176
+110,87
+82,174
+175,190
+87,109
+Cost of Triangulation from DP is 679.529386
+Cost of Triangulation is 679.529386
+
+Number of Vertices: 5
+51,22
+14,25
+24,125
+195,179
+175,146
+Cost of Triangulation from DP is 1048.760586
+Cost of Triangulation is 1048.760586
+
+Number of Vertices: 5
+126,139
+188,23
+19,158
+130,75
+22,2
+Cost of Triangulation from DP is 1072.834927
+Cost of Triangulation is 1072.834927
+
+Number of Vertices: 5
+45,164
+163,144
+29,175
+121,8
+155,181
+Cost of Triangulation from DP is 1026.620427
+Cost of Triangulation is 1026.620427
+
+Number of Vertices: 5
+114,158
+63,171
+2,52
+121,128
+128,149
+Cost of Triangulation from DP is 572.345991
+Cost of Triangulation is 572.345991
+
+Number of Vertices: 5
+199,22
+115,140
+123,1
+187,100
+26,114
+Cost of Triangulation from DP is 1075.040442
+Cost of Triangulation is 1075.040442
+
+Number of Vertices: 5
+23,1
+198,122
+54,94
+49,13
+60,97
+Cost of Triangulation from DP is 837.687448
+Cost of Triangulation is 837.687448
+
+Number of Vertices: 5
+191,54
+64,110
+158,23
+52,193
+31,15
+Cost of Triangulation from DP is 1156.196451
+Cost of Triangulation is 1156.196451
+
+Number of Vertices: 5
+30,146
+149,184
+15,47
+7,171
+79,131
+Cost of Triangulation from DP is 842.625985
+Cost of Triangulation is 842.625985
+
+Number of Vertices: 5
+39,197
+9,28
+187,167
+98,105
+162,29
+Cost of Triangulation from DP is 1267.481704
+Cost of Triangulation is 1267.481704
+
+Number of Vertices: 5
+130,179
+77,123
+136,177
+51,146
+89,82
+Cost of Triangulation from DP is 582.168093
+Cost of Triangulation is 582.168093
+
+Number of Vertices: 5
+79,108
+1,8
+145,155
+48,82
+127,118
+Cost of Triangulation from DP is 832.817472
+Cost of Triangulation is 832.817472
+
+Number of Vertices: 5
+62,65
+198,144
+185,10
+105,99
+176,42
+Cost of Triangulation from DP is 894.100216
+Cost of Triangulation is 894.100216
+
+Number of Vertices: 5
+67,65
+143,102
+124,58
+1,72
+119,66
+Cost of Triangulation from DP is 531.812565
+Cost of Triangulation is 531.812565
+
+Number of Vertices: 5
+48,135
+78,0
+191,129
+48,38
+98,21
+Cost of Triangulation from DP is 811.409531
+Cost of Triangulation is 811.409531
+
+Number of Vertices: 5
+74,196
+31,3
+84,140
+46,170
+138,56
+Cost of Triangulation from DP is 883.660502
+Cost of Triangulation is 883.660502
+
+Number of Vertices: 5
+94,3
+59,190
+87,142
+41,187
+165,112
+Cost of Triangulation from DP is 884.876909
+Cost of Triangulation is 884.876909
+
+Number of Vertices: 5
+76,31
+78,197
+90,53
+2,157
+191,40
+Cost of Triangulation from DP is 1040.201526
+Cost of Triangulation is 1040.201526
+
+Number of Vertices: 5
+189,110
+64,93
+95,143
+59,33
+35,97
+Cost of Triangulation from DP is 702.586886
+Cost of Triangulation is 702.586886
+
+Number of Vertices: 5
+149,181
+87,48
+153,183
+32,52
+187,44
+Cost of Triangulation from DP is 1067.860933
+Cost of Triangulation is 1067.860933
+
+Number of Vertices: 5
+67,20
+141,58
+34,43
+24,31
+6,4
+Cost of Triangulation from DP is 471.584850
+Cost of Triangulation is 471.584850
+
+Number of Vertices: 5
+69,155
+4,136
+133,22
+163,85
+167,149
+Cost of Triangulation from DP is 1001.556829
+Cost of Triangulation is 1001.556829
+
+Number of Vertices: 5
+114,8
+139,146
+103,25
+126,45
+70,181
+Cost of Triangulation from DP is 740.844973
+Cost of Triangulation is 740.844973
+
+Number of Vertices: 5
+99,90
+172,159
+125,26
+30,190
+161,129
+Cost of Triangulation from DP is 930.916094
+Cost of Triangulation is 930.916094
+
+Number of Vertices: 5
+169,111
+102,12
+15,62
+158,70
+118,54
+Cost of Triangulation from DP is 728.820504
+Cost of Triangulation is 728.820504
+
+Number of Vertices: 5
+91,72
+63,16
+135,162
+101,24
+18,129
+Cost of Triangulation from DP is 769.712655
+Cost of Triangulation is 769.712655
+
+Number of Vertices: 5
+113,161
+83,91
+11,163
+174,77
+38,123
+Cost of Triangulation from DP is 796.878139
+Cost of Triangulation is 796.878139
+
+Number of Vertices: 5
+38,92
+181,133
+41,142
+35,88
+176,153
+Cost of Triangulation from DP is 759.704509
+Cost of Triangulation is 759.704509
+
+Number of Vertices: 5
+15,86
+68,68
+35,153
+79,6
+61,78
+Cost of Triangulation from DP is 571.854122
+Cost of Triangulation is 571.854122
+
+Number of Vertices: 5
+64,43
+0,69
+84,122
+194,114
+194,110
+Cost of Triangulation from DP is 813.232563
+Cost of Triangulation is 813.232563
+
+Number of Vertices: 5
+144,25
+143,178
+47,43
+147,103
+17,118
+Cost of Triangulation from DP is 1029.876897
+Cost of Triangulation is 1029.876897
+
+Number of Vertices: 5
+128,59
+49,110
+176,103
+39,62
+36,187
+Cost of Triangulation from DP is 901.137241
+Cost of Triangulation is 901.137241
+
+Number of Vertices: 5
+152,23
+80,62
+67,162
+118,42
+87,63
+Cost of Triangulation from DP is 526.904163
+Cost of Triangulation is 526.904163
+
+Number of Vertices: 6
+71,41
+2,102
+23,154
+57,65
+19,45
+152,120
+Cost of Triangulation from DP is 844.679858
+Cost of Triangulation is 844.679858
+
+Number of Vertices: 6
+159,19
+187,178
+167,178
+93,174
+180,4
+135,198
+Cost of Triangulation from DP is 1109.921715
+Cost of Triangulation is 1109.921715
+
+Number of Vertices: 6
+62,143
+142,107
+20,37
+48,162
+31,47
+15,20
+Cost of Triangulation from DP is 928.995669
+Cost of Triangulation is 928.995669
+
+Number of Vertices: 6
+98,160
+183,123
+189,92
+62,96
+194,93
+53,41
+Cost of Triangulation from DP is 969.124410
+Cost of Triangulation is 969.124410
+
+Number of Vertices: 6
+88,14
+181,40
+106,62
+177,23
+180,27
+78,17
+Cost of Triangulation from DP is 620.494820
+Cost of Triangulation is 620.494820
+
+Number of Vertices: 6
+161,3
+64,110
+170,34
+177,4
+9,39
+94,184
+Cost of Triangulation from DP is 1247.378430
+Cost of Triangulation is 1247.378430
+
+Number of Vertices: 6
+199,147
+85,179
+70,81
+108,166
+0,43
+167,33
+Cost of Triangulation from DP is 1289.808125
+Cost of Triangulation is 1289.808125
+
+Number of Vertices: 6
+119,103
+84,175
+183,95
+23,131
+109,145
+195,23
+Cost of Triangulation from DP is 1032.957933
+Cost of Triangulation is 1032.957933
+
+Number of Vertices: 6
+72,189
+173,147
+139,123
+139,155
+198,64
+56,70
+Cost of Triangulation from DP is 1011.380358
+Cost of Triangulation is 1011.380358
+
+Number of Vertices: 6
+136,185
+54,108
+175,99
+122,197
+87,95
+160,196
+Cost of Triangulation from DP is 905.855692
+Cost of Triangulation is 905.855692
+
+Number of Vertices: 6
+1,90
+98,112
+96,32
+61,173
+183,113
+38,36
+Cost of Triangulation from DP is 1196.719851
+Cost of Triangulation is 1196.719851
+
+Number of Vertices: 6
+152,27
+26,122
+46,194
+93,81
+34,122
+51,142
+Cost of Triangulation from DP is 832.080271
+Cost of Triangulation is 832.080271
+
+Number of Vertices: 6
+3,142
+52,34
+8,51
+0,182
+57,66
+47,0
+Cost of Triangulation from DP is 877.668618
+Cost of Triangulation is 877.668618
+
+Number of Vertices: 6
+155,101
+1,14
+190,165
+165,30
+73,25
+26,123
+Cost of Triangulation from DP is 1400.668792
+Cost of Triangulation is 1400.668792
+
+Number of Vertices: 6
+109,192
+193,56
+48,100
+143,199
+166,197
+121,134
+Cost of Triangulation from DP is 1012.958119
+Cost of Triangulation is 1012.958119
+
+Number of Vertices: 6
+24,101
+76,17
+156,114
+25,89
+44,77
+175,85
+Cost of Triangulation from DP is 926.482770
+Cost of Triangulation is 926.482770
+
+Number of Vertices: 6
+130,86
+131,164
+7,43
+117,101
+29,161
+52,51
+Cost of Triangulation from DP is 1012.779304
+Cost of Triangulation is 1012.779304
+
+Number of Vertices: 6
+134,14
+160,167
+24,185
+60,29
+53,174
+4,29
+Cost of Triangulation from DP is 1485.422277
+Cost of Triangulation is 1485.422277
+
+Number of Vertices: 6
+97,53
+2,91
+113,128
+48,27
+36,196
+142,144
+Cost of Triangulation from DP is 1153.515366
+Cost of Triangulation is 1153.515366
+
+Number of Vertices: 6
+166,16
+0,164
+94,178
+115,163
+6,84
+34,150
+Cost of Triangulation from DP is 1107.683168
+Cost of Triangulation is 1107.683168
+
+Number of Vertices: 6
+179,157
+130,176
+54,86
+188,43
+156,188
+40,34
+Cost of Triangulation from DP is 1260.949877
+Cost of Triangulation is 1260.949877
+
+Number of Vertices: 6
+101,179
+145,88
+26,138
+129,187
+147,98
+1,185
+Cost of Triangulation from DP is 1112.421857
+Cost of Triangulation is 1112.421857
+
+Number of Vertices: 6
+96,91
+190,157
+67,15
+3,111
+108,182
+88,6
+Cost of Triangulation from DP is 1285.928120
+Cost of Triangulation is 1285.928120
+
+Number of Vertices: 6
+170,67
+81,37
+1,130
+164,2
+148,9
+41,90
+Cost of Triangulation from DP is 1141.318196
+Cost of Triangulation is 1141.318196
+
+Number of Vertices: 6
+166,27
+63,95
+144,133
+58,73
+46,72
+118,80
+Cost of Triangulation from DP is 690.085438
+Cost of Triangulation is 690.085438
+
+Number of Vertices: 6
+64,27
+177,54
+144,141
+95,100
+163,17
+128,60
+Cost of Triangulation from DP is 873.763728
+Cost of Triangulation is 873.763728
+
+Number of Vertices: 6
+190,74
+137,152
+34,106
+63,47
+46,158
+57,45
+Cost of Triangulation from DP is 1045.036558
+Cost of Triangulation is 1045.036558
+
+Number of Vertices: 6
+144,63
+51,126
+73,163
+96,84
+17,112
+197,166
+Cost of Triangulation from DP is 1094.131947
+Cost of Triangulation is 1094.131947
+
+Number of Vertices: 6
+130,50
+74,149
+130,87
+145,26
+60,148
+130,70
+Cost of Triangulation from DP is 734.573172
+Cost of Triangulation is 734.573172
+
+Number of Vertices: 6
+109,177
+183,99
+71,192
+142,193
+164,54
+138,53
+Cost of Triangulation from DP is 1042.726925
+Cost of Triangulation is 1042.726925
+
+Number of Vertices: 6
+80,25
+103,115
+32,17
+136,49
+198,119
+4,117
+Cost of Triangulation from DP is 1245.719790
+Cost of Triangulation is 1245.719790
+
+Number of Vertices: 6
+166,178
+8,155
+188,49
+120,157
+30,135
+84,132
+Cost of Triangulation from DP is 1149.764177
+Cost of Triangulation is 1149.764177
+
+Number of Vertices: 6
+166,0
+5,2
+74,126
+143,12
+52,48
+135,97
+Cost of Triangulation from DP is 1231.612162
+Cost of Triangulation is 1231.612162
+
+Number of Vertices: 6
+191,143
+84,90
+77,126
+197,68
+63,30
+171,164
+Cost of Triangulation from DP is 1179.349334
+Cost of Triangulation is 1179.349334
+
+Number of Vertices: 6
+0,4
+164,27
+169,188
+56,192
+81,85
+62,171
+Cost of Triangulation from DP is 1429.141871
+Cost of Triangulation is 1429.141871
+
+Number of Vertices: 6
+18,70
+48,49
+36,114
+0,183
+7,39
+134,183
+Cost of Triangulation from DP is 989.673011
+Cost of Triangulation is 989.673011
+
+Number of Vertices: 6
+130,31
+25,96
+87,171
+75,3
+6,38
+79,170
+Cost of Triangulation from DP is 1276.287188
+Cost of Triangulation is 1276.287188
+
+Number of Vertices: 6
+10,72
+114,99
+112,35
+9,140
+119,155
+35,36
+Cost of Triangulation from DP is 1159.048129
+Cost of Triangulation is 1159.048129
+
+Number of Vertices: 6
+54,152
+43,73
+53,174
+140,154
+13,50
+1,62
+Cost of Triangulation from DP is 971.273624
+Cost of Triangulation is 971.273624
+
+Number of Vertices: 6
+129,69
+23,31
+73,172
+149,40
+32,125
+84,133
+Cost of Triangulation from DP is 1130.250188
+Cost of Triangulation is 1130.250188
+
+Number of Vertices: 6
+95,104
+104,162
+125,103
+102,47
+5,174
+148,63
+Cost of Triangulation from DP is 839.419559
+Cost of Triangulation is 839.419559
+
+Number of Vertices: 6
+65,121
+64,121
+127,150
+115,75
+44,104
+85,180
+Cost of Triangulation from DP is 615.549372
+Cost of Triangulation is 615.549372
+
+Number of Vertices: 6
+155,51
+20,116
+85,176
+152,25
+4,86
+177,178
+Cost of Triangulation from DP is 1508.571658
+Cost of Triangulation is 1508.571658
+
+Number of Vertices: 6
+37,129
+75,17
+173,51
+45,197
+48,99
+57,125
+Cost of Triangulation from DP is 1066.487924
+Cost of Triangulation is 1066.487924
+
+Number of Vertices: 6
+73,116
+108,143
+20,169
+96,4
+172,133
+42,112
+Cost of Triangulation from DP is 1139.819140
+Cost of Triangulation is 1139.819140
+
+Number of Vertices: 6
+137,83
+38,190
+17,166
+145,61
+162,179
+63,144
+Cost of Triangulation from DP is 1103.383946
+Cost of Triangulation is 1103.383946
+
+Number of Vertices: 6
+129,12
+189,128
+85,92
+20,58
+192,106
+179,161
+Cost of Triangulation from DP is 1035.456538
+Cost of Triangulation is 1035.456538
+
+Number of Vertices: 6
+174,149
+7,42
+15,134
+82,155
+150,69
+111,109
+Cost of Triangulation from DP is 1155.613624
+Cost of Triangulation is 1155.613624
+
+Number of Vertices: 6
+126,44
+197,140
+85,112
+147,31
+159,62
+13,90
+Cost of Triangulation from DP is 924.145066
+Cost of Triangulation is 924.145066
+
+Number of Vertices: 6
+114,65
+77,64
+87,113
+118,102
+118,53
+1,107
+Cost of Triangulation from DP is 628.205317
+Cost of Triangulation is 628.205317
+
+Number of Vertices: 7
+143,151
+83,125
+62,50
+161,99
+137,189
+15,194
+174,35
+Cost of Triangulation from DP is 1435.410317
+Cost of Triangulation is 1435.410317
+
+Number of Vertices: 7
+158,114
+195,148
+20,174
+24,43
+186,107
+6,174
+107,81
+Cost of Triangulation from DP is 1588.556095
+Cost of Triangulation is 1588.556095
+
+Number of Vertices: 7
+188,52
+38,179
+191,151
+194,46
+178,29
+53,1
+138,144
+Cost of Triangulation from DP is 1388.370582
+Cost of Triangulation is 1388.370582
+
+Number of Vertices: 7
+62,43
+137,74
+166,141
+171,192
+42,178
+68,38
+191,153
+Cost of Triangulation from DP is 1452.145063
+Cost of Triangulation is 1452.145063
+
+Number of Vertices: 7
+123,45
+7,122
+20,92
+166,53
+198,108
+29,49
+9,38
+Cost of Triangulation from DP is 1342.965302
+Cost of Triangulation is 1342.965302
+
+Number of Vertices: 7
+9,131
+163,183
+185,70
+43,191
+128,195
+150,77
+10,44
+Cost of Triangulation from DP is 1730.289453
+Cost of Triangulation is 1730.289453
+
+Number of Vertices: 7
+25,101
+10,41
+157,22
+143,132
+42,47
+193,173
+45,148
+Cost of Triangulation from DP is 1466.605848
+Cost of Triangulation is 1466.605848
+
+Number of Vertices: 7
+150,40
+96,142
+57,62
+154,144
+30,165
+33,38
+62,36
+Cost of Triangulation from DP is 1226.317492
+Cost of Triangulation is 1226.317492
+
+Number of Vertices: 7
+62,62
+26,8
+2,139
+131,166
+182,28
+18,38
+78,183
+Cost of Triangulation from DP is 1628.619708
+Cost of Triangulation is 1628.619708
+
+Number of Vertices: 7
+121,116
+110,41
+137,50
+190,197
+36,85
+157,72
+170,123
+Cost of Triangulation from DP is 1174.326751
+Cost of Triangulation is 1174.326751
+
+Number of Vertices: 7
+55,152
+51,132
+187,51
+64,170
+193,38
+198,74
+145,145
+Cost of Triangulation from DP is 1224.945782
+Cost of Triangulation is 1224.945782
+
+Number of Vertices: 7
+167,134
+113,146
+77,168
+199,181
+5,58
+142,183
+163,151
+Cost of Triangulation from DP is 1133.106902
+Cost of Triangulation is 1133.106902
+
+Number of Vertices: 7
+166,192
+22,81
+119,87
+77,171
+70,74
+114,66
+124,70
+Cost of Triangulation from DP is 1039.874490
+Cost of Triangulation is 1039.874490
+
+Number of Vertices: 7
+66,194
+139,170
+196,23
+159,28
+139,168
+152,162
+103,138
+Cost of Triangulation from DP is 966.929373
+Cost of Triangulation is 966.929373
+
+Number of Vertices: 7
+48,74
+80,179
+186,142
+97,91
+46,111
+180,177
+121,75
+Cost of Triangulation from DP is 1226.669956
+Cost of Triangulation is 1226.669956
+
+Number of Vertices: 7
+6,179
+122,81
+193,130
+153,188
+64,147
+160,42
+179,119
+Cost of Triangulation from DP is 1368.068533
+Cost of Triangulation is 1368.068533
+
+Number of Vertices: 7
+81,75
+100,107
+127,198
+25,98
+198,132
+62,193
+25,150
+Cost of Triangulation from DP is 1330.726443
+Cost of Triangulation is 1330.726443
+
+Number of Vertices: 7
+171,27
+29,173
+111,199
+97,8
+36,91
+44,186
+107,189
+Cost of Triangulation from DP is 1497.061610
+Cost of Triangulation is 1497.061610
+
+Number of Vertices: 7
+173,41
+183,39
+42,151
+24,21
+132,27
+175,108
+20,145
+Cost of Triangulation from DP is 1497.666743
+Cost of Triangulation is 1497.666743
+
+Number of Vertices: 7
+144,170
+146,149
+182,7
+187,55
+20,121
+14,118
+188,2
+Cost of Triangulation from DP is 1580.544682
+Cost of Triangulation is 1580.544682
+
+Number of Vertices: 7
+8,131
+108,12
+107,48
+8,154
+25,84
+67,42
+168,30
+Cost of Triangulation from DP is 1245.741592
+Cost of Triangulation is 1245.741592
+
+Number of Vertices: 7
+185,106
+113,78
+89,73
+87,133
+151,75
+117,55
+82,123
+Cost of Triangulation from DP is 815.108002
+Cost of Triangulation is 815.108002
+
+Number of Vertices: 7
+113,107
+152,71
+147,156
+139,67
+151,171
+10,92
+123,104
+Cost of Triangulation from DP is 958.889802
+Cost of Triangulation is 958.889802
+
+Number of Vertices: 7
+155,185
+183,120
+45,179
+102,178
+183,86
+138,56
+83,148
+Cost of Triangulation from DP is 1254.779361
+Cost of Triangulation is 1254.779361
+
+Number of Vertices: 7
+66,97
+169,88
+178,121
+44,33
+56,22
+191,54
+163,138
+Cost of Triangulation from DP is 1226.326839
+Cost of Triangulation is 1226.326839
+
+Number of Vertices: 7
+138,127
+186,184
+100,142
+112,76
+122,182
+78,131
+40,73
+Cost of Triangulation from DP is 934.837198
+Cost of Triangulation is 934.837198
+
+Number of Vertices: 7
+168,62
+106,145
+114,119
+182,47
+85,164
+51,9
+172,7
+Cost of Triangulation from DP is 1269.999759
+Cost of Triangulation is 1269.999759
+
+Number of Vertices: 7
+163,3
+93,91
+42,7
+175,122
+81,174
+32,181
+45,69
+Cost of Triangulation from DP is 1457.522816
+Cost of Triangulation is 1457.522816
+
+Number of Vertices: 7
+124,43
+147,2
+41,178
+65,194
+183,68
+27,30
+2,180
+Cost of Triangulation from DP is 1783.509410
+Cost of Triangulation is 1783.509410
+
+Number of Vertices: 7
+181,124
+108,189
+108,155
+150,14
+183,84
+30,47
+77,34
+Cost of Triangulation from DP is 1379.639076
+Cost of Triangulation is 1379.639076
+
+Number of Vertices: 7
+120,185
+53,161
+8,43
+139,9
+48,164
+118,5
+140,109
+Cost of Triangulation from DP is 1502.068734
+Cost of Triangulation is 1502.068734
+
+Number of Vertices: 7
+169,107
+78,75
+159,154
+195,137
+161,32
+1,54
+23,94
+Cost of Triangulation from DP is 1342.450242
+Cost of Triangulation is 1342.450242
+
+Number of Vertices: 7
+72,8
+173,12
+32,101
+10,31
+99,69
+142,90
+15,96
+Cost of Triangulation from DP is 1262.574398
+Cost of Triangulation is 1262.574398
+
+Number of Vertices: 7
+29,136
+78,142
+102,113
+105,18
+95,83
+130,131
+152,110
+Cost of Triangulation from DP is 844.798206
+Cost of Triangulation is 844.798206
+
+Number of Vertices: 7
+66,72
+141,20
+184,79
+33,160
+9,47
+153,14
+198,20
+Cost of Triangulation from DP is 1426.812396
+Cost of Triangulation is 1426.812396
+
+Number of Vertices: 7
+9,79
+178,178
+9,130
+111,80
+73,180
+91,22
+159,169
+Cost of Triangulation from DP is 1675.954070
+Cost of Triangulation is 1675.954070
+
+Number of Vertices: 7
+73,181
+96,27
+164,149
+72,175
+76,48
+81,38
+133,192
+Cost of Triangulation from DP is 1359.098175
+Cost of Triangulation is 1359.098175
+
+Number of Vertices: 7
+191,63
+82,132
+175,174
+119,122
+87,107
+50,176
+82,162
+Cost of Triangulation from DP is 899.737006
+Cost of Triangulation is 899.737006
+
+Number of Vertices: 7
+2,8
+15,50
+92,61
+55,6
+39,51
+46,80
+198,195
+Cost of Triangulation from DP is 1138.076662
+Cost of Triangulation is 1138.076662
+
+Number of Vertices: 7
+126,63
+153,163
+192,75
+62,5
+52,101
+199,63
+196,29
+Cost of Triangulation from DP is 1246.871739
+Cost of Triangulation is 1246.871739
+
+Number of Vertices: 7
+126,130
+128,138
+54,115
+42,10
+136,106
+20,124
+107,84
+Cost of Triangulation from DP is 944.447613
+Cost of Triangulation is 944.447613
+
+Number of Vertices: 7
+129,25
+178,0
+119,153
+44,161
+23,8
+183,51
+76,111
+Cost of Triangulation from DP is 1565.617563
+Cost of Triangulation is 1565.617563
+
+Number of Vertices: 7
+104,150
+2,61
+190,96
+81,152
+52,95
+59,7
+153,181
+Cost of Triangulation from DP is 1523.082642
+Cost of Triangulation is 1523.082642
+
+Number of Vertices: 7
+52,9
+63,43
+41,84
+24,57
+180,80
+151,92
+46,134
+Cost of Triangulation from DP is 1159.118825
+Cost of Triangulation is 1159.118825
+
+Number of Vertices: 7
+176,73
+58,86
+130,53
+148,190
+61,163
+51,37
+196,59
+Cost of Triangulation from DP is 1378.427368
+Cost of Triangulation is 1378.427368
+
+Number of Vertices: 7
+167,16
+52,46
+163,180
+196,99
+189,64
+60,129
+147,193
+Cost of Triangulation from DP is 1683.544913
+Cost of Triangulation is 1683.544913
+
+Number of Vertices: 7
+155,88
+144,179
+117,5
+152,33
+47,196
+27,132
+74,66
+Cost of Triangulation from DP is 1466.139456
+Cost of Triangulation is 1466.139456
+
+Number of Vertices: 7
+22,22
+24,89
+91,147
+175,114
+124,76
+2,30
+38,166
+Cost of Triangulation from DP is 1252.740583
+Cost of Triangulation is 1252.740583
+
+Number of Vertices: 7
+192,89
+154,78
+112,174
+179,128
+195,104
+63,6
+145,109
+Cost of Triangulation from DP is 926.711798
+Cost of Triangulation is 926.711798
+
+Number of Vertices: 7
+131,172
+47,68
+64,91
+197,197
+51,20
+7,14
+105,195
+Cost of Triangulation from DP is 1501.083775
+Cost of Triangulation is 1501.083775
+
+Number of Vertices: 8
+39,116
+183,129
+39,162
+19,108
+116,111
+57,125
+29,35
+103,148
+Cost of Triangulation from DP is 1169.919359
+Cost of Triangulation is 1169.919359
+
+Number of Vertices: 8
+183,186
+131,169
+28,140
+6,178
+112,134
+193,72
+127,38
+69,153
+Cost of Triangulation from DP is 1382.112336
+Cost of Triangulation is 1382.112336
+
+Number of Vertices: 8
+135,6
+30,27
+189,118
+129,20
+81,88
+134,55
+75,6
+32,68
+Cost of Triangulation from DP is 1340.911296
+Cost of Triangulation is 1340.911296
+
+Number of Vertices: 8
+124,62
+164,178
+190,100
+60,109
+134,180
+168,10
+71,138
+167,63
+Cost of Triangulation from DP is 1622.440338
+Cost of Triangulation is 1622.440338
+
+Number of Vertices: 8
+16,52
+177,80
+125,126
+140,33
+122,151
+93,126
+140,29
+110,119
+Cost of Triangulation from DP is 1142.069798
+Cost of Triangulation is 1142.069798
+
+Number of Vertices: 8
+7,50
+166,16
+147,166
+27,195
+65,148
+172,47
+168,165
+71,108
+Cost of Triangulation from DP is 1836.211827
+Cost of Triangulation is 1836.211827
+
+Number of Vertices: 8
+1,132
+103,155
+6,188
+91,30
+81,94
+14,15
+90,35
+165,188
+Cost of Triangulation from DP is 1739.661790
+Cost of Triangulation is 1739.661790
+
+Number of Vertices: 8
+162,134
+92,51
+26,24
+22,143
+176,189
+28,68
+120,160
+166,146
+Cost of Triangulation from DP is 1536.563644
+Cost of Triangulation is 1536.563644
+
+Number of Vertices: 8
+57,162
+61,88
+64,175
+8,81
+150,157
+105,141
+50,101
+197,31
+Cost of Triangulation from DP is 1441.319812
+Cost of Triangulation is 1441.319812
+
+Number of Vertices: 8
+197,82
+194,113
+164,194
+62,175
+90,101
+197,80
+144,151
+93,22
+Cost of Triangulation from DP is 1448.181254
+Cost of Triangulation is 1448.181254
+
+Number of Vertices: 8
+19,70
+60,163
+80,171
+129,130
+128,126
+88,106
+62,158
+191,68
+Cost of Triangulation from DP is 1100.416341
+Cost of Triangulation is 1100.416341
+
+Number of Vertices: 8
+132,66
+149,170
+103,103
+187,54
+169,141
+129,40
+192,39
+82,181
+Cost of Triangulation from DP is 1338.556150
+Cost of Triangulation is 1338.556150
+
+Number of Vertices: 8
+63,118
+123,117
+53,173
+16,112
+74,166
+49,175
+153,61
+189,125
+Cost of Triangulation from DP is 1176.220500
+Cost of Triangulation is 1176.220500
+
+Number of Vertices: 8
+150,80
+87,84
+29,193
+65,194
+117,101
+36,13
+58,70
+113,150
+Cost of Triangulation from DP is 1289.296790
+Cost of Triangulation is 1289.296790
+
+Number of Vertices: 8
+41,139
+195,78
+71,49
+185,162
+185,149
+91,72
+34,193
+96,91
+Cost of Triangulation from DP is 1562.152767
+Cost of Triangulation is 1562.152767
+
+Number of Vertices: 8
+69,32
+129,3
+192,155
+90,148
+167,85
+69,185
+104,118
+94,179
+Cost of Triangulation from DP is 1594.538023
+Cost of Triangulation is 1594.538023
+
+Number of Vertices: 8
+123,82
+76,75
+31,88
+92,117
+114,23
+35,82
+155,136
+163,109
+Cost of Triangulation from DP is 1097.975256
+Cost of Triangulation is 1097.975256
+
+Number of Vertices: 8
+184,65
+74,57
+154,183
+190,52
+95,84
+168,169
+139,72
+169,189
+Cost of Triangulation from DP is 1507.329288
+Cost of Triangulation is 1507.329288
+
+Number of Vertices: 8
+19,2
+12,36
+55,160
+140,80
+148,40
+119,55
+71,113
+127,82
+Cost of Triangulation from DP is 1237.766426
+Cost of Triangulation is 1237.766426
+
+Number of Vertices: 8
+172,144
+155,101
+40,3
+32,180
+175,95
+108,92
+46,123
+38,149
+Cost of Triangulation from DP is 1613.854962
+Cost of Triangulation is 1613.854962
+
+Number of Vertices: 8
+168,25
+8,78
+159,197
+189,112
+107,195
+192,199
+93,95
+112,130
+Cost of Triangulation from DP is 1732.846124
+Cost of Triangulation is 1732.846124
+
+Number of Vertices: 8
+71,34
+150,123
+85,47
+48,85
+153,85
+51,72
+64,152
+170,108
+Cost of Triangulation from DP is 1270.886479
+Cost of Triangulation is 1270.886479
+
+Number of Vertices: 8
+55,171
+16,24
+145,5
+185,101
+178,186
+48,105
+40,78
+70,76
+Cost of Triangulation from DP is 1711.812973
+Cost of Triangulation is 1711.812973
+
+Number of Vertices: 8
+193,168
+166,34
+77,114
+166,144
+93,5
+139,127
+159,46
+15,81
+Cost of Triangulation from DP is 1732.691620
+Cost of Triangulation is 1732.691620
+
+Number of Vertices: 8
+57,161
+24,56
+174,192
+10,146
+138,47
+164,160
+5,100
+140,32
+Cost of Triangulation from DP is 2052.351003
+Cost of Triangulation is 2052.351003
+
+Number of Vertices: 8
+95,18
+133,188
+52,156
+126,83
+191,44
+162,88
+34,150
+33,87
+Cost of Triangulation from DP is 1557.387869
+Cost of Triangulation is 1557.387869
+
+Number of Vertices: 8
+30,160
+131,11
+28,73
+34,175
+58,96
+8,62
+52,165
+125,2
+Cost of Triangulation from DP is 1450.317785
+Cost of Triangulation is 1450.317785
+
+Number of Vertices: 8
+30,190
+107,83
+107,69
+75,98
+99,118
+182,115
+172,91
+71,90
+Cost of Triangulation from DP is 935.171796
+Cost of Triangulation is 935.171796
+
+Number of Vertices: 8
+112,140
+2,91
+108,47
+182,54
+102,114
+18,141
+136,100
+133,109
+Cost of Triangulation from DP is 1182.364657
+Cost of Triangulation is 1182.364657
+
+Number of Vertices: 8
+93,7
+184,157
+125,108
+109,44
+125,56
+170,113
+18,91
+55,32
+Cost of Triangulation from DP is 1453.594851
+Cost of Triangulation is 1453.594851
+
+Number of Vertices: 8
+80,99
+55,32
+95,33
+144,96
+85,179
+44,100
+100,67
+128,60
+Cost of Triangulation from DP is 1101.659339
+Cost of Triangulation is 1101.659339
+
+Number of Vertices: 8
+102,8
+54,187
+84,67
+90,103
+20,197
+91,71
+155,71
+60,84
+Cost of Triangulation from DP is 1183.637927
+Cost of Triangulation is 1183.637927
+
+Number of Vertices: 8
+93,93
+113,76
+87,199
+41,33
+164,73
+83,192
+45,55
+185,62
+Cost of Triangulation from DP is 1681.663770
+Cost of Triangulation is 1681.663770
+
+Number of Vertices: 8
+9,59
+46,76
+144,50
+145,49
+61,16
+61,169
+140,66
+62,55
+Cost of Triangulation from DP is 1121.020526
+Cost of Triangulation is 1121.020526
+
+Number of Vertices: 8
+164,5
+48,59
+194,84
+195,38
+116,46
+24,60
+57,155
+142,121
+Cost of Triangulation from DP is 1582.821699
+Cost of Triangulation is 1582.821699
+
+Number of Vertices: 8
+76,141
+19,36
+155,3
+180,39
+153,141
+125,31
+197,72
+188,92
+Cost of Triangulation from DP is 1549.775305
+Cost of Triangulation is 1549.775305
+
+Number of Vertices: 8
+142,43
+169,106
+0,74
+172,48
+117,143
+124,35
+182,114
+40,31
+Cost of Triangulation from DP is 1476.505830
+Cost of Triangulation is 1476.505830
+
+Number of Vertices: 8
+157,121
+74,140
+19,150
+8,56
+92,14
+127,9
+119,157
+81,83
+Cost of Triangulation from DP is 1448.433497
+Cost of Triangulation is 1448.433497
+
+Number of Vertices: 8
+88,105
+124,99
+181,8
+35,180
+78,192
+98,170
+152,83
+75,49
+Cost of Triangulation from DP is 1407.248662
+Cost of Triangulation is 1407.248662
+
+Number of Vertices: 8
+146,5
+79,77
+195,181
+139,19
+33,137
+73,161
+142,198
+199,85
+Cost of Triangulation from DP is 1905.961754
+Cost of Triangulation is 1905.961754
+
+Number of Vertices: 8
+139,126
+11,189
+29,71
+94,107
+57,111
+183,68
+12,182
+47,91
+Cost of Triangulation from DP is 1481.244512
+Cost of Triangulation is 1481.244512
+
+Number of Vertices: 8
+91,94
+31,190
+165,9
+7,176
+193,125
+78,138
+98,199
+116,132
+Cost of Triangulation from DP is 1581.481139
+Cost of Triangulation is 1581.481139
+
+Number of Vertices: 8
+160,165
+36,26
+66,27
+120,43
+73,74
+27,70
+103,41
+189,26
+Cost of Triangulation from DP is 1298.536153
+Cost of Triangulation is 1298.536153
+
+Number of Vertices: 8
+118,61
+127,190
+193,198
+79,41
+8,161
+138,9
+34,6
+132,199
+Cost of Triangulation from DP is 1912.636413
+Cost of Triangulation is 1912.636413
+
+Number of Vertices: 8
+158,109
+34,57
+126,127
+172,53
+123,1
+105,126
+137,82
+75,84
+Cost of Triangulation from DP is 1212.766717
+Cost of Triangulation is 1212.766717
+
+Number of Vertices: 8
+152,193
+165,58
+2,163
+133,169
+106,110
+131,177
+149,140
+9,190
+Cost of Triangulation from DP is 1397.614166
+Cost of Triangulation is 1397.614166
+
+Number of Vertices: 8
+56,14
+89,43
+37,179
+3,135
+95,155
+0,186
+185,71
+197,165
+Cost of Triangulation from DP is 1954.828557
+Cost of Triangulation is 1954.828557
+
+Number of Vertices: 8
+131,176
+15,19
+9,194
+184,23
+129,5
+173,109
+173,58
+61,134
+Cost of Triangulation from DP is 2001.704565
+Cost of Triangulation is 2001.704565
+
+Number of Vertices: 8
+164,95
+181,10
+77,117
+158,66
+48,76
+178,140
+57,37
+45,98
+Cost of Triangulation from DP is 1405.883695
+Cost of Triangulation is 1405.883695
+
+Number of Vertices: 8
+72,107
+51,117
+78,5
+162,5
+198,180
+103,179
+28,70
+93,46
+Cost of Triangulation from DP is 1778.955476
+Cost of Triangulation is 1778.955476
+
+Number of Vertices: 9
+169,4
+25,171
+94,67
+83,110
+29,190
+150,1
+173,194
+90,158
+48,45
+Cost of Triangulation from DP is 2212.205655
+Cost of Triangulation is 2212.205655
+
+Number of Vertices: 9
+110,175
+191,107
+88,6
+45,5
+56,56
+104,143
+156,35
+98,59
+58,102
+Cost of Triangulation from DP is 1697.344614
+Cost of Triangulation is 1697.344614
+
+Number of Vertices: 9
+145,35
+54,101
+44,17
+71,163
+25,62
+156,126
+145,134
+75,173
+20,11
+Cost of Triangulation from DP is 1831.261016
+Cost of Triangulation is 1831.261016
+
+Number of Vertices: 9
+115,186
+77,121
+82,178
+117,8
+68,4
+105,133
+181,56
+56,40
+46,177
+Cost of Triangulation from DP is 1775.295832
+Cost of Triangulation is 1775.295832
+
+Number of Vertices: 9
+67,84
+176,119
+98,76
+7,30
+44,182
+178,79
+79,56
+61,107
+194,83
+Cost of Triangulation from DP is 1674.542871
+Cost of Triangulation is 1674.542871
+
+Number of Vertices: 9
+16,71
+134,50
+27,181
+84,3
+142,80
+131,155
+13,31
+192,6
+109,71
+Cost of Triangulation from DP is 1913.155240
+Cost of Triangulation is 1913.155240
+
+Number of Vertices: 9
+45,16
+121,78
+75,86
+15,46
+172,113
+162,174
+52,21
+193,29
+2,118
+Cost of Triangulation from DP is 1964.827115
+Cost of Triangulation is 1964.827115
+
+Number of Vertices: 9
+172,136
+110,127
+172,111
+46,180
+101,137
+142,131
+150,198
+93,20
+197,112
+Cost of Triangulation from DP is 1425.318689
+Cost of Triangulation is 1425.318689
+
+Number of Vertices: 9
+54,140
+133,49
+32,109
+151,151
+176,106
+185,84
+99,101
+192,93
+145,2
+Cost of Triangulation from DP is 1545.617146
+Cost of Triangulation is 1545.617146
+
+Number of Vertices: 9
+25,25
+82,46
+76,129
+68,10
+177,65
+174,139
+85,41
+170,19
+66,157
+Cost of Triangulation from DP is 1699.653823
+Cost of Triangulation is 1699.653823
+
+Number of Vertices: 9
+42,69
+169,101
+111,53
+101,48
+117,134
+134,112
+80,95
+87,166
+89,26
+Cost of Triangulation from DP is 1275.468613
+Cost of Triangulation is 1275.468613
+
+Number of Vertices: 9
+52,92
+57,157
+81,92
+58,29
+4,18
+12,152
+95,112
+51,114
+161,113
+Cost of Triangulation from DP is 1369.827582
+Cost of Triangulation is 1369.827582
+
+Number of Vertices: 9
+119,178
+152,147
+56,12
+59,42
+196,133
+156,26
+85,187
+150,166
+117,169
+Cost of Triangulation from DP is 1644.075040
+Cost of Triangulation is 1644.075040
+
+Number of Vertices: 9
+23,191
+145,83
+99,187
+173,18
+193,116
+117,92
+57,47
+158,14
+72,159
+Cost of Triangulation from DP is 1893.524539
+Cost of Triangulation is 1893.524539
+
+Number of Vertices: 9
+88,146
+91,198
+173,14
+51,128
+145,170
+133,119
+60,113
+72,191
+116,137
+Cost of Triangulation from DP is 1452.668217
+Cost of Triangulation is 1452.668217
+
+Number of Vertices: 9
+191,50
+2,191
+8,164
+113,60
+130,149
+114,75
+185,96
+48,178
+192,20
+Cost of Triangulation from DP is 1992.232940
+Cost of Triangulation is 1992.232940
+
+Number of Vertices: 9
+153,95
+82,32
+133,192
+103,9
+53,173
+113,71
+47,30
+25,80
+136,194
+Cost of Triangulation from DP is 1894.407139
+Cost of Triangulation is 1894.407139
+
+Number of Vertices: 9
+18,130
+103,55
+136,51
+177,84
+73,114
+180,76
+37,129
+64,6
+120,93
+Cost of Triangulation from DP is 1508.534488
+Cost of Triangulation is 1508.534488
+
+Number of Vertices: 9
+106,185
+99,192
+61,105
+51,31
+147,14
+179,147
+34,198
+40,174
+159,50
+Cost of Triangulation from DP is 1981.376045
+Cost of Triangulation is 1981.376045
+
+Number of Vertices: 9
+43,165
+2,70
+29,8
+173,125
+160,142
+38,181
+37,113
+52,92
+66,100
+Cost of Triangulation from DP is 1685.335358
+Cost of Triangulation is 1685.335358
+
+Number of Vertices: 9
+66,77
+22,22
+164,22
+167,182
+44,97
+122,36
+90,104
+46,62
+155,58
+Cost of Triangulation from DP is 1669.032103
+Cost of Triangulation is 1669.032103
+
+Number of Vertices: 9
+95,14
+134,157
+149,2
+109,135
+169,99
+30,65
+85,185
+122,158
+139,92
+Cost of Triangulation from DP is 1587.352651
+Cost of Triangulation is 1587.352651
+
+Number of Vertices: 9
+33,167
+106,21
+74,129
+29,21
+197,192
+3,64
+123,62
+199,177
+111,189
+Cost of Triangulation from DP is 2259.680931
+Cost of Triangulation is 2259.680931
+
+Number of Vertices: 9
+164,4
+1,113
+163,3
+81,149
+70,11
+195,150
+191,172
+25,27
+72,19
+Cost of Triangulation from DP is 2157.512459
+Cost of Triangulation is 2157.512459
+
+Number of Vertices: 9
+32,139
+51,188
+119,38
+77,124
+181,25
+30,18
+95,123
+164,140
+6,37
+Cost of Triangulation from DP is 1974.640594
+Cost of Triangulation is 1974.640594
+
+Number of Vertices: 9
+98,111
+88,12
+169,115
+21,87
+104,38
+0,167
+4,54
+195,89
+166,137
+Cost of Triangulation from DP is 1927.240159
+Cost of Triangulation is 1927.240159
+
+Number of Vertices: 9
+171,157
+28,197
+93,18
+193,162
+4,140
+133,12
+104,173
+7,36
+115,75
+Cost of Triangulation from DP is 2520.686435
+Cost of Triangulation is 2520.686435
+
+Number of Vertices: 9
+176,179
+184,34
+35,64
+101,167
+153,98
+117,14
+155,187
+185,151
+122,174
+Cost of Triangulation from DP is 1780.657410
+Cost of Triangulation is 1780.657410
+
+Number of Vertices: 9
+80,183
+119,98
+34,44
+162,176
+197,77
+56,19
+64,73
+87,30
+65,21
+Cost of Triangulation from DP is 1674.117359
+Cost of Triangulation is 1674.117359
+
+Number of Vertices: 9
+174,62
+96,102
+109,29
+191,63
+191,180
+50,194
+179,24
+158,118
+142,37
+Cost of Triangulation from DP is 1671.636632
+Cost of Triangulation is 1671.636632
+
+Number of Vertices: 9
+86,172
+13,112
+198,166
+178,183
+103,116
+161,9
+186,177
+25,26
+153,47
+Cost of Triangulation from DP is 2149.239391
+Cost of Triangulation is 2149.239391
+
+Number of Vertices: 9
+96,170
+146,130
+99,65
+74,101
+155,3
+42,124
+118,140
+148,146
+171,50
+Cost of Triangulation from DP is 1386.663659
+Cost of Triangulation is 1386.663659
+
+Number of Vertices: 9
+58,189
+13,166
+38,150
+164,113
+182,195
+168,193
+7,56
+103,13
+105,49
+Cost of Triangulation from DP is 1968.533953
+Cost of Triangulation is 1968.533953
+
+Number of Vertices: 9
+62,174
+59,73
+77,179
+14,133
+122,70
+164,190
+26,114
+115,86
+160,101
+Cost of Triangulation from DP is 1701.443109
+Cost of Triangulation is 1701.443109
+
+Number of Vertices: 9
+5,157
+100,128
+129,25
+77,88
+154,89
+49,29
+90,98
+167,56
+88,68
+Cost of Triangulation from DP is 1338.040109
+Cost of Triangulation is 1338.040109
+
+Number of Vertices: 9
+192,36
+35,34
+188,159
+71,41
+28,183
+189,182
+41,66
+83,158
+95,183
+Cost of Triangulation from DP is 2340.781356
+Cost of Triangulation is 2340.781356
+
+Number of Vertices: 9
+155,7
+196,155
+79,137
+191,36
+191,78
+108,104
+115,34
+172,113
+68,77
+Cost of Triangulation from DP is 1812.304663
+Cost of Triangulation is 1812.304663
+
+Number of Vertices: 9
+19,58
+133,93
+53,153
+92,102
+193,105
+196,138
+137,105
+180,75
+67,183
+Cost of Triangulation from DP is 1463.198858
+Cost of Triangulation is 1463.198858
+
+Number of Vertices: 9
+181,153
+17,146
+37,30
+116,124
+44,153
+39,105
+171,99
+156,165
+13,0
+Cost of Triangulation from DP is 1965.851057
+Cost of Triangulation is 1965.851057
+
+Number of Vertices: 9
+63,86
+23,41
+59,61
+61,139
+14,16
+94,103
+98,153
+7,57
+153,103
+Cost of Triangulation from DP is 1448.138784
+Cost of Triangulation is 1448.138784
+
+Number of Vertices: 9
+81,131
+124,106
+30,125
+34,182
+106,127
+199,2
+115,15
+181,144
+154,37
+Cost of Triangulation from DP is 1574.037214
+Cost of Triangulation is 1574.037214
+
+Number of Vertices: 9
+137,5
+76,32
+15,116
+87,24
+25,38
+99,128
+87,16
+40,113
+104,103
+Cost of Triangulation from DP is 1349.326863
+Cost of Triangulation is 1349.326863
+
+Number of Vertices: 9
+149,151
+100,179
+17,54
+149,179
+59,188
+37,34
+177,120
+160,164
+13,98
+Cost of Triangulation from DP is 1781.119031
+Cost of Triangulation is 1781.119031
+
+Number of Vertices: 9
+145,79
+193,176
+50,16
+170,124
+22,107
+72,1
+127,13
+194,100
+112,198
+Cost of Triangulation from DP is 2037.024858
+Cost of Triangulation is 2037.024858
+
+Number of Vertices: 9
+43,109
+154,149
+192,115
+76,32
+156,144
+175,109
+81,66
+126,148
+172,100
+Cost of Triangulation from DP is 1308.915603
+Cost of Triangulation is 1308.915603
+
+Number of Vertices: 9
+149,99
+81,178
+149,99
+167,92
+45,178
+104,182
+121,104
+134,185
+159,70
+Cost of Triangulation from DP is 1241.068938
+Cost of Triangulation is 1241.068938
+
+Number of Vertices: 9
+102,0
+164,88
+38,55
+87,24
+180,162
+158,175
+21,50
+128,75
+73,141
+Cost of Triangulation from DP is 1939.573502
+Cost of Triangulation is 1939.573502
+
+Number of Vertices: 9
+57,50
+3,45
+52,148
+87,58
+17,143
+97,90
+87,14
+50,153
+185,154
+Cost of Triangulation from DP is 1678.705809
+Cost of Triangulation is 1678.705809
+
+Number of Vertices: 9
+157,67
+182,3
+102,172
+144,88
+109,6
+123,119
+158,90
+136,30
+24,157
+Cost of Triangulation from DP is 1461.817930
+Cost of Triangulation is 1461.817930
+
+Number of Vertices: 9
+37,166
+58,167
+135,9
+23,52
+143,89
+109,10
+18,30
+121,164
+157,150
+Cost of Triangulation from DP is 1980.417477
+Cost of Triangulation is 1980.417477
+
+Number of Vertices: 10
+19,172
+181,120
+64,113
+19,120
+44,143
+114,184
+91,0
+91,104
+176,45
+132,62
+Cost of Triangulation from DP is 1899.209980
+Cost of Triangulation is 1899.209980
+
+Number of Vertices: 10
+55,96
+29,181
+21,155
+158,153
+30,169
+102,1
+197,170
+89,12
+155,3
+19,148
+Cost of Triangulation from DP is 1920.775486
+Cost of Triangulation is 1920.775486
+
+Number of Vertices: 10
+99,153
+117,8
+49,158
+177,118
+135,25
+56,91
+48,109
+154,89
+158,39
+57,173
+Cost of Triangulation from DP is 1986.369655
+Cost of Triangulation is 1986.369655
+
+Number of Vertices: 10
+68,193
+3,152
+175,176
+117,181
+66,64
+140,86
+82,103
+65,44
+68,38
+133,94
+Cost of Triangulation from DP is 1664.171866
+Cost of Triangulation is 1664.171866
+
+Number of Vertices: 10
+155,177
+95,33
+13,164
+52,192
+123,51
+42,129
+67,168
+182,6
+17,23
+68,178
+Cost of Triangulation from DP is 2242.176362
+Cost of Triangulation is 2242.176362
+
+Number of Vertices: 10
+80,156
+5,87
+6,49
+128,190
+32,131
+14,55
+133,56
+76,67
+15,43
+187,76
+Cost of Triangulation from DP is 1783.537157
+Cost of Triangulation is 1783.537157
+
+Number of Vertices: 10
+8,32
+169,9
+164,109
+71,31
+173,96
+168,166
+74,139
+13,13
+150,6
+126,78
+Cost of Triangulation from DP is 2161.798645
+Cost of Triangulation is 2161.798645
+
+Number of Vertices: 10
+146,63
+86,42
+72,149
+82,185
+113,86
+66,183
+192,193
+138,125
+39,160
+122,136
+Cost of Triangulation from DP is 1633.206828
+Cost of Triangulation is 1633.206828
+
+Number of Vertices: 10
+122,71
+177,100
+182,192
+114,185
+8,169
+77,95
+127,164
+117,175
+63,148
+60,128
+Cost of Triangulation from DP is 1643.303880
+Cost of Triangulation is 1643.303880
+
+Number of Vertices: 10
+188,87
+145,147
+112,152
+73,62
+108,110
+18,145
+9,13
+80,10
+70,162
+70,17
+Cost of Triangulation from DP is 1978.585849
+Cost of Triangulation is 1978.585849
+
+Number of Vertices: 10
+199,41
+34,149
+198,91
+88,30
+146,115
+125,23
+102,182
+131,27
+117,0
+139,101
+Cost of Triangulation from DP is 1818.355790
+Cost of Triangulation is 1818.355790
+
+Number of Vertices: 10
+5,196
+5,196
+100,170
+107,154
+198,51
+2,26
+178,10
+135,5
+117,172
+45,112
+Cost of Triangulation from DP is 1985.551745
+Cost of Triangulation is 1985.551745
+
+Number of Vertices: 10
+7,190
+85,149
+140,51
+60,57
+113,172
+71,12
+0,22
+176,12
+194,2
+2,75
+Cost of Triangulation from DP is 2377.555974
+Cost of Triangulation is 2377.555974
+
+Number of Vertices: 10
+87,115
+179,47
+104,45
+87,194
+138,174
+86,83
+62,177
+97,141
+48,48
+65,94
+Cost of Triangulation from DP is 1613.795922
+Cost of Triangulation is 1613.795922
+
+Number of Vertices: 10
+12,95
+118,107
+91,184
+54,158
+52,52
+164,160
+70,112
+111,59
+159,156
+140,170
+Cost of Triangulation from DP is 1775.306426
+Cost of Triangulation is 1775.306426
+
+Number of Vertices: 10
+110,128
+59,65
+75,153
+167,64
+121,84
+154,167
+184,39
+117,14
+18,110
+106,137
+Cost of Triangulation from DP is 1820.107500
+Cost of Triangulation is 1820.107500
+
+Number of Vertices: 10
+170,67
+113,159
+117,36
+169,191
+26,125
+134,21
+51,168
+8,56
+199,156
+64,175
+Cost of Triangulation from DP is 2430.495632
+Cost of Triangulation is 2430.495632
+
+Number of Vertices: 10
+92,31
+87,157
+142,118
+100,120
+33,127
+140,157
+152,136
+38,59
+60,143
+134,37
+Cost of Triangulation from DP is 1677.552256
+Cost of Triangulation is 1677.552256
+
+Number of Vertices: 10
+118,146
+66,56
+19,16
+54,129
+159,192
+137,71
+108,41
+62,20
+76,94
+110,174
+Cost of Triangulation from DP is 1682.561107
+Cost of Triangulation is 1682.561107
+
+Number of Vertices: 10
+174,160
+40,149
+110,32
+124,106
+93,191
+35,6
+96,69
+175,157
+76,96
+165,110
+Cost of Triangulation from DP is 2013.065795
+Cost of Triangulation is 2013.065795
+
+Number of Vertices: 10
+12,169
+33,159
+96,129
+98,38
+89,120
+3,34
+10,122
+153,43
+37,118
+176,148
+Cost of Triangulation from DP is 1740.541826
+Cost of Triangulation is 1740.541826
+
+Number of Vertices: 10
+115,96
+9,147
+85,92
+188,42
+96,176
+72,96
+67,38
+194,99
+30,175
+12,22
+Cost of Triangulation from DP is 2116.685274
+Cost of Triangulation is 2116.685274
+
+Number of Vertices: 10
+89,192
+62,156
+43,39
+105,69
+90,157
+71,154
+125,44
+187,145
+69,185
+189,69
+Cost of Triangulation from DP is 1697.421890
+Cost of Triangulation is 1697.421890
+
+Number of Vertices: 10
+6,190
+155,195
+12,94
+62,185
+130,35
+77,138
+144,152
+174,137
+21,188
+164,166
+Cost of Triangulation from DP is 1984.821756
+Cost of Triangulation is 1984.821756
+
+Number of Vertices: 10
+128,7
+184,134
+35,98
+102,27
+5,197
+42,3
+141,108
+75,58
+194,111
+140,112
+Cost of Triangulation from DP is 2135.292745
+Cost of Triangulation is 2135.292745
+
+Number of Vertices: 10
+51,194
+125,114
+124,102
+98,86
+146,165
+140,48
+0,52
+152,150
+159,67
+16,160
+Cost of Triangulation from DP is 1853.178654
+Cost of Triangulation is 1853.178654
+
+Number of Vertices: 10
+58,93
+45,107
+139,112
+87,0
+16,121
+176,115
+38,21
+102,123
+149,156
+102,82
+Cost of Triangulation from DP is 1863.676034
+Cost of Triangulation is 1863.676034
+
+Number of Vertices: 10
+150,105
+27,169
+174,95
+80,85
+14,163
+100,136
+158,24
+44,35
+107,175
+154,177
+Cost of Triangulation from DP is 1974.053077
+Cost of Triangulation is 1974.053077
+
+Number of Vertices: 10
+5,120
+31,68
+161,57
+137,119
+102,115
+194,81
+153,174
+40,74
+41,72
+75,160
+Cost of Triangulation from DP is 1621.695803
+Cost of Triangulation is 1621.695803
+
+Number of Vertices: 10
+77,8
+117,10
+190,30
+163,127
+26,138
+169,1
+159,191
+156,114
+178,74
+199,125
+Cost of Triangulation from DP is 2081.105503
+Cost of Triangulation is 2081.105503
+
+Number of Vertices: 10
+19,56
+92,29
+128,54
+184,104
+49,167
+76,77
+94,40
+124,66
+146,191
+64,149
+Cost of Triangulation from DP is 1788.771419
+Cost of Triangulation is 1788.771419
+
+Number of Vertices: 10
+124,139
+166,28
+97,101
+115,187
+123,158
+117,73
+104,122
+150,150
+72,42
+84,113
+Cost of Triangulation from DP is 1337.827754
+Cost of Triangulation is 1337.827754
+
+Number of Vertices: 10
+17,148
+175,151
+72,73
+119,111
+30,0
+0,1
+1,21
+33,79
+82,86
+77,50
+Cost of Triangulation from DP is 1549.948750
+Cost of Triangulation is 1549.948750
+
+Number of Vertices: 10
+125,91
+127,22
+52,9
+28,80
+190,190
+180,91
+22,90
+158,191
+188,132
+98,51
+Cost of Triangulation from DP is 2154.752588
+Cost of Triangulation is 2154.752588
+
+Number of Vertices: 10
+61,19
+186,132
+30,149
+12,4
+143,170
+40,70
+85,75
+39,80
+171,18
+53,108
+Cost of Triangulation from DP is 2088.220446
+Cost of Triangulation is 2088.220446
+
+Number of Vertices: 10
+117,75
+119,197
+23,96
+96,51
+110,125
+15,59
+133,100
+49,87
+12,10
+87,28
+Cost of Triangulation from DP is 1721.658355
+Cost of Triangulation is 1721.658355
+
+Number of Vertices: 10
+134,45
+178,140
+108,77
+84,36
+146,21
+197,125
+24,150
+165,7
+144,119
+20,192
+Cost of Triangulation from DP is 2022.374522
+Cost of Triangulation is 2022.374522
+
+Number of Vertices: 10
+196,108
+52,192
+165,151
+74,43
+96,152
+153,84
+40,80
+160,171
+142,17
+136,173
+Cost of Triangulation from DP is 2005.683584
+Cost of Triangulation is 2005.683584
+
+Number of Vertices: 10
+13,99
+111,122
+185,63
+0,85
+32,114
+159,26
+58,68
+49,188
+193,71
+113,78
+Cost of Triangulation from DP is 2078.981738
+Cost of Triangulation is 2078.981738
+
+Number of Vertices: 10
+197,41
+159,150
+91,7
+145,80
+60,75
+87,23
+171,145
+67,187
+79,159
+193,32
+Cost of Triangulation from DP is 2043.730251
+Cost of Triangulation is 2043.730251
+
+Number of Vertices: 10
+84,184
+106,185
+167,30
+82,70
+185,108
+99,76
+5,83
+16,132
+189,11
+118,28
+Cost of Triangulation from DP is 2157.567736
+Cost of Triangulation is 2157.567736
+
+Number of Vertices: 10
+172,120
+87,71
+150,11
+145,130
+43,173
+185,35
+102,143
+107,114
+122,33
+188,63
+Cost of Triangulation from DP is 1842.364084
+Cost of Triangulation is 1842.364084
+
+Number of Vertices: 10
+61,104
+75,188
+97,109
+20,84
+93,160
+185,121
+38,2
+10,168
+153,129
+49,6
+Cost of Triangulation from DP is 2246.226466
+Cost of Triangulation is 2246.226466
+
+Number of Vertices: 10
+33,131
+10,27
+150,23
+91,131
+60,153
+197,10
+137,76
+20,20
+183,52
+166,104
+Cost of Triangulation from DP is 2246.330133
+Cost of Triangulation is 2246.330133
+
+Number of Vertices: 10
+36,154
+60,59
+167,89
+181,107
+8,177
+112,52
+109,116
+55,147
+64,126
+135,150
+Cost of Triangulation from DP is 1752.968538
+Cost of Triangulation is 1752.968538
+
+Number of Vertices: 10
+194,194
+69,80
+140,170
+162,193
+42,56
+141,172
+160,164
+113,153
+26,176
+61,197
+Cost of Triangulation from DP is 1573.827303
+Cost of Triangulation is 1573.827303
+
+Number of Vertices: 10
+49,149
+141,96
+110,174
+75,136
+25,40
+112,2
+71,70
+48,34
+190,98
+33,193
+Cost of Triangulation from DP is 1895.376687
+Cost of Triangulation is 1895.376687
+
+Number of Vertices: 10
+20,28
+153,73
+8,152
+99,15
+157,45
+139,122
+70,156
+157,37
+130,136
+28,67
+Cost of Triangulation from DP is 1965.464763
+Cost of Triangulation is 1965.464763
+
+Number of Vertices: 10
+131,143
+57,193
+91,198
+95,130
+66,103
+6,199
+40,157
+135,8
+50,102
+121,182
+Cost of Triangulation from DP is 1533.209589
+Cost of Triangulation is 1533.209589
+
+Number of Vertices: 10
+84,58
+36,94
+86,56
+176,92
+54,58
+164,57
+66,150
+0,112
+8,81
+34,35
+Cost of Triangulation from DP is 1439.434197
+Cost of Triangulation is 1439.434197
+
+Number of Vertices: 11
+29,68
+55,125
+78,152
+75,35
+24,93
+39,176
+60,194
+162,101
+43,13
+40,184
+75,40
+Cost of Triangulation from DP is 2051.415496
+Cost of Triangulation is 2051.415496
+
+Number of Vertices: 11
+181,77
+11,11
+130,149
+98,81
+101,120
+116,14
+51,106
+163,22
+136,34
+72,99
+63,193
+Cost of Triangulation from DP is 2181.625387
+Cost of Triangulation is 2181.625387
+
+Number of Vertices: 11
+103,130
+15,180
+149,149
+32,10
+57,81
+72,17
+26,22
+150,195
+113,60
+40,190
+130,161
+Cost of Triangulation from DP is 2227.191089
+Cost of Triangulation is 2227.191089
+
+Number of Vertices: 11
+144,84
+65,155
+160,30
+184,46
+189,197
+182,198
+20,180
+5,169
+26,43
+193,116
+10,55
+Cost of Triangulation from DP is 2723.845109
+Cost of Triangulation is 2723.845109
+
+Number of Vertices: 11
+13,60
+165,172
+165,172
+19,140
+42,17
+0,168
+57,190
+37,150
+31,130
+108,150
+126,31
+Cost of Triangulation from DP is 1971.037120
+Cost of Triangulation is 1971.037120
+
+Number of Vertices: 11
+109,139
+174,70
+146,165
+63,140
+167,170
+123,182
+153,15
+142,159
+5,193
+138,43
+186,80
+Cost of Triangulation from DP is 1962.119712
+Cost of Triangulation is 1962.119712
+
+Number of Vertices: 11
+20,95
+8,178
+181,153
+1,57
+37,143
+38,68
+18,87
+192,115
+93,94
+37,192
+175,177
+Cost of Triangulation from DP is 2342.554449
+Cost of Triangulation is 2342.554449
+
+Number of Vertices: 11
+139,70
+174,125
+167,192
+13,94
+191,72
+185,148
+48,130
+111,16
+58,113
+18,129
+82,87
+Cost of Triangulation from DP is 2127.805532
+Cost of Triangulation is 2127.805532
+
+Number of Vertices: 11
+177,135
+182,1
+93,150
+146,185
+82,64
+76,59
+49,199
+157,197
+179,162
+184,63
+142,113
+Cost of Triangulation from DP is 2065.794166
+Cost of Triangulation is 2065.794166
+
+Number of Vertices: 11
+20,90
+42,20
+69,31
+149,119
+8,148
+131,47
+171,181
+105,155
+12,71
+161,95
+26,194
+Cost of Triangulation from DP is 2481.542402
+Cost of Triangulation is 2481.542402
+
+Number of Vertices: 11
+118,112
+85,93
+120,5
+134,174
+4,188
+170,124
+138,175
+65,43
+187,163
+63,77
+198,43
+Cost of Triangulation from DP is 2265.654398
+Cost of Triangulation is 2265.654398
+
+Number of Vertices: 11
+6,154
+22,6
+102,57
+136,117
+8,189
+151,86
+180,161
+75,24
+152,20
+104,91
+49,133
+Cost of Triangulation from DP is 2255.829563
+Cost of Triangulation is 2255.829563
+
+Number of Vertices: 11
+171,193
+195,77
+174,20
+64,13
+28,37
+19,47
+73,127
+61,8
+52,49
+175,178
+182,111
+Cost of Triangulation from DP is 2001.834861
+Cost of Triangulation is 2001.834861
+
+Number of Vertices: 11
+25,107
+152,123
+66,184
+57,11
+123,180
+58,119
+126,88
+194,133
+7,22
+188,88
+58,146
+Cost of Triangulation from DP is 2374.588064
+Cost of Triangulation is 2374.588064
+
+Number of Vertices: 11
+162,1
+75,141
+104,147
+177,27
+23,193
+199,22
+149,20
+52,130
+115,77
+122,55
+78,147
+Cost of Triangulation from DP is 2079.597539
+Cost of Triangulation is 2079.597539
+
+Number of Vertices: 11
+0,28
+91,190
+35,33
+21,85
+31,151
+181,168
+172,45
+93,126
+107,196
+187,193
+150,28
+Cost of Triangulation from DP is 2738.205426
+Cost of Triangulation is 2738.205426
+
+Number of Vertices: 11
+109,157
+144,22
+94,3
+83,0
+87,98
+167,188
+80,83
+45,64
+107,115
+183,69
+5,77
+Cost of Triangulation from DP is 1994.304284
+Cost of Triangulation is 1994.304284
+
+Number of Vertices: 11
+30,123
+22,87
+163,88
+137,114
+65,170
+28,123
+166,145
+115,143
+107,45
+130,48
+67,191
+Cost of Triangulation from DP is 2075.300147
+Cost of Triangulation is 2075.300147
+
+Number of Vertices: 11
+163,188
+106,147
+182,16
+131,115
+156,42
+130,142
+44,179
+197,25
+35,196
+33,190
+143,66
+Cost of Triangulation from DP is 2093.236906
+Cost of Triangulation is 2093.236906
+
+Number of Vertices: 11
+169,177
+134,191
+43,87
+162,24
+187,67
+195,146
+140,193
+154,54
+166,88
+54,152
+0,83
+Cost of Triangulation from DP is 2331.721529
+Cost of Triangulation is 2331.721529
+
+Number of Vertices: 11
+180,11
+176,39
+84,123
+42,129
+71,61
+191,63
+175,79
+31,185
+76,55
+115,68
+24,93
+Cost of Triangulation from DP is 2120.465198
+Cost of Triangulation is 2120.465198
+
+Number of Vertices: 11
+80,12
+37,51
+178,51
+41,46
+89,185
+168,51
+35,43
+109,142
+69,17
+89,173
+153,190
+Cost of Triangulation from DP is 2265.284891
+Cost of Triangulation is 2265.284891
+
+Number of Vertices: 11
+67,115
+97,108
+178,0
+26,104
+146,172
+115,43
+62,165
+155,87
+42,149
+184,127
+89,16
+Cost of Triangulation from DP is 2398.822540
+Cost of Triangulation is 2398.822540
+
+Number of Vertices: 11
+117,46
+145,192
+76,135
+65,87
+168,199
+53,95
+26,35
+166,17
+169,19
+179,47
+105,173
+Cost of Triangulation from DP is 2073.513764
+Cost of Triangulation is 2073.513764
+
+Number of Vertices: 11
+147,139
+117,99
+138,161
+185,122
+89,44
+64,166
+156,136
+157,117
+30,75
+12,75
+46,179
+Cost of Triangulation from DP is 1843.584671
+Cost of Triangulation is 1843.584671
+
+Number of Vertices: 11
+196,6
+178,91
+65,82
+19,65
+83,35
+178,111
+159,196
+79,52
+112,60
+144,115
+132,120
+Cost of Triangulation from DP is 1808.685304
+Cost of Triangulation is 1808.685304
+
+Number of Vertices: 11
+176,61
+199,78
+136,175
+89,89
+98,27
+168,192
+137,185
+8,82
+65,44
+26,152
+52,42
+Cost of Triangulation from DP is 2360.089764
+Cost of Triangulation is 2360.089764
+
+Number of Vertices: 11
+49,15
+86,181
+24,102
+196,55
+99,198
+65,128
+188,80
+98,149
+81,28
+182,133
+71,147
+Cost of Triangulation from DP is 2276.477830
+Cost of Triangulation is 2276.477830
+
+Number of Vertices: 11
+31,119
+5,165
+14,166
+168,147
+199,129
+16,21
+149,173
+166,127
+108,41
+93,134
+196,47
+Cost of Triangulation from DP is 2163.923168
+Cost of Triangulation is 2163.923168
+
+Number of Vertices: 11
+197,124
+147,35
+46,16
+98,156
+70,69
+5,147
+174,149
+168,57
+163,127
+199,62
+115,80
+Cost of Triangulation from DP is 2222.679954
+Cost of Triangulation is 2222.679954
+
+Number of Vertices: 11
+5,128
+1,32
+123,154
+71,107
+197,54
+88,154
+100,77
+151,26
+95,120
+6,27
+82,49
+Cost of Triangulation from DP is 2036.803070
+Cost of Triangulation is 2036.803070
+
+Number of Vertices: 11
+48,34
+195,26
+179,102
+23,43
+93,12
+157,88
+104,122
+133,91
+114,193
+138,12
+124,195
+Cost of Triangulation from DP is 2378.511805
+Cost of Triangulation is 2378.511805
+
+Number of Vertices: 11
+156,37
+199,150
+121,146
+131,52
+133,102
+18,181
+6,146
+11,53
+62,133
+29,199
+41,62
+Cost of Triangulation from DP is 2145.200102
+Cost of Triangulation is 2145.200102
+
+Number of Vertices: 11
+76,144
+118,124
+157,171
+103,191
+149,46
+135,110
+38,90
+62,35
+114,26
+168,184
+70,160
+Cost of Triangulation from DP is 2027.666361
+Cost of Triangulation is 2027.666361
+
+Number of Vertices: 11
+70,134
+28,181
+181,17
+13,136
+78,115
+122,79
+21,118
+198,116
+151,21
+22,153
+92,138
+Cost of Triangulation from DP is 2129.981806
+Cost of Triangulation is 2129.981806
+
+Number of Vertices: 11
+8,59
+161,86
+110,77
+142,86
+153,125
+4,70
+69,93
+169,37
+123,120
+191,77
+128,41
+Cost of Triangulation from DP is 1743.694244
+Cost of Triangulation is 1743.694244
+
+Number of Vertices: 11
+37,85
+149,152
+124,29
+59,55
+2,134
+17,173
+98,141
+29,76
+50,108
+91,163
+162,108
+Cost of Triangulation from DP is 1912.601402
+Cost of Triangulation is 1912.601402
+
+Number of Vertices: 11
+14,55
+162,142
+125,12
+83,26
+115,114
+188,26
+111,67
+83,87
+28,156
+171,149
+57,45
+Cost of Triangulation from DP is 2176.938564
+Cost of Triangulation is 2176.938564
+
+Number of Vertices: 11
+198,192
+197,49
+107,6
+100,127
+168,83
+55,32
+188,150
+105,58
+87,160
+183,151
+53,137
+Cost of Triangulation from DP is 2371.794071
+Cost of Triangulation is 2371.794071
+
+Number of Vertices: 11
+170,79
+66,11
+130,27
+96,195
+25,113
+82,75
+175,117
+3,153
+100,98
+79,181
+110,11
+Cost of Triangulation from DP is 2305.802254
+Cost of Triangulation is 2305.802254
+
+Number of Vertices: 11
+176,106
+37,181
+26,71
+129,2
+22,188
+36,79
+149,175
+74,178
+133,114
+77,193
+46,87
+Cost of Triangulation from DP is 2312.748951
+Cost of Triangulation is 2312.748951
+
+Number of Vertices: 11
+75,27
+132,174
+195,37
+150,12
+58,22
+5,70
+135,77
+173,75
+17,63
+117,108
+178,43
+Cost of Triangulation from DP is 2139.230607
+Cost of Triangulation is 2139.230607
+
+Number of Vertices: 11
+75,37
+107,118
+12,28
+168,114
+159,178
+27,56
+159,176
+19,75
+159,145
+149,192
+28,72
+Cost of Triangulation from DP is 2197.289371
+Cost of Triangulation is 2197.289371
+
+Number of Vertices: 11
+190,18
+128,170
+100,28
+176,20
+69,166
+56,101
+111,150
+26,94
+164,9
+194,57
+51,125
+Cost of Triangulation from DP is 2299.744937
+Cost of Triangulation is 2299.744937
+
+Number of Vertices: 11
+114,196
+150,22
+122,110
+163,58
+37,3
+197,100
+185,84
+31,179
+38,181
+65,31
+37,166
+Cost of Triangulation from DP is 2130.487159
+Cost of Triangulation is 2130.487159
+
+Number of Vertices: 11
+179,191
+102,107
+165,174
+109,147
+175,129
+135,141
+51,123
+57,64
+183,194
+113,162
+159,98
+Cost of Triangulation from DP is 1712.244255
+Cost of Triangulation is 1712.244255
+
+Number of Vertices: 11
+80,180
+161,119
+85,22
+40,60
+61,127
+101,191
+171,188
+105,119
+106,137
+154,23
+24,125
+Cost of Triangulation from DP is 2074.586478
+Cost of Triangulation is 2074.586478
+
+Number of Vertices: 11
+112,73
+168,194
+74,94
+154,82
+1,115
+12,103
+29,95
+170,84
+157,140
+0,102
+28,7
+Cost of Triangulation from DP is 2075.000024
+Cost of Triangulation is 2075.000024
+
+Number of Vertices: 11
+24,89
+180,21
+135,112
+59,107
+180,87
+3,178
+70,57
+165,163
+45,96
+111,31
+170,52
+Cost of Triangulation from DP is 2360.846205
+Cost of Triangulation is 2360.846205
+
+Number of Vertices: 11
+28,31
+118,85
+9,22
+145,47
+61,68
+190,6
+73,181
+4,98
+82,1
+130,112
+21,104
+Cost of Triangulation from DP is 2364.573672
+Cost of Triangulation is 2364.573672
+
+Number of Vertices: 12
+10,41
+194,138
+84,43
+122,131
+182,147
+143,89
+79,60
+188,174
+141,25
+156,198
+179,93
+129,55
+Cost of Triangulation from DP is 2412.665692
+Cost of Triangulation is 2412.665692
+
+Number of Vertices: 12
+82,82
+99,163
+40,71
+183,0
+134,174
+123,28
+159,172
+22,69
+10,53
+100,62
+149,153
+81,90
+Cost of Triangulation from DP is 2286.536747
+Cost of Triangulation is 2286.536747
+
+Number of Vertices: 12
+45,38
+103,90
+113,19
+68,28
+118,90
+142,21
+96,32
+35,169
+193,101
+179,9
+151,176
+179,30
+Cost of Triangulation from DP is 2296.596164
+Cost of Triangulation is 2296.596164
+
+Number of Vertices: 12
+198,82
+52,95
+152,54
+189,57
+108,168
+127,66
+154,181
+114,152
+85,46
+130,139
+30,161
+19,46
+Cost of Triangulation from DP is 2372.043043
+Cost of Triangulation is 2372.043043
+
+Number of Vertices: 12
+76,192
+16,4
+141,117
+19,123
+26,121
+108,148
+50,164
+48,75
+71,42
+75,89
+25,142
+152,6
+Cost of Triangulation from DP is 2247.884323
+Cost of Triangulation is 2247.884323
+
+Number of Vertices: 12
+13,53
+9,177
+77,156
+29,77
+35,158
+68,10
+52,58
+156,158
+149,141
+8,111
+109,193
+196,31
+Cost of Triangulation from DP is 2738.972538
+Cost of Triangulation is 2738.972538
+
+Number of Vertices: 12
+27,98
+131,174
+17,53
+75,133
+79,40
+15,78
+199,33
+184,35
+107,74
+171,178
+193,99
+87,42
+Cost of Triangulation from DP is 2364.204144
+Cost of Triangulation is 2364.204144
+
+Number of Vertices: 12
+44,184
+70,57
+145,133
+29,56
+50,42
+143,10
+188,66
+72,181
+137,108
+100,197
+73,21
+171,86
+Cost of Triangulation from DP is 2544.067397
+Cost of Triangulation is 2544.067397
+
+Number of Vertices: 12
+184,143
+90,109
+164,54
+181,175
+32,30
+89,82
+35,153
+6,125
+72,89
+176,138
+65,133
+148,99
+Cost of Triangulation from DP is 2166.169484
+Cost of Triangulation is 2166.169484
+
+Number of Vertices: 12
+49,94
+133,177
+188,82
+71,103
+134,140
+193,9
+136,36
+75,176
+152,52
+37,45
+42,189
+117,102
+Cost of Triangulation from DP is 2445.996428
+Cost of Triangulation is 2445.996428
+
+Number of Vertices: 12
+138,52
+80,72
+76,108
+157,99
+54,8
+18,174
+126,132
+141,71
+78,73
+114,102
+70,59
+29,91
+Cost of Triangulation from DP is 1843.525467
+Cost of Triangulation is 1843.525467
+
+Number of Vertices: 12
+53,155
+165,185
+53,155
+184,7
+108,97
+193,185
+162,9
+102,28
+188,40
+30,123
+77,179
+101,48
+Cost of Triangulation from DP is 2467.548016
+Cost of Triangulation is 2467.548016
+
+Number of Vertices: 12
+104,91
+118,98
+30,11
+51,86
+102,136
+137,16
+13,144
+177,28
+100,58
+105,133
+129,62
+87,33
+Cost of Triangulation from DP is 1942.160895
+Cost of Triangulation is 1942.160895
+
+Number of Vertices: 12
+140,196
+29,33
+57,91
+137,138
+112,89
+9,22
+35,152
+145,86
+148,25
+48,118
+167,71
+42,57
+Cost of Triangulation from DP is 2341.273474
+Cost of Triangulation is 2341.273474
+
+Number of Vertices: 12
+55,67
+150,168
+173,18
+55,86
+79,113
+126,24
+37,116
+20,167
+28,182
+55,144
+7,153
+198,120
+Cost of Triangulation from DP is 2153.568506
+Cost of Triangulation is 2153.568506
+
+Number of Vertices: 12
+101,38
+8,67
+147,33
+128,18
+110,115
+131,67
+11,177
+83,193
+90,154
+36,109
+41,132
+164,69
+Cost of Triangulation from DP is 1987.424158
+Cost of Triangulation is 1987.424158
+
+Number of Vertices: 12
+25,53
+178,13
+86,132
+31,85
+120,51
+111,177
+53,164
+0,24
+196,94
+17,68
+190,28
+71,182
+Cost of Triangulation from DP is 2943.882526
+Cost of Triangulation is 2943.882526
+
+Number of Vertices: 12
+171,81
+116,87
+26,172
+166,57
+61,111
+153,131
+129,35
+98,153
+131,195
+119,43
+58,146
+72,169
+Cost of Triangulation from DP is 2316.182053
+Cost of Triangulation is 2316.182053
+
+Number of Vertices: 12
+150,109
+105,55
+150,177
+113,17
+4,89
+36,139
+5,40
+5,44
+88,129
+148,19
+61,83
+131,124
+Cost of Triangulation from DP is 2163.049929
+Cost of Triangulation is 2163.049929
+
+Number of Vertices: 12
+98,169
+148,144
+50,92
+2,196
+107,130
+89,40
+56,140
+160,123
+26,51
+102,152
+85,82
+21,99
+Cost of Triangulation from DP is 2117.113008
+Cost of Triangulation is 2117.113008
+
+Number of Vertices: 12
+17,122
+171,184
+19,61
+56,162
+183,190
+162,116
+15,18
+53,143
+99,7
+78,59
+118,177
+122,142
+Cost of Triangulation from DP is 2721.081830
+Cost of Triangulation is 2721.081830
+
+Number of Vertices: 12
+146,57
+0,198
+181,172
+73,95
+40,182
+189,87
+168,28
+60,169
+148,142
+50,77
+19,169
+102,146
+Cost of Triangulation from DP is 2827.471589
+Cost of Triangulation is 2827.471589
+
+Number of Vertices: 12
+19,139
+186,49
+84,167
+18,187
+7,10
+163,52
+127,85
+32,94
+69,56
+117,94
+120,107
+25,164
+Cost of Triangulation from DP is 2347.061946
+Cost of Triangulation is 2347.061946
+
+Number of Vertices: 12
+81,79
+138,114
+196,109
+178,65
+32,113
+87,188
+165,105
+171,17
+57,59
+184,190
+187,181
+70,68
+Cost of Triangulation from DP is 2405.614256
+Cost of Triangulation is 2405.614256
+
+Number of Vertices: 12
+27,70
+21,171
+13,159
+25,77
+166,5
+84,144
+37,40
+180,110
+116,103
+19,77
+98,44
+0,98
+Cost of Triangulation from DP is 2018.103787
+Cost of Triangulation is 2018.103787
+
+Number of Vertices: 12
+2,141
+193,132
+81,154
+167,55
+166,164
+115,147
+81,57
+117,11
+136,108
+53,46
+175,95
+176,148
+Cost of Triangulation from DP is 2201.620729
+Cost of Triangulation is 2201.620729
+
+Number of Vertices: 12
+44,25
+0,117
+180,22
+64,39
+50,107
+112,175
+167,97
+159,73
+18,11
+61,51
+165,120
+103,68
+Cost of Triangulation from DP is 2372.952127
+Cost of Triangulation is 2372.952127
+
+Number of Vertices: 12
+54,151
+0,26
+145,16
+154,120
+75,60
+40,31
+157,43
+187,131
+144,42
+182,85
+2,197
+120,39
+Cost of Triangulation from DP is 2407.502366
+Cost of Triangulation is 2407.502366
+
+Number of Vertices: 12
+27,109
+120,146
+13,78
+111,179
+149,106
+47,15
+10,44
+134,134
+26,2
+26,168
+190,80
+104,25
+Cost of Triangulation from DP is 2865.590247
+Cost of Triangulation is 2865.590247
+
+Number of Vertices: 12
+90,22
+64,190
+10,9
+175,67
+138,187
+2,108
+166,106
+69,193
+77,128
+118,57
+126,130
+57,56
+Cost of Triangulation from DP is 2734.275322
+Cost of Triangulation is 2734.275322
+
+Number of Vertices: 12
+61,102
+64,22
+171,112
+131,192
+4,52
+166,89
+14,122
+108,51
+95,130
+5,28
+134,4
+139,184
+Cost of Triangulation from DP is 2892.407661
+Cost of Triangulation is 2892.407661
+
+Number of Vertices: 12
+188,187
+7,125
+70,85
+86,176
+38,183
+18,82
+124,47
+16,152
+54,33
+97,68
+68,144
+56,10
+Cost of Triangulation from DP is 2587.755776
+Cost of Triangulation is 2587.755776
+
+Number of Vertices: 12
+35,42
+133,98
+6,108
+65,3
+64,39
+61,134
+19,50
+173,131
+100,179
+14,77
+120,126
+48,142
+Cost of Triangulation from DP is 2289.073939
+Cost of Triangulation is 2289.073939
+
+Number of Vertices: 12
+140,139
+64,158
+93,148
+188,188
+23,190
+108,36
+166,191
+100,180
+21,116
+182,96
+170,187
+13,131
+Cost of Triangulation from DP is 2534.407848
+Cost of Triangulation is 2534.407848
+
+Number of Vertices: 12
+94,95
+153,106
+137,86
+56,32
+147,102
+152,94
+14,24
+70,118
+178,21
+121,48
+59,199
+178,34
+Cost of Triangulation from DP is 2042.387295
+Cost of Triangulation is 2042.387295
+
+Number of Vertices: 12
+75,116
+161,160
+16,185
+1,77
+47,5
+185,161
+156,191
+5,171
+78,75
+109,47
+124,154
+29,161
+Cost of Triangulation from DP is 2808.174396
+Cost of Triangulation is 2808.174396
+
+Number of Vertices: 12
+14,22
+140,99
+144,127
+64,44
+92,3
+135,98
+115,125
+98,88
+154,174
+84,134
+193,82
+38,165
+Cost of Triangulation from DP is 2112.508948
+Cost of Triangulation is 2112.508948
+
+Number of Vertices: 12
+51,159
+124,134
+48,52
+62,103
+140,156
+113,22
+38,132
+195,89
+30,55
+111,193
+184,75
+48,9
+Cost of Triangulation from DP is 2820.090854
+Cost of Triangulation is 2820.090854
+
+Number of Vertices: 12
+64,171
+43,93
+57,145
+44,90
+53,148
+122,15
+83,61
+31,156
+74,159
+175,53
+20,78
+194,168
+Cost of Triangulation from DP is 2058.624993
+Cost of Triangulation is 2058.624993
+
+Number of Vertices: 12
+35,168
+102,2
+155,77
+50,157
+173,4
+80,121
+130,30
+128,121
+101,99
+103,11
+179,123
+173,166
+Cost of Triangulation from DP is 2640.581848
+Cost of Triangulation is 2640.581848
+
+Number of Vertices: 12
+45,100
+183,60
+94,11
+64,108
+67,157
+99,186
+87,29
+36,53
+30,154
+63,167
+190,41
+173,30
+Cost of Triangulation from DP is 2365.590783
+Cost of Triangulation is 2365.590783
+
+Number of Vertices: 12
+2,85
+67,184
+187,12
+67,3
+142,98
+175,61
+36,130
+188,121
+46,20
+104,93
+185,178
+166,136
+Cost of Triangulation from DP is 2831.727765
+Cost of Triangulation is 2831.727765
+
+Number of Vertices: 12
+191,27
+83,149
+28,133
+51,102
+141,84
+32,130
+48,39
+167,99
+13,193
+0,96
+95,92
+51,112
+Cost of Triangulation from DP is 2179.124657
+Cost of Triangulation is 2179.124657
+
+Number of Vertices: 12
+113,190
+22,53
+182,79
+86,83
+190,11
+143,127
+36,121
+40,27
+67,4
+111,158
+7,154
+123,85
+Cost of Triangulation from DP is 2649.216985
+Cost of Triangulation is 2649.216985
+
+Number of Vertices: 12
+48,198
+131,108
+178,34
+107,3
+120,173
+183,174
+84,4
+147,142
+199,3
+92,84
+156,168
+93,85
+Cost of Triangulation from DP is 2427.624767
+Cost of Triangulation is 2427.624767
+
+Number of Vertices: 12
+170,8
+68,59
+35,134
+125,199
+143,102
+151,15
+27,91
+157,149
+35,32
+6,74
+56,101
+138,63
+Cost of Triangulation from DP is 2297.803110
+Cost of Triangulation is 2297.803110
+
+Number of Vertices: 12
+93,38
+121,179
+133,15
+100,29
+147,70
+184,42
+164,16
+130,33
+189,175
+145,17
+135,144
+167,150
+Cost of Triangulation from DP is 1924.222027
+Cost of Triangulation is 1924.222027
+
+Number of Vertices: 12
+113,127
+39,88
+123,181
+95,102
+80,95
+89,129
+105,165
+170,133
+188,16
+38,166
+29,190
+103,164
+Cost of Triangulation from DP is 1820.252529
+Cost of Triangulation is 1820.252529
+
+Number of Vertices: 12
+176,148
+142,21
+67,71
+102,100
+174,81
+187,15
+13,196
+93,184
+99,101
+61,44
+24,0
+137,194
+Cost of Triangulation from DP is 2757.750074
+Cost of Triangulation is 2757.750074
+
+Number of Vertices: 12
+125,160
+73,186
+76,84
+88,61
+192,151
+45,140
+158,9
+152,63
+82,34
+195,32
+46,149
+108,42
+Cost of Triangulation from DP is 2428.373560
+Cost of Triangulation is 2428.373560
+
+Number of Vertices: 13
+97,16
+116,4
+123,136
+18,86
+196,122
+178,142
+19,174
+26,3
+92,7
+31,86
+79,9
+58,148
+55,73
+Cost of Triangulation from DP is 2616.508759
+Cost of Triangulation is 2616.508759
+
+Number of Vertices: 13
+39,28
+41,92
+15,115
+4,109
+170,72
+86,170
+2,137
+94,102
+95,178
+60,36
+109,4
+130,77
+14,35
+Cost of Triangulation from DP is 2209.763379
+Cost of Triangulation is 2209.763379
+
+Number of Vertices: 13
+67,184
+86,114
+139,5
+186,73
+115,161
+148,14
+142,153
+4,113
+54,24
+85,39
+11,97
+3,68
+111,28
+Cost of Triangulation from DP is 2682.617272
+Cost of Triangulation is 2682.617272
+
+Number of Vertices: 13
+174,126
+39,21
+95,156
+177,24
+72,63
+108,164
+168,10
+20,113
+142,159
+171,132
+116,18
+43,49
+115,119
+Cost of Triangulation from DP is 2752.946591
+Cost of Triangulation is 2752.946591
+
+Number of Vertices: 13
+28,60
+95,25
+101,144
+96,139
+38,64
+147,81
+172,156
+126,151
+60,67
+114,67
+65,70
+143,3
+85,155
+Cost of Triangulation from DP is 2147.954025
+Cost of Triangulation is 2147.954025
+
+Number of Vertices: 13
+118,42
+167,191
+89,162
+9,27
+172,198
+118,179
+20,79
+148,84
+154,132
+46,171
+117,47
+75,195
+32,54
+Cost of Triangulation from DP is 2934.352681
+Cost of Triangulation is 2934.352681
+
+Number of Vertices: 13
+162,40
+111,125
+14,175
+149,43
+81,135
+8,129
+124,77
+162,118
+141,157
+86,72
+196,1
+67,184
+71,112
+Cost of Triangulation from DP is 2620.234812
+Cost of Triangulation is 2620.234812
+
+Number of Vertices: 13
+72,149
+106,175
+174,106
+8,69
+82,113
+89,86
+58,31
+104,113
+138,85
+55,72
+178,128
+113,55
+62,66
+Cost of Triangulation from DP is 2011.850851
+Cost of Triangulation is 2011.850851
+
+Number of Vertices: 13
+127,18
+30,80
+78,124
+194,132
+177,129
+186,137
+63,16
+128,106
+158,42
+59,23
+1,78
+53,181
+167,77
+Cost of Triangulation from DP is 2680.676806
+Cost of Triangulation is 2680.676806
+
+Number of Vertices: 13
+53,140
+33,108
+69,106
+169,194
+44,120
+75,17
+186,17
+172,119
+91,27
+188,78
+66,90
+199,25
+63,155
+Cost of Triangulation from DP is 2312.103638
+Cost of Triangulation is 2312.103638
+
+Number of Vertices: 13
+143,171
+51,193
+143,171
+17,41
+47,181
+127,62
+70,121
+89,23
+134,126
+121,88
+84,151
+39,143
+105,192
+Cost of Triangulation from DP is 2222.159744
+Cost of Triangulation is 2222.159744
+
+Number of Vertices: 13
+155,144
+121,82
+138,113
+140,193
+50,153
+194,25
+94,199
+114,51
+48,77
+70,100
+20,108
+34,32
+95,72
+Cost of Triangulation from DP is 2219.132471
+Cost of Triangulation is 2219.132471
+
+Number of Vertices: 13
+128,112
+100,0
+101,4
+127,129
+193,169
+95,186
+37,138
+132,104
+34,12
+153,68
+190,177
+37,40
+59,198
+Cost of Triangulation from DP is 2688.814964
+Cost of Triangulation is 2688.814964
+
+Number of Vertices: 13
+83,26
+122,3
+180,128
+55,196
+101,120
+119,178
+107,193
+94,144
+163,48
+166,152
+11,51
+169,11
+21,111
+Cost of Triangulation from DP is 2750.588890
+Cost of Triangulation is 2750.588890
+
+Number of Vertices: 13
+175,1
+37,39
+156,111
+163,114
+182,91
+31,163
+85,166
+111,48
+89,62
+136,93
+184,18
+74,182
+98,170
+Cost of Triangulation from DP is 2627.031031
+Cost of Triangulation is 2627.031031
+
+Number of Vertices: 13
+179,68
+159,174
+60,179
+31,48
+97,42
+42,165
+69,43
+149,41
+190,166
+133,50
+163,78
+181,110
+69,178
+Cost of Triangulation from DP is 2598.273392
+Cost of Triangulation is 2598.273392
+
+Number of Vertices: 13
+124,184
+108,48
+138,136
+127,148
+190,74
+197,86
+71,99
+80,23
+180,123
+61,140
+139,116
+97,152
+162,75
+Cost of Triangulation from DP is 2160.452813
+Cost of Triangulation is 2160.452813
+
+Number of Vertices: 13
+112,14
+182,71
+99,48
+176,6
+66,90
+75,34
+160,77
+6,66
+189,7
+138,101
+2,78
+129,57
+86,198
+Cost of Triangulation from DP is 2495.961872
+Cost of Triangulation is 2495.961872
+
+Number of Vertices: 13
+70,142
+60,42
+192,90
+69,193
+1,70
+103,39
+42,149
+40,0
+116,54
+85,66
+100,53
+121,93
+123,185
+Cost of Triangulation from DP is 2426.489971
+Cost of Triangulation is 2426.489971
+
+Number of Vertices: 13
+135,123
+137,55
+67,14
+64,174
+107,147
+100,92
+44,64
+162,160
+127,30
+20,93
+64,176
+187,113
+116,69
+Cost of Triangulation from DP is 2597.959203
+Cost of Triangulation is 2597.959203
+
+Number of Vertices: 13
+82,12
+82,191
+82,50
+159,56
+90,188
+95,139
+191,12
+125,194
+49,188
+16,23
+183,109
+71,163
+43,112
+Cost of Triangulation from DP is 2908.914634
+Cost of Triangulation is 2908.914634
+
+Number of Vertices: 13
+86,165
+182,27
+151,73
+135,26
+178,37
+88,71
+50,54
+27,21
+88,2
+111,145
+22,129
+131,29
+189,85
+Cost of Triangulation from DP is 2270.086510
+Cost of Triangulation is 2270.086510
+
+Number of Vertices: 13
+116,147
+120,91
+120,22
+57,27
+60,134
+147,14
+102,34
+12,115
+93,179
+116,197
+126,20
+5,18
+70,101
+Cost of Triangulation from DP is 2558.450162
+Cost of Triangulation is 2558.450162
+
+Number of Vertices: 13
+90,6
+30,40
+14,88
+18,143
+156,168
+1,25
+10,87
+93,105
+77,89
+27,72
+171,184
+39,27
+129,135
+Cost of Triangulation from DP is 2291.564811
+Cost of Triangulation is 2291.564811
+
+Number of Vertices: 13
+41,108
+41,70
+41,129
+108,164
+127,144
+6,7
+111,14
+136,0
+70,30
+43,93
+89,77
+28,172
+40,71
+Cost of Triangulation from DP is 2004.882458
+Cost of Triangulation is 2004.882458
+
+Number of Vertices: 13
+65,153
+32,116
+66,72
+59,179
+14,96
+96,62
+6,114
+90,55
+120,85
+75,191
+138,4
+176,18
+176,180
+Cost of Triangulation from DP is 2538.043840
+Cost of Triangulation is 2538.043840
+
+Number of Vertices: 13
+123,198
+7,121
+159,94
+29,172
+120,100
+166,115
+141,154
+163,91
+147,180
+75,175
+35,148
+69,33
+132,134
+Cost of Triangulation from DP is 2274.557156
+Cost of Triangulation is 2274.557156
+
+Number of Vertices: 13
+84,144
+86,102
+38,164
+118,180
+118,150
+65,123
+68,166
+86,106
+39,4
+87,139
+163,68
+59,13
+30,45
+Cost of Triangulation from DP is 2019.654207
+Cost of Triangulation is 2019.654207
+
+Number of Vertices: 13
+28,149
+117,164
+138,12
+24,59
+3,149
+46,159
+109,41
+61,70
+48,174
+72,157
+101,30
+11,174
+92,112
+Cost of Triangulation from DP is 2381.738467
+Cost of Triangulation is 2381.738467
+
+Number of Vertices: 13
+2,89
+164,125
+149,15
+104,152
+151,189
+157,59
+154,26
+60,127
+85,150
+50,4
+53,89
+156,80
+26,41
+Cost of Triangulation from DP is 2644.789118
+Cost of Triangulation is 2644.789118
+
+Number of Vertices: 13
+99,47
+111,162
+29,106
+143,18
+153,122
+71,167
+51,134
+108,74
+153,164
+16,24
+105,73
+188,144
+59,59
+Cost of Triangulation from DP is 2552.751811
+Cost of Triangulation is 2552.751811
+
+Number of Vertices: 13
+104,8
+134,185
+168,182
+70,105
+37,180
+139,180
+116,47
+39,166
+113,160
+101,28
+39,144
+53,181
+136,52
+Cost of Triangulation from DP is 2594.497247
+Cost of Triangulation is 2594.497247
+
+Number of Vertices: 13
+169,183
+116,172
+32,130
+13,23
+180,18
+8,189
+6,190
+23,119
+142,11
+172,50
+132,117
+91,70
+143,37
+Cost of Triangulation from DP is 2977.731355
+Cost of Triangulation is 2977.731355
+
+Number of Vertices: 13
+122,19
+180,150
+28,36
+190,79
+98,82
+75,18
+182,107
+149,185
+12,22
+131,11
+181,74
+101,182
+56,151
+Cost of Triangulation from DP is 3226.293359
+Cost of Triangulation is 3226.293359
+
+Number of Vertices: 13
+181,181
+13,175
+146,49
+70,138
+146,18
+97,144
+113,58
+185,193
+46,5
+183,117
+37,138
+11,37
+41,25
+Cost of Triangulation from DP is 3345.143119
+Cost of Triangulation is 3345.143119
+
+Number of Vertices: 13
+36,118
+135,86
+125,21
+56,180
+142,31
+71,13
+47,111
+167,90
+167,16
+19,46
+79,101
+180,152
+16,11
+Cost of Triangulation from DP is 2908.964561
+Cost of Triangulation is 2908.964561
+
+Number of Vertices: 13
+71,88
+162,72
+154,194
+23,98
+15,10
+102,103
+4,53
+142,80
+183,192
+43,96
+75,73
+99,146
+4,130
+Cost of Triangulation from DP is 2552.856169
+Cost of Triangulation is 2552.856169
+
+Number of Vertices: 13
+119,10
+129,26
+49,105
+46,29
+78,26
+157,61
+42,76
+140,44
+142,85
+71,130
+75,71
+87,169
+31,30
+Cost of Triangulation from DP is 2126.706415
+Cost of Triangulation is 2126.706415
+
+Number of Vertices: 13
+3,190
+113,72
+154,56
+169,143
+55,192
+98,30
+107,174
+65,145
+30,19
+145,187
+10,190
+66,98
+163,149
+Cost of Triangulation from DP is 2945.997859
+Cost of Triangulation is 2945.997859
+
+Number of Vertices: 13
+21,131
+146,134
+77,84
+2,144
+67,199
+171,88
+135,46
+59,79
+154,67
+198,57
+138,69
+46,142
+160,67
+Cost of Triangulation from DP is 2197.877175
+Cost of Triangulation is 2197.877175
+
+Number of Vertices: 13
+59,57
+173,194
+128,160
+47,37
+144,98
+186,155
+98,126
+136,86
+138,111
+21,113
+119,35
+125,70
+101,153
+Cost of Triangulation from DP is 2173.911245
+Cost of Triangulation is 2173.911245
+
+Number of Vertices: 13
+38,24
+20,104
+83,177
+154,81
+74,80
+143,187
+33,3
+34,179
+88,164
+178,12
+44,126
+42,181
+105,87
+Cost of Triangulation from DP is 2844.240235
+Cost of Triangulation is 2844.240235
+
+Number of Vertices: 13
+11,41
+73,179
+85,179
+164,159
+128,113
+15,97
+160,173
+34,40
+75,172
+185,144
+108,63
+15,112
+191,169
+Cost of Triangulation from DP is 2880.236121
+Cost of Triangulation is 2880.236121
+
+Number of Vertices: 13
+169,75
+169,75
+161,77
+116,34
+175,117
+17,161
+2,139
+82,82
+142,3
+142,12
+25,180
+115,82
+93,68
+Cost of Triangulation from DP is 2143.608604
+Cost of Triangulation is 2143.608604
+
+Number of Vertices: 13
+96,173
+88,137
+196,62
+88,190
+100,96
+140,5
+184,122
+7,11
+120,38
+166,145
+135,195
+76,146
+143,67
+Cost of Triangulation from DP is 2596.177263
+Cost of Triangulation is 2596.177263
+
+Number of Vertices: 13
+172,175
+82,34
+168,114
+112,189
+161,69
+127,195
+97,73
+138,103
+94,160
+30,103
+155,32
+154,182
+140,94
+Cost of Triangulation from DP is 2507.010347
+Cost of Triangulation is 2507.010347
+
+Number of Vertices: 13
+121,148
+60,136
+177,77
+136,155
+54,107
+55,52
+90,42
+154,77
+40,134
+18,38
+125,107
+86,118
+159,45
+Cost of Triangulation from DP is 2253.065888
+Cost of Triangulation is 2253.065888
+
+Number of Vertices: 13
+116,46
+15,94
+146,144
+49,99
+30,114
+34,194
+136,140
+70,148
+130,165
+156,21
+80,37
+39,171
+46,180
+Cost of Triangulation from DP is 2406.847750
+Cost of Triangulation is 2406.847750
+
+Number of Vertices: 13
+106,89
+154,3
+38,122
+127,78
+189,38
+115,64
+28,186
+175,16
+22,81
+13,88
+109,196
+183,103
+126,26
+Cost of Triangulation from DP is 2834.744883
+Cost of Triangulation is 2834.744883
+
+Number of Vertices: 13
+42,51
+15,45
+69,57
+19,72
+73,31
+88,151
+130,94
+172,155
+92,171
+45,69
+14,160
+106,10
+168,66
+Cost of Triangulation from DP is 2153.338813
+Cost of Triangulation is 2153.338813
+
+Number of Vertices: 14
+127,183
+187,187
+194,74
+109,79
+147,130
+153,121
+8,9
+104,191
+190,98
+67,109
+84,123
+198,128
+35,27
+13,79
+Cost of Triangulation from DP is 3097.181085
+Cost of Triangulation is 3097.181085
+
+Number of Vertices: 14
+104,57
+158,84
+54,43
+129,72
+29,45
+140,68
+92,147
+19,73
+96,90
+169,116
+45,154
+63,70
+142,34
+18,179
+Cost of Triangulation from DP is 2370.632662
+Cost of Triangulation is 2370.632662
+
+Number of Vertices: 14
+81,192
+81,192
+139,124
+130,121
+164,109
+116,120
+13,104
+31,150
+123,78
+10,137
+36,144
+115,145
+70,164
+34,133
+Cost of Triangulation from DP is 1609.089605
+Cost of Triangulation is 1609.089605
+
+Number of Vertices: 14
+25,181
+196,131
+32,17
+12,34
+2,161
+40,127
+106,37
+49,63
+147,91
+150,3
+70,86
+74,121
+190,194
+121,27
+Cost of Triangulation from DP is 3261.772784
+Cost of Triangulation is 3261.772784
+
+Number of Vertices: 14
+92,21
+122,74
+13,2
+95,0
+184,142
+67,126
+44,116
+182,155
+91,182
+91,45
+107,34
+166,21
+116,63
+12,64
+Cost of Triangulation from DP is 2546.151469
+Cost of Triangulation is 2546.151469
+
+Number of Vertices: 14
+111,163
+66,145
+56,141
+169,19
+195,179
+133,21
+77,93
+88,119
+168,197
+88,190
+111,39
+195,64
+61,74
+90,91
+Cost of Triangulation from DP is 2601.218991
+Cost of Triangulation is 2601.218991
+
+Number of Vertices: 14
+62,155
+41,97
+194,95
+45,131
+182,8
+64,189
+42,15
+180,64
+131,75
+51,80
+145,6
+41,189
+7,103
+124,59
+Cost of Triangulation from DP is 3261.397673
+Cost of Triangulation is 3261.397673
+
+Number of Vertices: 14
+39,139
+78,171
+84,120
+12,153
+68,170
+156,182
+197,44
+197,30
+64,45
+97,176
+194,13
+146,90
+187,64
+45,82
+Cost of Triangulation from DP is 2731.625404
+Cost of Triangulation is 2731.625404
+
+Number of Vertices: 14
+126,151
+20,56
+110,187
+173,141
+120,62
+42,146
+145,153
+1,32
+151,169
+65,79
+54,156
+90,103
+35,83
+16,87
+Cost of Triangulation from DP is 2531.491523
+Cost of Triangulation is 2531.491523
+
+Number of Vertices: 14
+104,76
+27,126
+102,52
+107,69
+21,41
+23,5
+78,1
+199,190
+18,62
+124,61
+107,163
+122,17
+182,197
+65,33
+Cost of Triangulation from DP is 2635.442690
+Cost of Triangulation is 2635.442690
+
+Number of Vertices: 14
+103,44
+48,164
+104,133
+84,66
+40,41
+168,196
+141,146
+96,127
+105,164
+148,190
+56,54
+8,31
+156,171
+119,69
+Cost of Triangulation from DP is 2616.696989
+Cost of Triangulation is 2616.696989
+
+Number of Vertices: 14
+97,96
+115,96
+138,96
+29,123
+198,117
+136,151
+64,150
+99,20
+169,24
+72,60
+193,112
+121,23
+33,14
+164,136
+Cost of Triangulation from DP is 2674.649220
+Cost of Triangulation is 2674.649220
+
+Number of Vertices: 14
+154,98
+126,3
+145,188
+183,155
+26,38
+135,184
+143,163
+0,19
+118,164
+102,59
+90,55
+17,59
+183,129
+127,16
+Cost of Triangulation from DP is 2879.518796
+Cost of Triangulation is 2879.518796
+
+Number of Vertices: 14
+29,19
+26,101
+194,109
+20,37
+17,67
+153,118
+97,80
+26,148
+96,128
+42,71
+99,179
+171,100
+26,153
+110,178
+Cost of Triangulation from DP is 2788.586879
+Cost of Triangulation is 2788.586879
+
+Number of Vertices: 14
+122,105
+31,17
+140,116
+106,180
+147,60
+177,129
+134,198
+116,31
+176,87
+107,134
+119,65
+145,54
+107,141
+135,57
+Cost of Triangulation from DP is 2174.065537
+Cost of Triangulation is 2174.065537
+
+Number of Vertices: 14
+133,14
+130,125
+87,52
+138,118
+72,154
+196,23
+132,174
+133,95
+170,110
+154,152
+69,197
+34,132
+124,198
+62,179
+Cost of Triangulation from DP is 2419.973027
+Cost of Triangulation is 2419.973027
+
+Number of Vertices: 14
+12,95
+13,30
+94,99
+119,144
+5,149
+4,125
+57,63
+32,168
+20,77
+81,84
+54,152
+13,67
+87,32
+43,82
+Cost of Triangulation from DP is 2091.150141
+Cost of Triangulation is 2091.150141
+
+Number of Vertices: 14
+54,37
+181,150
+190,41
+151,17
+7,121
+191,80
+94,21
+71,181
+161,15
+43,19
+6,60
+39,188
+120,140
+59,3
+Cost of Triangulation from DP is 3239.578146
+Cost of Triangulation is 3239.578146
+
+Number of Vertices: 14
+13,185
+105,11
+81,43
+37,144
+44,156
+181,100
+55,56
+143,147
+66,26
+12,12
+92,85
+161,112
+186,73
+21,94
+Cost of Triangulation from DP is 2934.413692
+Cost of Triangulation is 2934.413692
+
+Number of Vertices: 14
+6,74
+113,176
+64,73
+57,80
+23,164
+160,144
+64,80
+145,159
+197,179
+195,17
+33,30
+50,86
+79,178
+145,178
+Cost of Triangulation from DP is 2841.683453
+Cost of Triangulation is 2841.683453
+
+Number of Vertices: 14
+155,5
+36,108
+179,82
+74,26
+16,92
+73,106
+35,33
+67,198
+110,89
+76,155
+154,85
+7,78
+110,117
+163,17
+Cost of Triangulation from DP is 2792.569465
+Cost of Triangulation is 2792.569465
+
+Number of Vertices: 14
+84,99
+139,176
+155,125
+183,33
+132,119
+139,199
+184,36
+57,82
+155,136
+159,59
+118,52
+57,77
+154,105
+79,46
+Cost of Triangulation from DP is 2348.234029
+Cost of Triangulation is 2348.234029
+
+Number of Vertices: 14
+99,84
+7,45
+13,85
+97,195
+99,125
+93,94
+58,97
+14,185
+178,31
+12,112
+37,143
+28,55
+12,147
+122,98
+Cost of Triangulation from DP is 2424.859272
+Cost of Triangulation is 2424.859272
+
+Number of Vertices: 14
+160,65
+160,65
+7,110
+138,196
+57,95
+197,166
+0,110
+68,195
+173,105
+125,4
+56,101
+6,126
+41,182
+143,129
+Cost of Triangulation from DP is 2994.502089
+Cost of Triangulation is 2994.502089
+
+Number of Vertices: 14
+36,91
+13,86
+68,110
+126,14
+66,22
+146,22
+105,8
+73,85
+89,58
+70,71
+69,193
+137,162
+138,38
+9,91
+Cost of Triangulation from DP is 2062.502781
+Cost of Triangulation is 2062.502781
+
+Number of Vertices: 14
+17,111
+61,29
+39,70
+174,153
+0,17
+40,6
+40,60
+148,34
+21,77
+30,145
+50,36
+162,73
+195,179
+180,183
+Cost of Triangulation from DP is 2705.022597
+Cost of Triangulation is 2705.022597
+
+Number of Vertices: 14
+168,37
+175,133
+159,138
+85,88
+100,67
+111,98
+65,193
+54,55
+132,117
+65,85
+188,4
+141,195
+21,181
+116,47
+Cost of Triangulation from DP is 2800.865512
+Cost of Triangulation is 2800.865512
+
+Number of Vertices: 14
+168,155
+24,173
+16,168
+187,27
+160,118
+9,147
+67,4
+170,113
+93,55
+148,27
+166,74
+151,116
+123,167
+157,49
+Cost of Triangulation from DP is 2890.393029
+Cost of Triangulation is 2890.393029
+
+Number of Vertices: 14
+63,67
+73,159
+114,146
+113,90
+71,176
+161,124
+35,30
+7,97
+152,136
+73,112
+95,183
+159,22
+41,170
+178,11
+Cost of Triangulation from DP is 2889.909190
+Cost of Triangulation is 2889.909190
+
+Number of Vertices: 14
+194,8
+158,197
+12,182
+9,109
+115,114
+98,173
+91,197
+32,13
+69,13
+59,93
+17,21
+170,28
+111,137
+128,99
+Cost of Triangulation from DP is 3069.210133
+Cost of Triangulation is 3069.210133
+
+Number of Vertices: 14
+172,5
+121,29
+136,94
+193,25
+25,16
+82,79
+168,140
+124,22
+20,14
+166,97
+141,76
+75,80
+41,159
+133,167
+Cost of Triangulation from DP is 2888.784797
+Cost of Triangulation is 2888.784797
+
+Number of Vertices: 14
+42,99
+56,9
+145,179
+67,170
+7,77
+74,133
+5,148
+52,100
+50,154
+41,144
+175,135
+34,155
+88,2
+74,80
+Cost of Triangulation from DP is 2403.033481
+Cost of Triangulation is 2403.033481
+
+Number of Vertices: 14
+100,152
+50,126
+50,126
+151,27
+104,82
+72,105
+82,149
+73,92
+189,9
+161,47
+61,62
+175,28
+36,65
+181,71
+Cost of Triangulation from DP is 2252.843690
+Cost of Triangulation is 2252.843690
+
+Number of Vertices: 14
+82,108
+118,28
+50,83
+26,188
+167,113
+81,39
+10,137
+158,135
+152,96
+61,116
+135,108
+116,16
+107,26
+90,68
+Cost of Triangulation from DP is 2397.736990
+Cost of Triangulation is 2397.736990
+
+Number of Vertices: 14
+74,190
+127,192
+66,26
+86,85
+80,35
+62,57
+42,163
+170,167
+198,36
+35,111
+96,167
+195,155
+76,88
+14,187
+Cost of Triangulation from DP is 2915.245906
+Cost of Triangulation is 2915.245906
+
+Number of Vertices: 14
+182,40
+7,4
+182,40
+20,130
+87,22
+116,45
+144,38
+30,193
+145,15
+199,4
+71,27
+193,144
+104,171
+69,93
+Cost of Triangulation from DP is 3100.157824
+Cost of Triangulation is 3100.157824
+
+Number of Vertices: 14
+7,145
+62,0
+124,191
+94,151
+75,42
+199,59
+166,167
+27,169
+132,43
+46,193
+115,53
+141,66
+41,72
+125,28
+Cost of Triangulation from DP is 3128.603406
+Cost of Triangulation is 3128.603406
+
+Number of Vertices: 14
+110,188
+186,166
+75,190
+172,196
+187,3
+76,159
+172,129
+161,46
+3,14
+92,154
+162,43
+23,18
+142,179
+44,1
+Cost of Triangulation from DP is 3465.650734
+Cost of Triangulation is 3465.650734
+
+Number of Vertices: 14
+155,87
+130,77
+14,139
+32,181
+152,119
+152,59
+126,66
+147,190
+188,149
+166,35
+28,85
+141,93
+128,47
+55,175
+Cost of Triangulation from DP is 2430.710189
+Cost of Triangulation is 2430.710189
+
+Number of Vertices: 14
+73,199
+98,30
+83,122
+150,92
+31,40
+41,149
+116,153
+173,101
+14,130
+79,146
+199,153
+188,34
+90,15
+50,28
+Cost of Triangulation from DP is 3019.628209
+Cost of Triangulation is 3019.628209
+
+Number of Vertices: 14
+17,89
+48,79
+80,71
+193,140
+63,126
+72,35
+81,5
+57,167
+54,45
+85,39
+190,51
+19,87
+113,37
+94,126
+Cost of Triangulation from DP is 2257.850506
+Cost of Triangulation is 2257.850506
+
+Number of Vertices: 14
+149,138
+176,177
+179,127
+105,64
+72,67
+39,181
+194,60
+107,69
+120,104
+187,167
+157,105
+82,176
+175,193
+199,170
+Cost of Triangulation from DP is 2077.658061
+Cost of Triangulation is 2077.658061
+
+Number of Vertices: 14
+108,108
+17,121
+185,97
+87,39
+82,0
+108,78
+155,19
+176,119
+136,90
+8,94
+115,122
+199,109
+21,111
+47,34
+Cost of Triangulation from DP is 2589.781854
+Cost of Triangulation is 2589.781854
+
+Number of Vertices: 14
+58,162
+175,106
+68,2
+0,97
+155,127
+168,25
+125,130
+191,167
+31,39
+123,139
+55,49
+40,162
+153,113
+94,28
+Cost of Triangulation from DP is 2972.363512
+Cost of Triangulation is 2972.363512
+
+Number of Vertices: 14
+38,101
+185,33
+86,49
+131,156
+148,55
+24,138
+196,29
+156,1
+73,104
+132,142
+102,58
+0,79
+20,139
+71,52
+Cost of Triangulation from DP is 2626.220795
+Cost of Triangulation is 2626.220795
+
+Number of Vertices: 14
+61,160
+162,72
+173,61
+186,3
+142,37
+169,99
+145,12
+63,47
+169,112
+171,28
+6,155
+69,155
+137,65
+66,0
+Cost of Triangulation from DP is 2645.306063
+Cost of Triangulation is 2645.306063
+
+Number of Vertices: 14
+142,110
+86,190
+9,12
+116,22
+35,195
+35,114
+196,161
+107,161
+21,60
+95,57
+197,136
+49,193
+52,181
+160,81
+Cost of Triangulation from DP is 3291.455326
+Cost of Triangulation is 3291.455326
+
+Number of Vertices: 14
+6,188
+129,39
+59,124
+73,16
+153,189
+79,37
+163,124
+18,72
+16,60
+77,31
+143,22
+35,44
+54,24
+144,183
+Cost of Triangulation from DP is 2754.800678
+Cost of Triangulation is 2754.800678
+
+Number of Vertices: 14
+33,175
+6,8
+186,17
+128,160
+59,190
+68,154
+89,167
+83,188
+71,22
+161,152
+40,82
+139,55
+5,96
+61,41
+Cost of Triangulation from DP is 2949.185371
+Cost of Triangulation is 2949.185371
+
+Number of Vertices: 14
+37,63
+77,93
+21,51
+133,179
+122,81
+78,82
+114,172
+65,66
+139,140
+129,175
+190,22
+2,142
+34,126
+106,85
+Cost of Triangulation from DP is 2695.038458
+Cost of Triangulation is 2695.038458
+
+Number of Vertices: 15
+111,125
+111,125
+154,138
+50,70
+3,64
+76,165
+106,161
+103,151
+116,174
+172,145
+111,167
+6,199
+53,188
+145,57
+26,142
+Cost of Triangulation from DP is 2185.570606
+Cost of Triangulation is 2185.570606
+
+Number of Vertices: 15
+98,118
+11,188
+198,122
+18,60
+72,158
+66,4
+49,46
+140,138
+169,15
+46,148
+174,133
+136,52
+50,62
+7,133
+196,150
+Cost of Triangulation from DP is 3544.285947
+Cost of Triangulation is 3544.285947
+
+Number of Vertices: 15
+114,175
+114,175
+171,137
+38,44
+120,5
+108,112
+83,10
+74,105
+5,150
+108,122
+185,83
+99,60
+29,13
+109,96
+177,154
+Cost of Triangulation from DP is 2447.390967
+Cost of Triangulation is 2447.390967
+
+Number of Vertices: 15
+25,80
+52,161
+31,98
+59,113
+193,69
+78,98
+51,149
+42,179
+140,117
+195,29
+4,47
+195,12
+163,183
+132,87
+51,33
+Cost of Triangulation from DP is 2877.425634
+Cost of Triangulation is 2877.425634
+
+Number of Vertices: 15
+27,106
+50,190
+131,90
+164,15
+32,35
+67,123
+131,178
+33,79
+80,166
+42,74
+33,92
+140,4
+14,68
+162,194
+82,3
+Cost of Triangulation from DP is 2935.196687
+Cost of Triangulation is 2935.196687
+
+Number of Vertices: 15
+169,43
+139,136
+27,138
+33,85
+165,85
+8,192
+68,96
+130,163
+35,120
+109,13
+160,120
+9,179
+195,79
+45,190
+12,110
+Cost of Triangulation from DP is 3384.667964
+Cost of Triangulation is 3384.667964
+
+Number of Vertices: 15
+139,82
+99,194
+31,133
+191,0
+154,82
+159,38
+187,130
+37,110
+193,82
+118,132
+21,195
+154,6
+168,35
+20,195
+135,45
+Cost of Triangulation from DP is 3261.717823
+Cost of Triangulation is 3261.717823
+
+Number of Vertices: 15
+140,178
+136,105
+106,83
+93,172
+196,100
+87,44
+57,72
+65,121
+64,43
+55,127
+178,176
+194,180
+26,58
+164,193
+107,78
+Cost of Triangulation from DP is 2634.116413
+Cost of Triangulation is 2634.116413
+
+Number of Vertices: 15
+154,45
+33,134
+158,158
+158,33
+34,43
+53,116
+143,20
+54,3
+128,92
+91,29
+27,146
+151,181
+188,141
+110,90
+199,167
+Cost of Triangulation from DP is 3183.764714
+Cost of Triangulation is 3183.764714
+
+Number of Vertices: 15
+18,44
+146,18
+173,110
+39,52
+51,12
+188,47
+36,190
+122,48
+198,48
+101,180
+33,158
+176,166
+73,178
+99,13
+124,49
+Cost of Triangulation from DP is 3354.252347
+Cost of Triangulation is 3354.252347
+
+Number of Vertices: 15
+162,16
+24,42
+76,113
+142,37
+17,179
+149,180
+163,56
+77,125
+193,150
+154,115
+134,124
+150,142
+159,21
+58,131
+60,158
+Cost of Triangulation from DP is 3025.249043
+Cost of Triangulation is 3025.249043
+
+Number of Vertices: 15
+42,43
+192,21
+117,189
+81,21
+99,20
+133,138
+106,190
+24,78
+46,51
+177,133
+40,195
+196,21
+56,191
+92,32
+129,62
+Cost of Triangulation from DP is 3576.389025
+Cost of Triangulation is 3576.389025
+
+Number of Vertices: 15
+176,0
+153,98
+63,70
+167,25
+171,32
+194,123
+186,159
+79,182
+150,134
+135,172
+138,113
+184,21
+118,185
+22,107
+20,16
+Cost of Triangulation from DP is 2919.440440
+Cost of Triangulation is 2919.440440
+
+Number of Vertices: 15
+115,82
+1,20
+145,163
+181,66
+60,63
+52,84
+106,138
+160,181
+185,55
+150,52
+47,92
+22,131
+157,68
+92,21
+92,110
+Cost of Triangulation from DP is 2933.906250
+Cost of Triangulation is 2933.906250
+
+Number of Vertices: 15
+66,132
+161,132
+57,41
+52,109
+84,164
+102,78
+103,0
+24,82
+169,94
+28,16
+15,197
+44,12
+28,52
+108,173
+187,16
+Cost of Triangulation from DP is 3131.645495
+Cost of Triangulation is 3131.645495
+
+Number of Vertices: 15
+80,167
+166,125
+14,29
+52,150
+184,195
+87,22
+43,99
+74,195
+188,134
+173,36
+14,108
+63,136
+100,155
+105,39
+23,95
+Cost of Triangulation from DP is 3462.103638
+Cost of Triangulation is 3462.103638
+
+Number of Vertices: 15
+83,59
+43,167
+17,85
+87,75
+138,117
+33,59
+18,12
+105,103
+12,66
+181,68
+115,195
+78,13
+122,30
+30,150
+73,34
+Cost of Triangulation from DP is 2867.480468
+Cost of Triangulation is 2867.480468
+
+Number of Vertices: 15
+25,146
+125,94
+121,8
+106,8
+166,191
+184,177
+131,66
+114,74
+149,170
+183,54
+7,7
+78,65
+141,77
+96,14
+32,74
+Cost of Triangulation from DP is 2829.103110
+Cost of Triangulation is 2829.103110
+
+Number of Vertices: 15
+194,197
+165,103
+177,71
+165,109
+4,161
+28,108
+173,109
+1,196
+116,47
+138,190
+52,50
+85,80
+70,171
+61,160
+177,123
+Cost of Triangulation from DP is 2923.822421
+Cost of Triangulation is 2923.822421
+
+Number of Vertices: 15
+195,51
+9,144
+77,110
+168,75
+84,101
+75,112
+36,119
+118,83
+139,178
+113,192
+55,107
+89,141
+160,81
+148,4
+126,187
+Cost of Triangulation from DP is 2640.257647
+Cost of Triangulation is 2640.257647
+
+Number of Vertices: 15
+60,149
+34,136
+44,141
+105,153
+123,41
+39,197
+36,18
+165,98
+146,139
+7,58
+199,137
+194,157
+165,98
+82,125
+197,19
+Cost of Triangulation from DP is 2837.218869
+Cost of Triangulation is 2837.218869
+
+Number of Vertices: 15
+38,68
+172,156
+141,169
+86,4
+127,52
+158,153
+109,157
+173,142
+104,196
+66,101
+186,54
+57,171
+56,159
+125,55
+147,191
+Cost of Triangulation from DP is 2805.031118
+Cost of Triangulation is 2805.031118
+
+Number of Vertices: 15
+49,111
+89,54
+142,159
+99,78
+195,13
+131,133
+12,101
+64,110
+53,143
+63,4
+163,19
+159,163
+15,150
+83,20
+84,134
+Cost of Triangulation from DP is 3032.304866
+Cost of Triangulation is 3032.304866
+
+Number of Vertices: 15
+195,46
+114,153
+50,46
+124,162
+59,141
+2,89
+164,14
+11,184
+60,75
+120,47
+111,147
+15,90
+144,61
+40,87
+132,44
+Cost of Triangulation from DP is 3080.020259
+Cost of Triangulation is 3080.020259
+
+Number of Vertices: 15
+93,13
+143,180
+191,180
+80,127
+96,178
+131,63
+107,121
+108,195
+132,8
+27,176
+96,171
+171,107
+16,65
+193,116
+186,21
+Cost of Triangulation from DP is 3112.167257
+Cost of Triangulation is 3112.167257
+
+Number of Vertices: 15
+121,34
+129,26
+25,130
+50,160
+175,171
+173,164
+102,136
+66,37
+45,89
+139,161
+151,125
+142,130
+24,83
+12,27
+125,162
+Cost of Triangulation from DP is 2755.519971
+Cost of Triangulation is 2755.519971
+
+Number of Vertices: 15
+170,164
+162,45
+135,38
+122,74
+118,147
+183,194
+134,83
+38,33
+107,196
+115,101
+103,65
+43,188
+133,6
+76,44
+55,91
+Cost of Triangulation from DP is 2743.306509
+Cost of Triangulation is 2743.306509
+
+Number of Vertices: 15
+22,30
+196,111
+42,64
+38,21
+118,110
+87,165
+47,98
+150,40
+80,177
+20,43
+161,135
+119,132
+64,26
+166,14
+102,188
+Cost of Triangulation from DP is 3249.932546
+Cost of Triangulation is 3249.932546
+
+Number of Vertices: 15
+171,64
+49,74
+164,156
+195,45
+110,167
+188,88
+175,13
+100,118
+98,168
+141,133
+162,98
+1,199
+161,130
+133,116
+105,166
+Cost of Triangulation from DP is 2553.432631
+Cost of Triangulation is 2553.432631
+
+Number of Vertices: 15
+174,176
+196,68
+181,38
+14,16
+191,103
+99,1
+33,151
+54,175
+102,179
+194,86
+67,74
+41,111
+199,73
+143,76
+123,79
+Cost of Triangulation from DP is 3087.347512
+Cost of Triangulation is 3087.347512
+
+Number of Vertices: 15
+148,22
+122,64
+121,64
+76,11
+112,10
+130,10
+149,96
+3,66
+126,30
+6,178
+49,97
+82,36
+129,158
+100,146
+69,89
+Cost of Triangulation from DP is 2445.123361
+Cost of Triangulation is 2445.123361
+
+Number of Vertices: 15
+43,9
+199,43
+1,115
+23,79
+193,56
+110,182
+89,71
+193,31
+182,84
+123,167
+28,62
+111,131
+24,137
+89,54
+72,109
+Cost of Triangulation from DP is 3373.719089
+Cost of Triangulation is 3373.719089
+
+Number of Vertices: 15
+104,54
+115,173
+34,21
+61,25
+89,188
+9,68
+58,66
+88,162
+11,42
+151,133
+57,178
+124,6
+129,33
+131,114
+13,103
+Cost of Triangulation from DP is 3187.773686
+Cost of Triangulation is 3187.773686
+
+Number of Vertices: 15
+53,162
+103,32
+196,49
+56,196
+30,102
+31,83
+151,12
+110,152
+71,163
+99,134
+188,69
+183,108
+130,179
+0,162
+153,32
+Cost of Triangulation from DP is 3339.311660
+Cost of Triangulation is 3339.311660
+
+Number of Vertices: 15
+79,87
+181,87
+2,87
+183,62
+28,9
+126,125
+23,117
+40,40
+30,63
+54,73
+155,150
+163,101
+40,57
+138,7
+181,170
+Cost of Triangulation from DP is 3072.637189
+Cost of Triangulation is 3072.637189
+
+Number of Vertices: 15
+57,48
+171,68
+0,38
+142,183
+179,91
+34,128
+105,94
+152,149
+73,61
+103,181
+161,36
+4,49
+166,149
+38,152
+5,16
+Cost of Triangulation from DP is 3521.303007
+Cost of Triangulation is 3521.303007
+
+Number of Vertices: 15
+89,55
+85,70
+65,145
+101,144
+32,92
+76,140
+20,158
+167,122
+170,160
+131,55
+41,168
+197,138
+66,96
+56,91
+152,15
+Cost of Triangulation from DP is 2472.079436
+Cost of Triangulation is 2472.079436
+
+Number of Vertices: 15
+166,134
+197,92
+174,172
+92,120
+53,68
+154,195
+70,107
+153,0
+162,108
+84,93
+8,22
+196,144
+75,68
+67,36
+188,117
+Cost of Triangulation from DP is 2832.989102
+Cost of Triangulation is 2832.989102
+
+Number of Vertices: 15
+13,198
+21,46
+145,42
+168,157
+51,186
+73,48
+89,0
+128,6
+135,190
+58,191
+22,22
+126,54
+43,137
+25,104
+121,172
+Cost of Triangulation from DP is 3745.210234
+Cost of Triangulation is 3745.210234
+
+Number of Vertices: 15
+64,132
+69,110
+94,0
+45,116
+135,125
+51,11
+157,18
+81,0
+90,118
+29,7
+169,104
+199,113
+145,78
+76,168
+117,130
+Cost of Triangulation from DP is 2562.061928
+Cost of Triangulation is 2562.061928
+
+Number of Vertices: 15
+80,6
+162,185
+57,60
+99,53
+13,116
+61,61
+25,161
+35,91
+177,166
+92,192
+38,115
+48,45
+196,127
+198,158
+88,34
+Cost of Triangulation from DP is 2752.470511
+Cost of Triangulation is 2752.470511
+
+Number of Vertices: 15
+7,96
+92,147
+97,150
+128,136
+170,68
+197,87
+87,139
+56,199
+38,144
+145,89
+51,112
+57,181
+99,150
+75,19
+39,3
+Cost of Triangulation from DP is 2151.816430
+Cost of Triangulation is 2151.816430
+
+Number of Vertices: 15
+144,59
+135,141
+155,59
+110,81
+13,179
+153,89
+177,6
+94,118
+170,20
+49,110
+189,41
+16,9
+17,71
+69,191
+197,154
+Cost of Triangulation from DP is 3233.491721
+Cost of Triangulation is 3233.491721
+
+Number of Vertices: 15
+144,94
+35,73
+124,40
+121,197
+114,45
+191,123
+19,106
+150,6
+62,139
+41,48
+53,6
+198,88
+187,176
+17,197
+36,55
+Cost of Triangulation from DP is 3591.231700
+Cost of Triangulation is 3591.231700
+
+Number of Vertices: 15
+166,38
+16,198
+121,86
+11,172
+88,69
+76,32
+170,146
+147,167
+179,24
+186,20
+11,39
+151,74
+48,153
+43,56
+134,199
+Cost of Triangulation from DP is 3481.763857
+Cost of Triangulation is 3481.763857
+
+Number of Vertices: 15
+165,85
+42,44
+174,88
+151,60
+26,63
+171,124
+150,122
+191,112
+26,92
+91,9
+45,134
+47,80
+17,57
+144,132
+64,161
+Cost of Triangulation from DP is 2542.418476
+Cost of Triangulation is 2542.418476
+
+Number of Vertices: 15
+19,155
+167,12
+19,40
+0,175
+145,81
+70,38
+45,53
+70,142
+150,132
+28,145
+97,175
+130,168
+54,29
+27,18
+3,81
+Cost of Triangulation from DP is 2938.405089
+Cost of Triangulation is 2938.405089
+
+Number of Vertices: 15
+63,44
+146,59
+154,75
+110,94
+34,32
+197,106
+119,156
+90,136
+118,61
+192,188
+31,144
+186,182
+125,176
+125,19
+181,125
+Cost of Triangulation from DP is 2878.006030
+Cost of Triangulation is 2878.006030
+
+Number of Vertices: 15
+106,145
+106,145
+142,180
+73,115
+121,25
+88,150
+18,48
+108,146
+7,112
+13,19
+31,93
+152,99
+46,139
+122,196
+0,186
+Cost of Triangulation from DP is 2315.325947
+Cost of Triangulation is 2315.325947
+
+Number of Vertices: 15
+37,195
+119,117
+151,59
+61,36
+2,92
+2,156
+68,198
+143,177
+148,27
+122,114
+149,192
+158,27
+102,5
+51,184
+128,83
+Cost of Triangulation from DP is 3331.347473
+Cost of Triangulation is 3331.347473
+
+Number of Vertices: 16
+97,149
+33,149
+61,149
+171,5
+189,119
+61,88
+171,102
+141,79
+136,138
+98,149
+177,0
+176,149
+155,64
+115,9
+149,174
+104,64
+Cost of Triangulation from DP is 3069.252541
+Cost of Triangulation is 3069.252541
+
+Number of Vertices: 16
+16,7
+135,83
+43,195
+157,0
+100,130
+43,57
+87,70
+120,129
+41,198
+5,189
+79,67
+177,99
+105,197
+147,93
+159,182
+70,78
+Cost of Triangulation from DP is 3249.459061
+Cost of Triangulation is 3249.459061
+
+Number of Vertices: 16
+86,56
+79,156
+87,1
+116,20
+111,157
+2,117
+11,97
+194,196
+89,179
+64,15
+106,65
+187,198
+46,138
+117,15
+177,157
+20,133
+Cost of Triangulation from DP is 3803.456878
+Cost of Triangulation is 3803.456878
+
+Number of Vertices: 16
+18,175
+191,10
+75,74
+103,184
+137,25
+106,16
+41,88
+137,68
+175,59
+3,42
+169,198
+119,30
+13,174
+109,149
+46,31
+0,56
+Cost of Triangulation from DP is 3871.852405
+Cost of Triangulation is 3871.852405
+
+Number of Vertices: 16
+57,7
+142,157
+125,127
+102,123
+43,191
+177,189
+78,14
+141,107
+166,33
+127,64
+17,33
+53,88
+3,113
+99,20
+84,67
+44,140
+Cost of Triangulation from DP is 3196.863741
+Cost of Triangulation is 3196.863741
+
+Number of Vertices: 16
+97,148
+64,104
+124,184
+62,45
+125,103
+180,118
+80,91
+161,62
+170,195
+134,178
+24,64
+154,24
+194,114
+148,162
+64,35
+183,131
+Cost of Triangulation from DP is 3160.462690
+Cost of Triangulation is 3160.462690
+
+Number of Vertices: 16
+124,92
+64,77
+149,80
+155,192
+68,70
+70,27
+178,2
+114,124
+55,40
+174,22
+85,141
+115,89
+136,68
+196,116
+123,156
+10,13
+Cost of Triangulation from DP is 3007.282350
+Cost of Triangulation is 3007.282350
+
+Number of Vertices: 16
+192,73
+56,141
+124,107
+173,99
+83,64
+13,165
+109,26
+36,25
+41,128
+173,73
+3,186
+188,191
+22,186
+163,160
+141,7
+99,172
+Cost of Triangulation from DP is 3637.508262
+Cost of Triangulation is 3637.508262
+
+Number of Vertices: 16
+21,58
+142,133
+131,141
+110,50
+155,120
+119,186
+138,64
+194,97
+112,156
+34,133
+124,41
+175,80
+30,128
+146,54
+19,149
+10,73
+Cost of Triangulation from DP is 2869.170665
+Cost of Triangulation is 2869.170665
+
+Number of Vertices: 16
+167,18
+9,59
+107,13
+43,90
+4,12
+152,64
+196,97
+164,170
+39,22
+95,37
+31,174
+5,133
+74,43
+163,3
+47,72
+27,37
+Cost of Triangulation from DP is 3168.932093
+Cost of Triangulation is 3168.932093
+
+Number of Vertices: 16
+0,104
+128,78
+169,17
+39,191
+190,4
+30,99
+113,187
+148,155
+11,129
+150,186
+89,63
+48,35
+16,17
+113,80
+175,88
+26,8
+Cost of Triangulation from DP is 3620.437281
+Cost of Triangulation is 3620.437281
+
+Number of Vertices: 16
+29,160
+145,126
+53,83
+88,181
+136,174
+90,44
+116,159
+184,199
+170,48
+33,66
+149,160
+134,133
+15,89
+74,199
+149,122
+134,118
+Cost of Triangulation from DP is 2759.209405
+Cost of Triangulation is 2759.209405
+
+Number of Vertices: 16
+50,98
+0,192
+146,137
+11,67
+23,172
+43,190
+160,168
+2,130
+194,181
+169,65
+143,54
+9,187
+103,109
+115,90
+125,54
+94,28
+Cost of Triangulation from DP is 3482.582239
+Cost of Triangulation is 3482.582239
+
+Number of Vertices: 16
+42,150
+114,111
+168,81
+171,58
+149,43
+159,137
+194,35
+2,72
+198,114
+160,97
+37,136
+4,191
+88,53
+9,167
+156,195
+120,87
+Cost of Triangulation from DP is 2975.708845
+Cost of Triangulation is 2975.708845
+
+Number of Vertices: 16
+114,165
+147,191
+197,121
+56,44
+68,167
+183,178
+178,115
+111,18
+116,129
+177,137
+73,93
+26,142
+62,164
+115,179
+189,114
+151,1
+Cost of Triangulation from DP is 3083.313400
+Cost of Triangulation is 3083.313400
+
+Number of Vertices: 16
+142,88
+2,73
+2,73
+113,50
+182,183
+113,54
+140,67
+47,115
+71,48
+147,29
+186,136
+191,177
+113,199
+194,54
+166,45
+86,62
+Cost of Triangulation from DP is 2746.802389
+Cost of Triangulation is 2746.802389
+
+Number of Vertices: 16
+179,164
+47,18
+35,89
+120,84
+60,31
+41,69
+60,152
+129,117
+100,9
+48,195
+126,190
+62,20
+22,149
+112,106
+117,8
+77,177
+Cost of Triangulation from DP is 3619.407005
+Cost of Triangulation is 3619.407005
+
+Number of Vertices: 16
+130,27
+29,122
+77,128
+183,81
+6,136
+138,162
+83,23
+24,88
+91,68
+44,35
+5,54
+148,186
+131,10
+60,114
+88,128
+161,71
+Cost of Triangulation from DP is 3405.304456
+Cost of Triangulation is 3405.304456
+
+Number of Vertices: 16
+77,191
+172,30
+14,161
+128,159
+164,10
+77,20
+142,59
+93,26
+60,148
+150,59
+2,77
+18,146
+153,134
+123,60
+46,40
+43,57
+Cost of Triangulation from DP is 3556.547298
+Cost of Triangulation is 3556.547298
+
+Number of Vertices: 16
+97,126
+97,84
+97,187
+33,131
+59,25
+195,111
+81,174
+30,102
+148,78
+184,189
+187,116
+61,30
+9,97
+11,132
+109,144
+188,109
+Cost of Triangulation from DP is 3090.928007
+Cost of Triangulation is 3090.928007
+
+Number of Vertices: 16
+12,175
+87,53
+126,4
+184,95
+129,174
+74,131
+126,63
+91,112
+22,97
+161,11
+104,190
+40,103
+174,56
+37,109
+81,59
+124,69
+Cost of Triangulation from DP is 2999.934016
+Cost of Triangulation is 2999.934016
+
+Number of Vertices: 16
+108,183
+49,192
+54,46
+114,9
+52,174
+54,90
+193,102
+168,123
+23,34
+119,48
+153,123
+73,198
+117,29
+121,131
+90,89
+147,152
+Cost of Triangulation from DP is 3179.947181
+Cost of Triangulation is 3179.947181
+
+Number of Vertices: 16
+166,31
+66,156
+146,174
+78,7
+48,185
+176,132
+170,113
+40,188
+116,198
+143,28
+22,169
+130,130
+174,56
+130,50
+68,72
+82,196
+Cost of Triangulation from DP is 3625.381393
+Cost of Triangulation is 3625.381393
+
+Number of Vertices: 16
+14,149
+144,76
+148,94
+53,92
+70,20
+189,140
+188,167
+64,181
+66,42
+82,11
+67,111
+72,65
+133,185
+56,112
+182,73
+156,151
+Cost of Triangulation from DP is 3104.504354
+Cost of Triangulation is 3104.504354
+
+Number of Vertices: 16
+161,60
+7,24
+13,165
+62,153
+90,119
+1,194
+103,112
+34,95
+49,158
+67,192
+97,119
+61,101
+183,170
+184,1
+79,70
+172,193
+Cost of Triangulation from DP is 3194.181965
+Cost of Triangulation is 3194.181965
+
+Number of Vertices: 16
+8,191
+40,178
+89,130
+74,10
+47,148
+86,184
+181,0
+13,189
+136,91
+54,30
+22,106
+136,82
+38,56
+34,83
+129,19
+56,2
+Cost of Triangulation from DP is 3352.652989
+Cost of Triangulation is 3352.652989
+
+Number of Vertices: 16
+29,133
+21,61
+16,16
+22,54
+140,134
+53,60
+163,1
+55,54
+38,140
+130,16
+162,80
+11,182
+148,168
+160,136
+67,191
+81,174
+Cost of Triangulation from DP is 2814.116735
+Cost of Triangulation is 2814.116735
+
+Number of Vertices: 16
+126,191
+153,137
+122,199
+26,171
+11,15
+133,59
+13,96
+139,129
+91,65
+20,196
+93,45
+21,177
+160,105
+15,188
+30,98
+149,149
+Cost of Triangulation from DP is 3272.261389
+Cost of Triangulation is 3272.261389
+
+Number of Vertices: 16
+60,40
+89,192
+196,15
+38,55
+128,140
+119,7
+31,94
+13,125
+159,91
+3,88
+64,152
+80,168
+83,61
+64,89
+99,111
+86,49
+Cost of Triangulation from DP is 3065.864530
+Cost of Triangulation is 3065.864530
+
+Number of Vertices: 16
+17,50
+23,191
+19,97
+19,185
+85,52
+148,39
+66,131
+176,58
+68,2
+78,132
+39,43
+106,74
+39,56
+57,165
+84,187
+85,20
+Cost of Triangulation from DP is 3094.728305
+Cost of Triangulation is 3094.728305
+
+Number of Vertices: 16
+129,77
+119,15
+74,31
+107,177
+172,20
+5,196
+154,160
+102,10
+1,62
+165,176
+192,188
+33,46
+132,174
+105,107
+79,120
+58,172
+Cost of Triangulation from DP is 3628.304407
+Cost of Triangulation is 3628.304407
+
+Number of Vertices: 16
+84,152
+109,39
+151,92
+27,28
+57,31
+156,163
+67,64
+132,27
+196,24
+23,197
+0,119
+40,68
+136,101
+90,117
+49,44
+117,119
+Cost of Triangulation from DP is 3186.605908
+Cost of Triangulation is 3186.605908
+
+Number of Vertices: 16
+10,144
+196,171
+112,49
+64,158
+72,171
+99,191
+182,65
+85,127
+101,151
+63,5
+61,17
+119,103
+99,27
+36,118
+130,123
+43,14
+Cost of Triangulation from DP is 3225.622242
+Cost of Triangulation is 3225.622242
+
+Number of Vertices: 16
+170,111
+71,171
+162,19
+185,81
+118,171
+45,72
+33,15
+114,121
+0,102
+145,1
+145,179
+119,199
+43,115
+197,52
+63,170
+54,52
+Cost of Triangulation from DP is 3751.257557
+Cost of Triangulation is 3751.257557
+
+Number of Vertices: 16
+93,82
+61,90
+49,93
+29,103
+120,137
+138,171
+93,39
+169,132
+179,27
+58,103
+93,173
+144,175
+96,34
+112,36
+156,178
+54,8
+Cost of Triangulation from DP is 2904.090149
+Cost of Triangulation is 2904.090149
+
+Number of Vertices: 16
+172,34
+127,53
+30,170
+184,191
+8,111
+139,175
+94,27
+112,152
+132,133
+159,95
+9,87
+55,186
+139,102
+110,20
+76,31
+185,134
+Cost of Triangulation from DP is 3432.964300
+Cost of Triangulation is 3432.964300
+
+Number of Vertices: 16
+131,194
+27,117
+10,98
+189,84
+188,109
+156,33
+158,31
+104,141
+26,78
+169,70
+161,139
+118,2
+159,5
+181,100
+119,112
+155,93
+Cost of Triangulation from DP is 2897.295099
+Cost of Triangulation is 2897.295099
+
+Number of Vertices: 16
+72,100
+45,37
+86,126
+31,69
+85,116
+136,171
+107,177
+11,75
+134,46
+42,179
+54,102
+140,93
+100,179
+84,140
+91,57
+111,61
+Cost of Triangulation from DP is 2495.275853
+Cost of Triangulation is 2495.275853
+
+Number of Vertices: 16
+36,71
+121,57
+174,72
+133,74
+41,40
+176,2
+153,166
+113,152
+96,142
+45,96
+10,41
+145,158
+12,186
+106,58
+140,68
+154,133
+Cost of Triangulation from DP is 2989.781413
+Cost of Triangulation is 2989.781413
+
+Number of Vertices: 16
+123,138
+173,171
+127,36
+114,26
+17,167
+170,76
+20,29
+124,136
+138,120
+84,65
+23,115
+193,37
+15,40
+71,99
+66,42
+0,11
+Cost of Triangulation from DP is 3334.233608
+Cost of Triangulation is 3334.233608
+
+Number of Vertices: 16
+183,98
+49,26
+28,151
+146,43
+144,4
+28,161
+70,147
+3,12
+22,118
+142,192
+198,86
+25,183
+162,192
+194,100
+34,45
+139,101
+Cost of Triangulation from DP is 3764.486558
+Cost of Triangulation is 3764.486558
+
+Number of Vertices: 16
+90,31
+194,83
+62,17
+164,73
+163,75
+169,159
+187,68
+90,113
+68,68
+174,171
+50,43
+174,21
+63,18
+37,14
+24,10
+108,148
+Cost of Triangulation from DP is 2666.391829
+Cost of Triangulation is 2666.391829
+
+Number of Vertices: 16
+156,171
+83,136
+83,26
+119,130
+76,104
+119,109
+36,128
+122,18
+142,7
+154,96
+121,176
+92,75
+162,96
+184,150
+85,157
+74,36
+Cost of Triangulation from DP is 2730.221057
+Cost of Triangulation is 2730.221057
+
+Number of Vertices: 16
+66,123
+5,106
+37,98
+2,146
+27,106
+181,114
+91,142
+1,53
+20,8
+105,74
+150,171
+52,155
+105,128
+196,121
+33,188
+31,28
+Cost of Triangulation from DP is 2909.440808
+Cost of Triangulation is 2909.440808
+
+Number of Vertices: 16
+127,101
+133,189
+121,13
+175,106
+82,150
+54,89
+11,186
+165,115
+94,99
+4,11
+177,20
+110,93
+199,175
+74,161
+120,151
+193,39
+Cost of Triangulation from DP is 3266.739567
+Cost of Triangulation is 3266.739567
+
+Number of Vertices: 16
+169,40
+14,132
+193,149
+48,93
+158,191
+131,110
+41,126
+34,135
+169,57
+180,47
+146,9
+25,162
+60,175
+92,110
+15,163
+191,144
+Cost of Triangulation from DP is 3285.121458
+Cost of Triangulation is 3285.121458
+
+Number of Vertices: 16
+76,174
+172,131
+183,16
+125,31
+50,89
+12,188
+139,149
+195,14
+80,67
+69,171
+89,24
+3,117
+127,180
+196,55
+165,53
+32,102
+Cost of Triangulation from DP is 3865.086225
+Cost of Triangulation is 3865.086225
+
+Number of Vertices: 16
+51,87
+90,126
+100,136
+31,76
+112,167
+124,150
+115,134
+138,173
+16,99
+0,62
+183,32
+6,192
+149,179
+9,28
+12,193
+55,38
+Cost of Triangulation from DP is 3255.747548
+Cost of Triangulation is 3255.747548
+
+Number of Vertices: 16
+60,87
+22,30
+4,3
+9,107
+196,69
+45,50
+102,158
+103,27
+20,135
+150,154
+3,139
+87,10
+79,109
+102,75
+40,152
+78,150
+Cost of Triangulation from DP is 3064.792942
+Cost of Triangulation is 3064.792942
+
+Number of Vertices: 16
+178,114
+183,114
+36,114
+152,101
+1,172
+100,157
+153,173
+139,174
+136,140
+10,151
+135,47
+135,8
+119,68
+165,29
+148,146
+49,43
+Cost of Triangulation from DP is 2701.911100
+Cost of Triangulation is 2701.911100
+

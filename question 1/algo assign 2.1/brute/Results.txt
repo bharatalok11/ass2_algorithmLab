@@ -1,0 +1,7800 @@
+Number of Vertices: 3
+86,111
+27,40
+53,88
+Cost of Triangulation is 187.128426
+
+Number of Vertices: 3
+13,196
+81,8
+65,17
+Cost of Triangulation is 404.677651
+
+Number of Vertices: 3
+154,131
+54,159
+65,12
+Cost of Triangulation is 399.857165
+
+Number of Vertices: 3
+35,72
+70,185
+20,135
+Cost of Triangulation is 253.768016
+
+Number of Vertices: 3
+53,67
+72,125
+46,52
+Cost of Triangulation is 155.077659
+
+Number of Vertices: 3
+174,92
+125,170
+122,64
+Cost of Triangulation is 257.215796
+
+Number of Vertices: 3
+87,11
+42,195
+118,153
+Cost of Triangulation is 421.600399
+
+Number of Vertices: 3
+181,184
+182,24
+70,90
+Cost of Triangulation is 435.457585
+
+Number of Vertices: 3
+97,141
+174,6
+24,130
+Cost of Triangulation is 423.857261
+
+Number of Vertices: 3
+24,109
+180,159
+137,143
+Cost of Triangulation is 327.701487
+
+Number of Vertices: 3
+60,115
+40,157
+23,116
+Cost of Triangulation is 127.917006
+
+Number of Vertices: 3
+170,125
+132,195
+112,163
+Cost of Triangulation is 186.724899
+
+Number of Vertices: 3
+40,35
+173,38
+56,75
+Cost of Triangulation is 298.826191
+
+Number of Vertices: 3
+75,65
+184,66
+150,115
+Cost of Triangulation is 258.783959
+
+Number of Vertices: 3
+83,59
+115,81
+19,169
+Cost of Triangulation is 296.327047
+
+Number of Vertices: 3
+146,2
+44,5
+137,60
+Cost of Triangulation is 268.784517
+
+Number of Vertices: 3
+164,189
+139,5
+30,55
+Cost of Triangulation is 495.116027
+
+Number of Vertices: 3
+74,172
+87,31
+0,81
+Cost of Triangulation is 359.232668
+
+Number of Vertices: 3
+32,13
+76,83
+109,123
+Cost of Triangulation is 268.807787
+
+Number of Vertices: 3
+179,176
+77,173
+149,74
+Cost of Triangulation is 330.777614
+
+Number of Vertices: 3
+60,153
+25,112
+125,153
+Cost of Triangulation is 226.986003
+
+Number of Vertices: 3
+163,138
+132,23
+126,74
+Cost of Triangulation is 244.382362
+
+Number of Vertices: 3
+35,144
+189,63
+99,108
+Cost of Triangulation is 348.056172
+
+Number of Vertices: 3
+22,131
+117,5
+25,47
+Cost of Triangulation is 342.987636
+
+Number of Vertices: 3
+129,39
+141,182
+23,79
+Cost of Triangulation is 413.428823
+
+Number of Vertices: 3
+92,8
+197,22
+64,128
+Cost of Triangulation is 399.226110
+
+Number of Vertices: 3
+56,64
+94,23
+86,103
+Cost of Triangulation is 185.504363
+
+Number of Vertices: 3
+90,178
+92,190
+99,106
+Cost of Triangulation is 169.017007
+
+Number of Vertices: 3
+187,155
+160,19
+40,164
+Cost of Triangulation is 474.144801
+
+Number of Vertices: 3
+19,23
+68,166
+173,139
+Cost of Triangulation is 452.378446
+
+Number of Vertices: 3
+57,194
+90,3
+127,113
+Cost of Triangulation is 416.941903
+
+Number of Vertices: 3
+46,193
+141,17
+81,84
+Cost of Triangulation is 404.422808
+
+Number of Vertices: 3
+52,80
+151,87
+96,96
+Cost of Triangulation is 201.797465
+
+Number of Vertices: 3
+19,70
+0,156
+125,161
+Cost of Triangulation is 352.877050
+
+Number of Vertices: 3
+113,170
+33,10
+86,177
+Cost of Triangulation is 381.986537
+
+Number of Vertices: 3
+10,137
+171,37
+102,146
+Cost of Triangulation is 410.971407
+
+Number of Vertices: 3
+113,17
+84,29
+172,101
+Cost of Triangulation is 247.735963
+
+Number of Vertices: 3
+156,151
+124,120
+190,111
+Cost of Triangulation is 163.661768
+
+Number of Vertices: 3
+97,39
+149,92
+123,14
+Cost of Triangulation is 192.538176
+
+Number of Vertices: 3
+197,53
+104,182
+155,8
+Cost of Triangulation is 401.903312
+
+Number of Vertices: 3
+183,72
+180,47
+4,9
+Cost of Triangulation is 394.997914
+
+Number of Vertices: 3
+129,191
+29,55
+17,107
+Cost of Triangulation is 362.174239
+
+Number of Vertices: 3
+157,107
+127,154
+71,151
+Cost of Triangulation is 208.440984
+
+Number of Vertices: 3
+118,148
+165,66
+162,74
+Cost of Triangulation is 189.151526
+
+Number of Vertices: 3
+41,26
+176,7
+101,97
+Cost of Triangulation is 346.441205
+
+Number of Vertices: 3
+49,177
+190,106
+75,124
+Cost of Triangulation is 333.301093
+
+Number of Vertices: 3
+190,78
+17,153
+9,131
+Cost of Triangulation is 400.567189
+
+Number of Vertices: 3
+13,147
+160,140
+115,91
+Cost of Triangulation is 330.056267
+
+Number of Vertices: 3
+93,94
+103,109
+190,106
+Cost of Triangulation is 202.818915
+
+Number of Vertices: 3
+177,82
+181,143
+199,87
+Cost of Triangulation is 142.513800
+
+Number of Vertices: 4
+7,155
+161,185
+166,12
+136,21
+Cost of Triangulation is 879.079806
+
+Number of Vertices: 4
+160,25
+94,197
+44,186
+43,145
+Cost of Triangulation is 589.704610
+
+Number of Vertices: 4
+106,126
+83,148
+89,99
+109,99
+Cost of Triangulation is 192.172021
+
+Number of Vertices: 4
+194,79
+150,172
+67,198
+103,145
+Cost of Triangulation is 474.751765
+
+Number of Vertices: 4
+74,182
+95,186
+183,185
+146,127
+Cost of Triangulation is 424.757931
+
+Number of Vertices: 4
+129,61
+14,124
+96,31
+119,28
+Cost of Triangulation is 401.986915
+
+Number of Vertices: 4
+180,177
+188,168
+128,126
+41,120
+Cost of Triangulation is 468.391593
+
+Number of Vertices: 4
+11,81
+10,76
+49,75
+105,130
+Cost of Triangulation is 305.550129
+
+Number of Vertices: 4
+178,134
+64,14
+14,62
+31,133
+Cost of Triangulation is 701.820296
+
+Number of Vertices: 4
+195,70
+152,110
+64,132
+66,32
+Cost of Triangulation is 616.143795
+
+Number of Vertices: 4
+114,68
+135,12
+15,45
+52,73
+Cost of Triangulation is 496.137770
+
+Number of Vertices: 4
+52,171
+184,183
+129,45
+67,108
+Cost of Triangulation is 712.202630
+
+Number of Vertices: 4
+104,141
+59,94
+63,72
+77,59
+Cost of Triangulation is 271.580281
+
+Number of Vertices: 4
+183,160
+160,61
+61,22
+89,76
+Cost of Triangulation is 540.067017
+
+Number of Vertices: 4
+117,18
+182,50
+24,163
+46,48
+Cost of Triangulation is 732.892554
+
+Number of Vertices: 4
+49,110
+30,135
+69,116
+98,58
+Cost of Triangulation is 252.839141
+
+Number of Vertices: 4
+91,14
+123,176
+172,66
+121,11
+Cost of Triangulation is 583.216383
+
+Number of Vertices: 4
+13,192
+32,96
+83,96
+98,188
+Cost of Triangulation is 553.621897
+
+Number of Vertices: 4
+147,19
+2,15
+46,107
+110,113
+Cost of Triangulation is 680.253885
+
+Number of Vertices: 4
+181,194
+104,83
+81,27
+197,37
+Cost of Triangulation is 677.384258
+
+Number of Vertices: 4
+110,2
+85,68
+95,91
+174,111
+Cost of Triangulation is 484.058949
+
+Number of Vertices: 4
+0,39
+191,178
+99,88
+48,44
+Cost of Triangulation is 701.467971
+
+Number of Vertices: 4
+191,121
+125,54
+47,0
+139,81
+Cost of Triangulation is 437.925200
+
+Number of Vertices: 4
+39,72
+103,164
+168,70
+176,55
+Cost of Triangulation is 639.437859
+
+Number of Vertices: 4
+161,40
+43,127
+84,146
+171,90
+Cost of Triangulation is 608.279103
+
+Number of Vertices: 4
+14,149
+53,196
+170,113
+14,96
+Cost of Triangulation is 629.119457
+
+Number of Vertices: 4
+132,188
+72,32
+36,13
+110,154
+Cost of Triangulation is 663.144778
+
+Number of Vertices: 4
+41,16
+165,6
+133,106
+48,88
+Cost of Triangulation is 646.024678
+
+Number of Vertices: 4
+150,31
+90,12
+24,27
+27,167
+Cost of Triangulation is 706.149860
+
+Number of Vertices: 4
+18,62
+58,138
+114,198
+90,39
+Cost of Triangulation is 612.428810
+
+Number of Vertices: 4
+96,26
+63,46
+120,180
+199,45
+Cost of Triangulation is 717.368162
+
+Number of Vertices: 4
+30,44
+17,41
+22,68
+90,82
+Cost of Triangulation is 231.844511
+
+Number of Vertices: 4
+191,131
+133,176
+46,57
+18,13
+Cost of Triangulation is 807.968052
+
+Number of Vertices: 4
+169,57
+7,123
+60,153
+152,107
+Cost of Triangulation is 681.996355
+
+Number of Vertices: 4
+7,188
+196,156
+157,104
+78,38
+Cost of Triangulation is 859.340799
+
+Number of Vertices: 4
+85,121
+121,36
+186,90
+191,132
+Cost of Triangulation is 536.980232
+
+Number of Vertices: 4
+168,24
+18,109
+193,109
+197,32
+Cost of Triangulation is 631.796892
+
+Number of Vertices: 4
+17,75
+48,134
+138,148
+195,101
+Cost of Triangulation is 694.128345
+
+Number of Vertices: 4
+42,178
+165,20
+93,16
+68,93
+Cost of Triangulation is 684.988068
+
+Number of Vertices: 4
+119,192
+36,197
+33,125
+159,59
+Cost of Triangulation is 654.373713
+
+Number of Vertices: 4
+178,29
+22,76
+15,117
+40,139
+Cost of Triangulation is 545.339889
+
+Number of Vertices: 4
+177,172
+126,68
+31,86
+187,195
+Cost of Triangulation is 709.689576
+
+Number of Vertices: 4
+21,38
+8,39
+45,165
+198,50
+Cost of Triangulation is 771.660690
+
+Number of Vertices: 4
+150,32
+141,51
+103,184
+187,50
+Cost of Triangulation is 450.665528
+
+Number of Vertices: 4
+15,121
+156,133
+126,115
+9,50
+Cost of Triangulation is 603.915778
+
+Number of Vertices: 4
+117,27
+154,199
+9,168
+5,92
+Cost of Triangulation is 885.030022
+
+Number of Vertices: 4
+26,35
+6,99
+50,142
+130,199
+Cost of Triangulation is 640.316795
+
+Number of Vertices: 4
+180,119
+105,16
+39,168
+178,163
+Cost of Triangulation is 774.801766
+
+Number of Vertices: 4
+160,62
+6,79
+26,41
+167,42
+Cost of Triangulation is 631.341540
+
+Number of Vertices: 4
+72,55
+171,143
+159,35
+33,17
+Cost of Triangulation is 601.391707
+
+Number of Vertices: 5
+170,149
+61,40
+158,79
+90,132
+57,7
+Cost of Triangulation is 915.075855
+
+Number of Vertices: 5
+188,140
+128,135
+178,169
+74,5
+139,187
+Cost of Triangulation is 723.282864
+
+Number of Vertices: 5
+34,193
+59,182
+139,114
+199,56
+48,102
+Cost of Triangulation is 810.761659
+
+Number of Vertices: 5
+171,167
+87,41
+192,122
+64,24
+198,18
+Cost of Triangulation is 1014.731201
+
+Number of Vertices: 5
+192,144
+25,115
+68,71
+50,183
+51,81
+Cost of Triangulation is 725.948082
+
+Number of Vertices: 5
+38,76
+15,88
+181,172
+7,24
+60,127
+Cost of Triangulation is 859.886260
+
+Number of Vertices: 5
+194,84
+50,139
+143,109
+63,109
+194,197
+Cost of Triangulation is 919.694721
+
+Number of Vertices: 5
+34,45
+10,191
+192,39
+38,84
+190,127
+Cost of Triangulation is 1179.342544
+
+Number of Vertices: 5
+195,13
+90,182
+101,9
+136,118
+69,98
+Cost of Triangulation is 1039.507542
+
+Number of Vertices: 5
+144,148
+69,101
+180,109
+70,180
+98,94
+Cost of Triangulation is 709.779780
+
+Number of Vertices: 5
+23,1
+87,145
+87,24
+62,117
+151,77
+Cost of Triangulation is 883.156477
+
+Number of Vertices: 5
+150,83
+63,142
+194,10
+110,158
+151,24
+Cost of Triangulation is 921.319633
+
+Number of Vertices: 5
+80,96
+138,131
+169,166
+95,197
+31,68
+Cost of Triangulation is 756.926247
+
+Number of Vertices: 5
+126,156
+87,42
+81,110
+115,129
+19,75
+Cost of Triangulation is 659.056814
+
+Number of Vertices: 5
+57,178
+72,26
+106,135
+30,107
+87,91
+Cost of Triangulation is 725.380162
+
+Number of Vertices: 5
+57,106
+185,38
+62,71
+180,41
+20,33
+Cost of Triangulation is 820.075410
+
+Number of Vertices: 5
+79,74
+1,56
+174,86
+46,92
+101,7
+Cost of Triangulation is 745.970227
+
+Number of Vertices: 5
+80,102
+76,12
+194,169
+10,50
+142,8
+Cost of Triangulation is 1041.300690
+
+Number of Vertices: 5
+124,90
+31,137
+100,124
+72,37
+98,139
+Cost of Triangulation is 540.042826
+
+Number of Vertices: 5
+173,186
+163,7
+84,13
+59,90
+76,124
+Cost of Triangulation is 1006.776540
+
+Number of Vertices: 5
+5,82
+164,71
+56,157
+76,55
+65,153
+Cost of Triangulation is 794.045006
+
+Number of Vertices: 5
+82,103
+79,152
+77,48
+86,122
+12,197
+Cost of Triangulation is 550.662897
+
+Number of Vertices: 5
+2,133
+113,170
+34,89
+101,179
+175,188
+Cost of Triangulation is 757.548664
+
+Number of Vertices: 5
+186,56
+138,170
+117,63
+147,139
+66,45
+Cost of Triangulation is 805.903864
+
+Number of Vertices: 5
+135,32
+146,82
+80,164
+41,172
+19,136
+Cost of Triangulation is 804.499963
+
+Number of Vertices: 5
+156,90
+117,185
+48,8
+189,182
+15,51
+Cost of Triangulation is 1220.323423
+
+Number of Vertices: 5
+148,154
+15,135
+68,96
+120,161
+29,55
+Cost of Triangulation is 833.242925
+
+Number of Vertices: 5
+172,44
+89,30
+157,159
+164,166
+195,176
+Cost of Triangulation is 721.665879
+
+Number of Vertices: 5
+120,84
+189,154
+130,174
+109,151
+43,57
+Cost of Triangulation is 684.092304
+
+Number of Vertices: 5
+115,103
+101,171
+47,8
+154,137
+10,165
+Cost of Triangulation is 906.790338
+
+Number of Vertices: 5
+68,178
+58,23
+116,195
+62,112
+172,83
+Cost of Triangulation is 924.862235
+
+Number of Vertices: 5
+167,10
+92,107
+96,29
+151,30
+53,33
+Cost of Triangulation is 668.289334
+
+Number of Vertices: 5
+158,120
+43,165
+66,37
+98,62
+128,89
+Cost of Triangulation is 767.532225
+
+Number of Vertices: 5
+7,73
+131,38
+154,66
+123,110
+52,178
+Cost of Triangulation is 819.853400
+
+Number of Vertices: 5
+20,55
+86,35
+1,90
+11,38
+138,89
+Cost of Triangulation is 600.937092
+
+Number of Vertices: 5
+64,42
+29,182
+162,70
+21,76
+125,198
+Cost of Triangulation is 1100.605963
+
+Number of Vertices: 5
+11,60
+126,154
+93,146
+148,4
+92,158
+Cost of Triangulation is 718.324273
+
+Number of Vertices: 5
+26,118
+195,194
+49,97
+66,186
+43,30
+Cost of Triangulation is 895.336276
+
+Number of Vertices: 5
+163,34
+148,117
+158,70
+32,5
+198,134
+Cost of Triangulation is 813.988334
+
+Number of Vertices: 5
+60,87
+193,195
+41,25
+51,170
+123,23
+Cost of Triangulation is 1091.947182
+
+Number of Vertices: 5
+79,15
+75,129
+28,88
+138,111
+43,186
+Cost of Triangulation is 846.382771
+
+Number of Vertices: 5
+53,4
+153,82
+131,107
+132,50
+163,186
+Cost of Triangulation is 828.664731
+
+Number of Vertices: 5
+83,46
+129,29
+133,100
+83,120
+25,96
+Cost of Triangulation is 608.538168
+
+Number of Vertices: 5
+84,60
+130,93
+150,159
+123,165
+25,152
+Cost of Triangulation is 730.083591
+
+Number of Vertices: 5
+73,76
+57,114
+54,156
+152,84
+127,52
+Cost of Triangulation is 627.903672
+
+Number of Vertices: 5
+124,134
+107,173
+137,35
+142,148
+66,146
+Cost of Triangulation is 563.762840
+
+Number of Vertices: 5
+114,81
+188,12
+41,59
+162,21
+52,13
+Cost of Triangulation is 793.350037
+
+Number of Vertices: 5
+124,51
+4,143
+14,158
+171,106
+171,77
+Cost of Triangulation is 868.942288
+
+Number of Vertices: 5
+192,84
+117,52
+36,159
+28,176
+169,193
+Cost of Triangulation is 1063.072657
+
+Number of Vertices: 5
+172,134
+135,15
+51,48
+35,74
+16,169
+Cost of Triangulation is 1033.498008
+
+Number of Vertices: 6
+193,78
+70,97
+170,23
+81,160
+31,81
+115,56
+Cost of Triangulation is 1008.378994
+
+Number of Vertices: 6
+149,188
+143,29
+82,143
+199,35
+2,150
+35,164
+Cost of Triangulation is 1253.075450
+
+Number of Vertices: 6
+80,144
+44,33
+163,62
+115,160
+137,65
+180,14
+Cost of Triangulation is 1064.070502
+
+Number of Vertices: 6
+157,111
+189,24
+52,141
+192,198
+194,139
+82,13
+Cost of Triangulation is 1273.797197
+
+Number of Vertices: 6
+147,69
+39,190
+82,159
+152,57
+77,21
+198,128
+Cost of Triangulation is 1078.844792
+
+Number of Vertices: 6
+79,17
+0,41
+183,85
+193,23
+25,179
+67,153
+Cost of Triangulation is 1567.123273
+
+Number of Vertices: 6
+156,196
+28,124
+53,78
+177,197
+78,180
+57,3
+Cost of Triangulation is 1381.234978
+
+Number of Vertices: 6
+62,165
+21,41
+101,109
+69,163
+63,104
+181,3
+Cost of Triangulation is 987.064647
+
+Number of Vertices: 6
+114,53
+187,15
+23,43
+11,52
+131,45
+86,1
+Cost of Triangulation is 886.543738
+
+Number of Vertices: 6
+90,160
+139,43
+97,29
+51,162
+166,81
+22,179
+Cost of Triangulation is 1105.006771
+
+Number of Vertices: 6
+74,103
+167,177
+68,123
+87,90
+179,119
+121,183
+Cost of Triangulation is 821.886781
+
+Number of Vertices: 6
+51,60
+59,194
+124,166
+62,98
+39,83
+80,175
+Cost of Triangulation is 848.429320
+
+Number of Vertices: 6
+106,63
+145,79
+131,192
+13,12
+194,44
+183,146
+Cost of Triangulation is 1341.408832
+
+Number of Vertices: 6
+45,47
+166,145
+11,26
+92,31
+119,119
+51,151
+Cost of Triangulation is 1089.366678
+
+Number of Vertices: 6
+194,144
+147,117
+115,79
+193,123
+39,139
+139,32
+Cost of Triangulation is 965.954907
+
+Number of Vertices: 6
+168,58
+160,95
+139,148
+107,19
+167,67
+85,96
+Cost of Triangulation is 730.113468
+
+Number of Vertices: 6
+15,95
+37,172
+103,104
+91,70
+61,187
+171,72
+Cost of Triangulation is 1096.874365
+
+Number of Vertices: 6
+105,21
+21,148
+165,113
+155,57
+51,3
+79,134
+Cost of Triangulation is 1181.177503
+
+Number of Vertices: 6
+167,6
+3,37
+17,99
+148,18
+89,13
+41,137
+Cost of Triangulation is 1252.473531
+
+Number of Vertices: 6
+161,118
+92,125
+43,72
+121,44
+81,156
+24,79
+Cost of Triangulation is 970.664099
+
+Number of Vertices: 6
+72,12
+195,13
+33,149
+134,29
+193,192
+94,164
+Cost of Triangulation is 1457.492388
+
+Number of Vertices: 6
+192,85
+132,27
+17,25
+168,122
+159,43
+36,183
+Cost of Triangulation is 1200.816757
+
+Number of Vertices: 6
+100,56
+77,86
+134,100
+194,18
+109,34
+44,175
+Cost of Triangulation is 871.278597
+
+Number of Vertices: 6
+46,95
+133,40
+198,3
+120,129
+45,88
+169,117
+Cost of Triangulation is 1020.587568
+
+Number of Vertices: 6
+56,32
+192,162
+158,39
+0,115
+74,184
+120,61
+Cost of Triangulation is 1349.319643
+
+Number of Vertices: 6
+97,127
+162,32
+177,185
+73,135
+140,46
+113,114
+Cost of Triangulation is 927.994268
+
+Number of Vertices: 6
+149,99
+59,13
+14,23
+59,97
+66,29
+54,70
+Cost of Triangulation is 721.652343
+
+Number of Vertices: 6
+27,139
+165,181
+151,70
+34,41
+66,144
+81,75
+Cost of Triangulation is 1154.287599
+
+Number of Vertices: 6
+169,102
+6,24
+102,36
+67,81
+11,134
+67,49
+Cost of Triangulation is 898.818930
+
+Number of Vertices: 6
+51,86
+146,119
+67,50
+23,97
+80,138
+55,4
+Cost of Triangulation is 816.501185
+
+Number of Vertices: 6
+75,85
+18,15
+127,80
+68,154
+20,61
+140,90
+Cost of Triangulation is 935.073322
+
+Number of Vertices: 6
+46,99
+8,108
+79,159
+79,156
+29,18
+53,185
+Cost of Triangulation is 819.637698
+
+Number of Vertices: 6
+119,70
+97,14
+38,169
+178,10
+81,54
+78,56
+Cost of Triangulation is 922.132107
+
+Number of Vertices: 6
+184,182
+25,165
+92,17
+76,128
+30,111
+180,44
+Cost of Triangulation is 1359.530350
+
+Number of Vertices: 6
+151,148
+117,169
+23,134
+192,153
+4,153
+130,121
+Cost of Triangulation is 1031.309278
+
+Number of Vertices: 6
+79,140
+55,183
+61,139
+117,153
+51,181
+88,17
+Cost of Triangulation is 709.109513
+
+Number of Vertices: 6
+161,127
+90,70
+7,114
+75,103
+43,35
+7,66
+Cost of Triangulation is 898.068736
+
+Number of Vertices: 6
+49,45
+53,142
+185,160
+59,51
+110,193
+177,195
+Cost of Triangulation is 1317.396073
+
+Number of Vertices: 6
+113,82
+11,111
+78,91
+191,87
+40,108
+9,28
+Cost of Triangulation is 941.019784
+
+Number of Vertices: 6
+28,117
+37,21
+183,106
+28,89
+60,47
+88,21
+Cost of Triangulation is 934.122701
+
+Number of Vertices: 6
+85,56
+199,38
+154,116
+90,126
+194,38
+171,84
+Cost of Triangulation is 841.366988
+
+Number of Vertices: 6
+117,53
+71,141
+174,173
+28,5
+7,164
+166,20
+Cost of Triangulation is 1592.664160
+
+Number of Vertices: 6
+100,34
+114,182
+158,191
+26,11
+7,154
+136,84
+Cost of Triangulation is 1452.814033
+
+Number of Vertices: 6
+137,54
+24,9
+161,46
+147,173
+65,116
+50,15
+Cost of Triangulation is 1166.872086
+
+Number of Vertices: 6
+6,161
+186,161
+43,28
+180,190
+181,124
+116,113
+Cost of Triangulation is 1143.054394
+
+Number of Vertices: 6
+101,107
+140,105
+172,42
+89,179
+160,68
+146,18
+Cost of Triangulation is 836.151041
+
+Number of Vertices: 6
+156,186
+47,28
+124,46
+85,37
+7,7
+77,3
+Cost of Triangulation is 890.121789
+
+Number of Vertices: 6
+92,18
+156,98
+122,63
+194,117
+184,153
+34,28
+Cost of Triangulation is 1022.436552
+
+Number of Vertices: 6
+94,30
+30,20
+169,0
+152,124
+35,24
+51,0
+Cost of Triangulation is 908.626370
+
+Number of Vertices: 6
+99,182
+49,8
+0,191
+60,68
+24,86
+66,142
+Cost of Triangulation is 1180.905440
+
+Number of Vertices: 7
+109,88
+54,149
+56,42
+197,190
+130,155
+79,107
+1,7
+Cost of Triangulation is 1377.838483
+
+Number of Vertices: 7
+100,6
+49,107
+117,166
+142,186
+139,14
+106,79
+183,120
+Cost of Triangulation is 1383.039096
+
+Number of Vertices: 7
+151,123
+165,136
+133,183
+23,47
+160,82
+178,175
+161,153
+Cost of Triangulation is 963.939365
+
+Number of Vertices: 7
+168,97
+2,7
+91,67
+192,50
+132,41
+117,172
+194,151
+Cost of Triangulation is 1307.771939
+
+Number of Vertices: 7
+143,68
+86,142
+146,140
+183,79
+108,147
+110,173
+125,184
+Cost of Triangulation is 803.528538
+
+Number of Vertices: 7
+169,184
+4,27
+63,164
+188,147
+113,58
+30,26
+38,198
+Cost of Triangulation is 1830.675277
+
+Number of Vertices: 7
+139,181
+144,116
+80,77
+87,108
+181,60
+23,0
+85,184
+Cost of Triangulation is 1392.224031
+
+Number of Vertices: 7
+182,140
+23,157
+182,60
+162,165
+40,148
+26,140
+30,118
+Cost of Triangulation is 1198.996935
+
+Number of Vertices: 7
+189,142
+58,53
+23,4
+106,34
+10,133
+0,122
+120,91
+Cost of Triangulation is 1270.918142
+
+Number of Vertices: 7
+42,75
+160,53
+178,80
+158,122
+56,49
+68,20
+181,66
+Cost of Triangulation is 1068.525122
+
+Number of Vertices: 7
+99,33
+189,191
+3,30
+55,6
+164,45
+92,98
+90,89
+Cost of Triangulation is 1314.506641
+
+Number of Vertices: 7
+42,65
+32,108
+111,30
+47,22
+149,113
+189,120
+119,36
+Cost of Triangulation is 1075.299015
+
+Number of Vertices: 7
+25,17
+94,110
+156,138
+96,70
+2,45
+35,82
+125,114
+Cost of Triangulation is 1026.854871
+
+Number of Vertices: 7
+181,37
+113,6
+8,36
+3,127
+145,3
+88,12
+166,47
+Cost of Triangulation is 1156.371151
+
+Number of Vertices: 7
+58,94
+96,97
+178,101
+119,16
+52,162
+62,186
+157,81
+Cost of Triangulation is 1251.709677
+
+Number of Vertices: 7
+145,5
+24,13
+136,145
+167,25
+112,7
+34,111
+130,131
+Cost of Triangulation is 1487.900455
+
+Number of Vertices: 7
+121,20
+10,27
+40,106
+134,88
+36,92
+153,178
+141,48
+Cost of Triangulation is 1319.302031
+
+Number of Vertices: 7
+17,42
+74,51
+143,191
+66,170
+75,43
+182,24
+141,175
+Cost of Triangulation is 1533.735888
+
+Number of Vertices: 7
+100,56
+65,34
+85,190
+74,70
+17,64
+55,179
+152,118
+Cost of Triangulation is 1230.790871
+
+Number of Vertices: 7
+24,37
+174,35
+93,103
+36,145
+55,8
+149,55
+20,148
+Cost of Triangulation is 1508.840739
+
+Number of Vertices: 7
+149,116
+19,54
+148,143
+40,13
+151,163
+117,72
+81,136
+Cost of Triangulation is 1195.199190
+
+Number of Vertices: 7
+156,81
+116,106
+14,148
+51,129
+192,115
+68,155
+22,20
+Cost of Triangulation is 1299.085180
+
+Number of Vertices: 7
+49,139
+110,10
+142,79
+9,120
+22,31
+188,36
+126,83
+Cost of Triangulation is 1353.836811
+
+Number of Vertices: 7
+160,69
+146,124
+122,178
+167,0
+167,43
+1,140
+54,54
+Cost of Triangulation is 1393.281986
+
+Number of Vertices: 7
+53,50
+8,121
+145,197
+151,138
+49,66
+4,192
+65,66
+Cost of Triangulation is 1208.867375
+
+Number of Vertices: 7
+111,24
+175,98
+14,91
+47,44
+80,124
+55,140
+0,8
+Cost of Triangulation is 1367.270785
+
+Number of Vertices: 7
+185,52
+106,182
+68,30
+124,61
+114,92
+43,92
+121,18
+Cost of Triangulation is 1238.022187
+
+Number of Vertices: 7
+32,77
+13,54
+154,104
+98,173
+136,103
+132,153
+129,179
+Cost of Triangulation is 1115.101691
+
+Number of Vertices: 7
+113,28
+63,174
+64,194
+155,62
+73,70
+66,149
+136,174
+Cost of Triangulation is 1253.606758
+
+Number of Vertices: 7
+29,89
+77,165
+143,74
+72,14
+103,127
+165,26
+79,17
+Cost of Triangulation is 1309.219680
+
+Number of Vertices: 7
+97,61
+145,32
+137,108
+98,54
+88,1
+163,137
+34,169
+Cost of Triangulation is 1106.885801
+
+Number of Vertices: 7
+145,154
+186,103
+24,15
+8,22
+67,177
+49,98
+33,173
+Cost of Triangulation is 1546.957494
+
+Number of Vertices: 7
+47,109
+153,157
+137,169
+43,116
+124,115
+76,180
+45,125
+Cost of Triangulation is 880.251768
+
+Number of Vertices: 7
+107,5
+96,129
+155,64
+136,45
+72,69
+53,138
+145,66
+Cost of Triangulation is 932.085926
+
+Number of Vertices: 7
+22,130
+16,78
+105,163
+63,141
+108,0
+163,80
+60,134
+Cost of Triangulation is 1114.028690
+
+Number of Vertices: 7
+127,34
+21,55
+179,183
+134,75
+22,17
+186,198
+165,94
+Cost of Triangulation is 1628.395336
+
+Number of Vertices: 7
+184,153
+33,134
+169,30
+176,70
+128,84
+92,82
+51,41
+Cost of Triangulation is 1350.092309
+
+Number of Vertices: 7
+176,136
+181,111
+98,45
+37,105
+192,47
+148,48
+61,90
+Cost of Triangulation is 1262.230178
+
+Number of Vertices: 7
+78,181
+133,185
+173,12
+12,64
+136,185
+119,101
+66,80
+Cost of Triangulation is 1463.878829
+
+Number of Vertices: 7
+116,6
+159,74
+118,178
+119,25
+143,38
+198,174
+15,145
+Cost of Triangulation is 1458.726381
+
+Number of Vertices: 7
+174,30
+62,48
+65,139
+179,181
+77,44
+8,54
+38,161
+Cost of Triangulation is 1428.719861
+
+Number of Vertices: 7
+0,78
+196,13
+118,107
+10,82
+62,46
+108,48
+87,139
+Cost of Triangulation is 1345.143878
+
+Number of Vertices: 7
+59,113
+153,111
+80,89
+71,172
+198,19
+55,158
+189,54
+Cost of Triangulation is 1281.474060
+
+Number of Vertices: 7
+99,133
+163,162
+96,17
+128,148
+172,4
+131,93
+171,35
+Cost of Triangulation is 1158.775322
+
+Number of Vertices: 7
+50,112
+44,189
+136,75
+11,30
+14,85
+59,116
+183,11
+Cost of Triangulation is 1274.336774
+
+Number of Vertices: 7
+75,77
+98,39
+140,108
+129,95
+113,42
+179,21
+181,72
+Cost of Triangulation is 834.586909
+
+Number of Vertices: 7
+26,96
+20,119
+157,121
+147,91
+17,115
+103,159
+110,120
+Cost of Triangulation is 1046.606944
+
+Number of Vertices: 7
+122,190
+195,190
+40,64
+81,102
+126,134
+168,53
+134,30
+Cost of Triangulation is 1397.015976
+
+Number of Vertices: 7
+70,67
+149,15
+4,49
+124,118
+162,75
+81,48
+1,72
+Cost of Triangulation is 1170.991347
+
+Number of Vertices: 7
+178,59
+142,15
+41,58
+93,85
+134,89
+101,68
+192,155
+Cost of Triangulation is 976.732245
+
+Number of Vertices: 8
+9,9
+22,122
+31,151
+189,170
+154,54
+99,184
+192,111
+156,79
+Cost of Triangulation is 1845.515213
+
+Number of Vertices: 8
+194,110
+21,150
+114,22
+109,110
+56,103
+88,57
+171,110
+81,109
+Cost of Triangulation is 1378.739928
+
+Number of Vertices: 8
+77,74
+30,166
+145,148
+67,51
+29,187
+63,99
+19,187
+103,93
+Cost of Triangulation is 1322.074295
+
+Number of Vertices: 8
+59,99
+176,192
+111,85
+47,176
+187,138
+183,100
+37,140
+177,174
+Cost of Triangulation is 1559.245653
+
+Number of Vertices: 8
+77,129
+17,81
+73,57
+48,107
+64,48
+128,117
+29,178
+196,4
+Cost of Triangulation is 1425.309505
+
+Number of Vertices: 8
+43,5
+6,80
+107,190
+164,89
+7,187
+24,181
+61,85
+63,5
+Cost of Triangulation is 1601.650795
+
+Number of Vertices: 8
+125,19
+38,44
+169,155
+154,79
+140,22
+87,58
+185,118
+193,79
+Cost of Triangulation is 1401.540733
+
+Number of Vertices: 8
+34,6
+162,57
+106,40
+88,18
+102,17
+191,179
+163,183
+57,171
+Cost of Triangulation is 1643.202683
+
+Number of Vertices: 8
+169,124
+20,172
+86,60
+162,2
+66,123
+41,135
+39,11
+194,29
+Cost of Triangulation is 1819.884336
+
+Number of Vertices: 8
+103,112
+96,172
+108,88
+14,120
+92,122
+69,109
+80,149
+187,35
+Cost of Triangulation is 960.929424
+
+Number of Vertices: 8
+131,70
+110,124
+102,132
+58,149
+127,13
+142,20
+78,127
+136,0
+Cost of Triangulation is 1138.141113
+
+Number of Vertices: 8
+55,95
+146,98
+38,140
+26,20
+41,10
+100,190
+20,13
+160,142
+Cost of Triangulation is 1530.837930
+
+Number of Vertices: 8
+148,137
+79,142
+144,172
+140,52
+83,54
+173,70
+33,1
+122,175
+Cost of Triangulation is 1442.435462
+
+Number of Vertices: 8
+9,63
+49,156
+100,110
+156,25
+41,41
+146,196
+158,179
+156,47
+Cost of Triangulation is 1806.054088
+
+Number of Vertices: 8
+75,2
+51,104
+10,179
+46,94
+133,95
+184,140
+71,97
+58,70
+Cost of Triangulation is 967.144069
+
+Number of Vertices: 8
+68,96
+126,82
+193,104
+173,178
+36,164
+55,47
+188,139
+147,125
+Cost of Triangulation is 1411.491220
+
+Number of Vertices: 8
+107,127
+46,69
+166,2
+25,131
+65,38
+188,112
+64,127
+41,0
+Cost of Triangulation is 1643.701926
+
+Number of Vertices: 8
+103,135
+195,15
+79,154
+196,113
+108,27
+82,109
+185,72
+15,17
+Cost of Triangulation is 1753.834723
+
+Number of Vertices: 8
+8,109
+117,99
+9,22
+53,190
+112,118
+7,159
+151,159
+0,32
+Cost of Triangulation is 1822.840198
+
+Number of Vertices: 8
+68,142
+166,81
+89,100
+74,149
+170,45
+63,103
+193,39
+119,8
+Cost of Triangulation is 1383.879194
+
+Number of Vertices: 8
+0,163
+16,17
+116,172
+19,71
+151,14
+68,158
+70,26
+117,35
+Cost of Triangulation is 1857.278685
+
+Number of Vertices: 8
+35,157
+73,113
+53,151
+9,0
+110,174
+19,102
+144,8
+180,139
+Cost of Triangulation is 1739.070106
+
+Number of Vertices: 8
+74,51
+107,8
+71,44
+193,110
+108,22
+79,173
+89,180
+82,24
+Cost of Triangulation is 1213.643921
+
+Number of Vertices: 8
+138,196
+77,189
+95,122
+154,101
+58,164
+35,158
+94,146
+168,159
+Cost of Triangulation is 981.143023
+
+Number of Vertices: 8
+40,59
+136,60
+56,63
+138,13
+59,75
+52,42
+145,184
+54,76
+Cost of Triangulation is 901.599817
+
+Number of Vertices: 8
+197,25
+115,127
+67,185
+11,130
+66,69
+108,39
+131,102
+92,83
+Cost of Triangulation is 1260.739584
+
+Number of Vertices: 8
+92,129
+119,138
+122,128
+52,119
+83,164
+106,180
+134,63
+135,58
+Cost of Triangulation is 877.554868
+
+Number of Vertices: 8
+188,2
+171,170
+80,185
+18,160
+184,106
+169,193
+6,147
+58,43
+Cost of Triangulation is 2123.907865
+
+Number of Vertices: 8
+111,130
+104,123
+25,157
+104,187
+81,13
+57,0
+29,132
+88,146
+Cost of Triangulation is 1287.130369
+
+Number of Vertices: 8
+80,173
+55,111
+114,173
+28,181
+11,44
+47,1
+197,120
+172,145
+Cost of Triangulation is 1815.128125
+
+Number of Vertices: 8
+102,105
+106,102
+143,35
+18,44
+163,77
+69,47
+166,194
+134,77
+Cost of Triangulation is 1249.373170
+
+Number of Vertices: 8
+63,67
+143,66
+156,39
+46,23
+109,186
+56,1
+33,131
+111,24
+Cost of Triangulation is 1415.248638
+
+Number of Vertices: 8
+88,158
+160,195
+139,7
+46,125
+123,156
+41,115
+115,168
+145,176
+Cost of Triangulation is 1288.685551
+
+Number of Vertices: 8
+80,27
+98,17
+191,114
+60,146
+72,44
+108,14
+193,24
+7,172
+Cost of Triangulation is 1577.639959
+
+Number of Vertices: 8
+137,82
+117,166
+5,170
+146,5
+44,129
+28,75
+79,183
+27,129
+Cost of Triangulation is 1489.231445
+
+Number of Vertices: 8
+150,198
+102,96
+131,28
+162,33
+188,189
+4,182
+2,83
+148,144
+Cost of Triangulation is 1795.344228
+
+Number of Vertices: 8
+89,101
+198,66
+139,151
+116,60
+161,103
+109,117
+156,87
+196,153
+Cost of Triangulation is 1154.395788
+
+Number of Vertices: 8
+108,160
+46,44
+24,5
+96,177
+105,10
+75,23
+73,196
+113,178
+Cost of Triangulation is 1522.603810
+
+Number of Vertices: 8
+170,7
+10,178
+195,172
+24,15
+82,154
+83,0
+58,114
+107,112
+Cost of Triangulation is 2050.576825
+
+Number of Vertices: 8
+33,110
+79,173
+172,126
+185,18
+63,22
+100,136
+166,197
+179,191
+Cost of Triangulation is 1661.641743
+
+Number of Vertices: 8
+19,80
+126,47
+45,32
+166,117
+160,9
+74,132
+183,115
+26,62
+Cost of Triangulation is 1597.503446
+
+Number of Vertices: 8
+12,176
+11,29
+151,69
+178,77
+180,160
+15,36
+126,43
+168,137
+Cost of Triangulation is 1907.441668
+
+Number of Vertices: 8
+172,151
+28,100
+20,188
+97,140
+191,71
+112,59
+81,104
+91,138
+Cost of Triangulation is 1263.348911
+
+Number of Vertices: 8
+178,38
+177,192
+112,57
+179,150
+20,18
+183,30
+161,67
+118,19
+Cost of Triangulation is 1534.208063
+
+Number of Vertices: 8
+159,164
+9,79
+36,196
+182,6
+36,183
+196,81
+30,73
+85,143
+Cost of Triangulation is 1987.048973
+
+Number of Vertices: 8
+104,70
+119,75
+78,19
+127,137
+177,158
+173,27
+39,12
+36,15
+Cost of Triangulation is 1332.066454
+
+Number of Vertices: 8
+34,158
+53,0
+180,26
+131,97
+81,26
+69,3
+197,84
+140,172
+Cost of Triangulation is 1833.869569
+
+Number of Vertices: 8
+0,151
+7,52
+146,29
+120,162
+0,9
+135,102
+189,191
+49,165
+Cost of Triangulation is 2003.405778
+
+Number of Vertices: 8
+85,12
+116,109
+140,0
+105,79
+113,130
+103,62
+42,150
+171,131
+Cost of Triangulation is 1287.836510
+
+Number of Vertices: 8
+58,6
+3,5
+37,80
+193,23
+86,27
+74,44
+81,77
+183,49
+Cost of Triangulation is 1302.955207
+
+Number of Vertices: 9
+121,191
+34,95
+53,140
+193,192
+186,26
+62,194
+189,196
+32,114
+31,189
+Cost of Triangulation is 2007.420511
+
+Number of Vertices: 9
+184,120
+94,77
+12,145
+41,189
+125,65
+43,72
+137,150
+100,71
+29,173
+Cost of Triangulation is 1679.711550
+
+Number of Vertices: 9
+53,194
+186,116
+77,85
+142,181
+105,17
+97,154
+127,140
+26,133
+28,158
+Cost of Triangulation is 1677.010317
+
+Number of Vertices: 9
+189,136
+53,136
+68,112
+99,120
+65,151
+54,32
+190,198
+68,76
+90,70
+Cost of Triangulation is 1524.890733
+
+Number of Vertices: 9
+58,149
+68,185
+114,65
+29,97
+121,112
+140,85
+21,188
+158,115
+148,46
+Cost of Triangulation is 1492.099028
+
+Number of Vertices: 9
+161,151
+0,166
+163,19
+199,101
+25,109
+4,33
+186,91
+123,127
+101,64
+Cost of Triangulation is 2126.101558
+
+Number of Vertices: 9
+89,75
+68,81
+72,34
+75,193
+19,113
+179,36
+199,76
+41,185
+91,36
+Cost of Triangulation is 1870.561289
+
+Number of Vertices: 9
+175,187
+115,78
+68,1
+155,176
+187,78
+66,82
+140,90
+185,31
+27,49
+Cost of Triangulation is 2006.351789
+
+Number of Vertices: 9
+8,150
+49,159
+127,126
+55,143
+77,147
+160,110
+181,88
+195,66
+168,72
+Cost of Triangulation is 1164.009939
+
+Number of Vertices: 9
+158,15
+27,100
+90,179
+192,119
+132,17
+102,93
+142,37
+71,32
+59,147
+Cost of Triangulation is 1834.968172
+
+Number of Vertices: 9
+42,72
+51,73
+149,127
+57,135
+30,112
+130,57
+152,115
+23,123
+5,81
+Cost of Triangulation is 1284.434840
+
+Number of Vertices: 9
+192,65
+72,67
+86,163
+196,171
+126,30
+62,145
+152,102
+27,85
+12,103
+Cost of Triangulation is 1915.720506
+
+Number of Vertices: 9
+40,114
+137,158
+10,153
+142,95
+81,160
+0,190
+1,175
+45,22
+61,155
+Cost of Triangulation is 1501.427531
+
+Number of Vertices: 9
+19,8
+11,174
+119,35
+4,82
+164,97
+192,9
+137,75
+166,97
+132,0
+Cost of Triangulation is 1722.194493
+
+Number of Vertices: 9
+120,140
+83,147
+151,156
+177,52
+86,112
+118,197
+198,113
+29,187
+46,188
+Cost of Triangulation is 1572.155839
+
+Number of Vertices: 9
+128,167
+74,135
+63,65
+156,143
+28,78
+29,12
+62,122
+11,11
+120,101
+Cost of Triangulation is 1482.467631
+
+Number of Vertices: 9
+181,98
+168,80
+84,106
+16,152
+196,163
+59,71
+83,119
+42,15
+15,120
+Cost of Triangulation is 1745.913380
+
+Number of Vertices: 9
+159,72
+148,197
+72,188
+32,50
+186,25
+66,148
+113,36
+89,162
+105,16
+Cost of Triangulation is 1917.518396
+
+Number of Vertices: 9
+104,190
+142,56
+54,46
+42,181
+193,80
+179,55
+26,74
+196,119
+126,40
+Cost of Triangulation is 1921.695652
+
+Number of Vertices: 9
+17,195
+130,87
+54,172
+40,176
+191,101
+134,151
+40,139
+96,94
+183,77
+Cost of Triangulation is 1682.933258
+
+Number of Vertices: 9
+28,42
+167,151
+138,166
+133,98
+181,178
+69,44
+181,5
+95,180
+10,108
+Cost of Triangulation is 2012.225882
+
+Number of Vertices: 9
+39,75
+130,41
+193,83
+15,194
+87,41
+162,21
+13,141
+6,34
+199,145
+Cost of Triangulation is 2230.483373
+
+Number of Vertices: 9
+95,54
+141,69
+128,121
+58,154
+115,26
+143,177
+48,10
+89,8
+144,102
+Cost of Triangulation is 1538.625752
+
+Number of Vertices: 9
+175,178
+121,42
+135,9
+173,72
+129,28
+132,28
+8,176
+2,126
+173,36
+Cost of Triangulation is 1521.210202
+
+Number of Vertices: 9
+61,56
+138,182
+136,14
+21,33
+134,95
+111,67
+63,148
+134,35
+145,6
+Cost of Triangulation is 1550.000115
+
+Number of Vertices: 9
+150,179
+35,3
+174,25
+126,195
+145,24
+196,42
+76,144
+0,78
+189,47
+Cost of Triangulation is 2134.732094
+
+Number of Vertices: 9
+85,59
+0,85
+144,19
+146,165
+141,88
+148,174
+14,148
+26,34
+120,30
+Cost of Triangulation is 1936.721548
+
+Number of Vertices: 9
+15,131
+18,86
+157,186
+29,174
+7,52
+73,14
+61,118
+54,15
+134,109
+Cost of Triangulation is 1766.700202
+
+Number of Vertices: 9
+88,77
+42,111
+48,116
+37,104
+8,104
+141,130
+149,124
+52,74
+51,168
+Cost of Triangulation is 1107.180178
+
+Number of Vertices: 9
+4,63
+7,167
+156,72
+49,5
+2,79
+167,42
+106,41
+58,184
+162,174
+Cost of Triangulation is 2272.245299
+
+Number of Vertices: 9
+147,192
+159,36
+104,67
+150,128
+185,20
+11,141
+123,194
+172,61
+43,137
+Cost of Triangulation is 2133.954680
+
+Number of Vertices: 9
+55,140
+146,31
+91,20
+22,130
+127,96
+66,28
+139,121
+101,22
+7,160
+Cost of Triangulation is 1630.080496
+
+Number of Vertices: 9
+174,169
+77,110
+173,37
+140,81
+1,154
+187,14
+118,111
+9,158
+98,109
+Cost of Triangulation is 1656.173153
+
+Number of Vertices: 9
+161,113
+105,98
+40,5
+140,112
+38,71
+181,39
+133,118
+111,126
+121,50
+Cost of Triangulation is 1305.031464
+
+Number of Vertices: 9
+127,121
+108,74
+199,10
+124,148
+144,94
+151,167
+63,89
+143,73
+169,100
+Cost of Triangulation is 1258.888232
+
+Number of Vertices: 9
+180,125
+110,36
+161,68
+0,171
+88,49
+105,62
+47,94
+65,54
+188,100
+Cost of Triangulation is 1433.423054
+
+Number of Vertices: 9
+26,133
+3,54
+60,42
+174,189
+53,82
+167,40
+96,143
+125,82
+121,153
+Cost of Triangulation is 1626.184289
+
+Number of Vertices: 9
+31,60
+119,100
+19,122
+77,106
+91,174
+48,146
+101,59
+128,41
+105,198
+Cost of Triangulation is 1525.366056
+
+Number of Vertices: 9
+30,108
+197,41
+127,1
+94,185
+101,156
+46,38
+110,197
+172,37
+57,28
+Cost of Triangulation is 2055.934649
+
+Number of Vertices: 9
+88,56
+49,73
+168,178
+174,21
+103,144
+177,199
+21,76
+4,149
+80,173
+Cost of Triangulation is 2024.565780
+
+Number of Vertices: 9
+104,120
+194,62
+172,128
+125,133
+19,99
+197,107
+15,191
+109,102
+141,104
+Cost of Triangulation is 1538.530059
+
+Number of Vertices: 9
+197,169
+195,99
+44,193
+165,183
+136,128
+71,114
+189,177
+81,0
+60,122
+Cost of Triangulation is 1852.907257
+
+Number of Vertices: 9
+58,190
+31,82
+182,92
+168,186
+23,10
+60,42
+155,125
+32,83
+90,57
+Cost of Triangulation is 1909.114312
+
+Number of Vertices: 9
+42,136
+11,7
+187,38
+172,132
+70,165
+23,163
+29,1
+185,120
+85,179
+Cost of Triangulation is 2291.142375
+
+Number of Vertices: 9
+83,96
+133,18
+187,153
+71,127
+169,84
+122,107
+25,72
+150,83
+77,188
+Cost of Triangulation is 1640.613159
+
+Number of Vertices: 9
+155,122
+197,178
+184,184
+113,141
+151,25
+127,170
+46,160
+13,58
+6,29
+Cost of Triangulation is 1740.100708
+
+Number of Vertices: 9
+39,31
+81,141
+56,179
+72,2
+148,80
+33,197
+110,11
+85,149
+52,80
+Cost of Triangulation is 1789.314028
+
+Number of Vertices: 9
+106,114
+112,191
+155,5
+71,73
+133,41
+158,6
+71,65
+96,153
+199,198
+Cost of Triangulation is 1620.069059
+
+Number of Vertices: 9
+53,139
+56,26
+43,22
+21,41
+7,189
+171,73
+15,131
+188,166
+26,63
+Cost of Triangulation is 1772.625547
+
+Number of Vertices: 9
+189,97
+195,87
+120,73
+80,81
+29,96
+153,182
+147,128
+16,53
+26,94
+Cost of Triangulation is 1534.734660
+
+Number of Vertices: 10
+187,46
+139,156
+5,142
+66,2
+141,64
+4,170
+41,99
+156,78
+168,123
+46,128
+Cost of Triangulation is 2269.905108
+
+Number of Vertices: 10
+34,177
+183,53
+154,40
+44,52
+16,186
+110,181
+82,70
+13,117
+183,38
+195,25
+Cost of Triangulation is 2059.817168
+
+Number of Vertices: 10
+118,81
+25,186
+173,40
+72,83
+79,159
+127,121
+140,75
+8,12
+124,124
+195,106
+Cost of Triangulation is 1748.385864
+
+Number of Vertices: 10
+2,70
+135,1
+52,154
+21,77
+22,42
+113,27
+91,118
+74,143
+15,3
+163,51
+Cost of Triangulation is 2080.700286
+
+Number of Vertices: 10
+124,53
+75,69
+181,159
+28,3
+50,47
+187,188
+192,164
+90,55
+81,194
+154,80
+Cost of Triangulation is 2029.754151
+
+Number of Vertices: 10
+151,80
+165,115
+33,186
+1,170
+97,136
+74,193
+16,100
+153,43
+154,164
+59,190
+Cost of Triangulation is 2061.145064
+
+Number of Vertices: 10
+142,140
+176,191
+23,81
+32,78
+77,80
+78,153
+21,123
+101,59
+140,32
+147,167
+Cost of Triangulation is 1821.705902
+
+Number of Vertices: 10
+179,100
+92,94
+103,118
+89,11
+38,6
+40,46
+79,186
+160,27
+48,134
+125,140
+Cost of Triangulation is 1803.005739
+
+Number of Vertices: 10
+27,146
+161,23
+31,1
+61,81
+123,131
+96,91
+1,182
+154,56
+126,16
+23,86
+Cost of Triangulation is 2061.095092
+
+Number of Vertices: 10
+153,42
+180,50
+128,50
+198,45
+109,135
+54,72
+94,94
+85,182
+28,104
+129,46
+Cost of Triangulation is 1417.843570
+
+Number of Vertices: 10
+41,174
+33,11
+123,107
+198,188
+48,165
+135,38
+195,106
+184,159
+128,78
+197,173
+Cost of Triangulation is 2251.260908
+
+Number of Vertices: 10
+80,96
+21,35
+188,0
+89,178
+182,6
+92,177
+145,39
+144,179
+61,39
+150,27
+Cost of Triangulation is 2225.027825
+
+Number of Vertices: 10
+60,6
+173,23
+45,177
+34,179
+89,18
+172,184
+106,87
+186,8
+178,77
+48,24
+Cost of Triangulation is 2245.338003
+
+Number of Vertices: 10
+191,88
+112,152
+25,62
+180,125
+141,191
+20,148
+17,130
+35,84
+142,135
+72,143
+Cost of Triangulation is 1837.395209
+
+Number of Vertices: 10
+129,35
+26,197
+154,65
+14,36
+45,131
+102,191
+126,132
+37,1
+67,195
+199,191
+Cost of Triangulation is 2617.558368
+
+Number of Vertices: 10
+183,90
+155,115
+8,89
+12,40
+58,17
+163,186
+3,94
+99,74
+24,199
+19,103
+Cost of Triangulation is 2003.869065
+
+Number of Vertices: 10
+37,77
+159,46
+80,185
+105,10
+183,199
+6,41
+179,171
+28,68
+47,28
+35,167
+Cost of Triangulation is 2395.617500
+
+Number of Vertices: 10
+73,122
+52,42
+113,132
+87,165
+34,108
+108,70
+115,75
+8,114
+16,76
+145,136
+Cost of Triangulation is 1475.403551
+
+Number of Vertices: 10
+5,51
+142,19
+151,100
+141,169
+0,46
+74,109
+50,107
+46,32
+175,170
+158,185
+Cost of Triangulation is 2263.380329
+
+Number of Vertices: 10
+105,91
+45,73
+194,93
+70,81
+189,56
+180,85
+164,122
+56,166
+53,164
+148,4
+Cost of Triangulation is 1793.323505
+
+Number of Vertices: 10
+121,76
+98,1
+188,34
+142,122
+60,128
+162,57
+88,127
+7,48
+150,124
+168,186
+Cost of Triangulation is 1717.812755
+
+Number of Vertices: 10
+85,165
+153,119
+88,12
+79,101
+166,138
+136,36
+32,96
+140,176
+178,42
+172,37
+Cost of Triangulation is 2027.084054
+
+Number of Vertices: 10
+163,144
+186,196
+68,189
+62,188
+35,171
+58,161
+27,180
+69,28
+186,171
+79,144
+Cost of Triangulation is 1641.639681
+
+Number of Vertices: 10
+74,131
+74,134
+195,183
+199,113
+109,137
+169,195
+138,68
+50,130
+184,76
+75,105
+Cost of Triangulation is 1603.164344
+
+Number of Vertices: 10
+161,102
+119,140
+58,20
+158,194
+34,9
+162,135
+17,76
+164,129
+9,179
+190,54
+Cost of Triangulation is 2175.827106
+
+Number of Vertices: 10
+74,36
+98,157
+183,110
+58,50
+6,131
+15,146
+158,91
+30,41
+131,108
+195,45
+Cost of Triangulation is 2054.904729
+
+Number of Vertices: 10
+172,173
+164,27
+142,14
+23,140
+102,175
+101,2
+31,107
+195,116
+188,105
+114,104
+Cost of Triangulation is 2234.381760
+
+Number of Vertices: 10
+87,9
+105,12
+147,151
+49,8
+139,123
+37,108
+155,27
+138,99
+26,165
+46,113
+Cost of Triangulation is 2025.514583
+
+Number of Vertices: 10
+147,72
+107,194
+91,121
+138,105
+155,136
+33,135
+33,121
+83,27
+78,166
+20,163
+Cost of Triangulation is 1725.565574
+
+Number of Vertices: 10
+189,166
+47,80
+161,91
+20,91
+164,90
+127,189
+76,32
+151,182
+12,113
+167,3
+Cost of Triangulation is 2464.337829
+
+Number of Vertices: 10
+147,172
+137,128
+101,54
+69,183
+114,183
+152,20
+77,61
+161,190
+161,166
+7,196
+Cost of Triangulation is 1824.844920
+
+Number of Vertices: 10
+165,179
+51,168
+20,29
+35,27
+151,29
+150,129
+13,124
+145,118
+81,151
+183,87
+Cost of Triangulation is 2179.805954
+
+Number of Vertices: 10
+171,174
+179,82
+6,75
+134,92
+58,62
+127,170
+174,153
+176,83
+88,19
+120,193
+Cost of Triangulation is 1980.729343
+
+Number of Vertices: 10
+133,66
+114,65
+20,126
+65,164
+120,0
+8,49
+176,195
+131,8
+108,137
+128,127
+Cost of Triangulation is 2138.287337
+
+Number of Vertices: 10
+63,87
+78,157
+75,143
+175,106
+0,158
+11,65
+118,136
+152,92
+169,136
+193,127
+Cost of Triangulation is 1742.570998
+
+Number of Vertices: 10
+152,24
+4,145
+97,148
+198,94
+66,23
+37,110
+172,130
+171,67
+32,56
+132,66
+Cost of Triangulation is 2203.551541
+
+Number of Vertices: 10
+104,118
+186,62
+134,61
+97,141
+191,3
+164,9
+33,87
+29,92
+192,43
+30,70
+Cost of Triangulation is 1869.226122
+
+Number of Vertices: 10
+80,8
+3,20
+31,174
+181,161
+181,39
+101,160
+159,157
+116,11
+132,124
+173,178
+Cost of Triangulation is 2246.392314
+
+Number of Vertices: 10
+87,34
+38,109
+191,142
+113,14
+71,137
+96,105
+114,25
+26,6
+140,47
+171,31
+Cost of Triangulation is 1727.795300
+
+Number of Vertices: 10
+119,137
+69,198
+66,65
+147,54
+135,163
+24,158
+88,82
+171,35
+81,86
+48,39
+Cost of Triangulation is 1674.360947
+
+Number of Vertices: 10
+63,17
+145,109
+87,152
+52,86
+119,0
+53,130
+13,126
+75,3
+148,77
+2,65
+Cost of Triangulation is 1962.748124
+
+Number of Vertices: 10
+55,63
+64,183
+192,2
+18,20
+85,160
+192,179
+154,34
+23,140
+160,136
+170,104
+Cost of Triangulation is 2667.458417
+
+Number of Vertices: 10
+124,90
+116,192
+161,77
+148,73
+149,133
+158,168
+180,61
+12,34
+21,158
+198,149
+Cost of Triangulation is 1987.799321
+
+Number of Vertices: 10
+16,178
+58,192
+82,39
+69,37
+147,178
+141,97
+43,79
+111,181
+165,83
+134,52
+Cost of Triangulation is 2066.097548
+
+Number of Vertices: 10
+192,190
+21,124
+52,15
+199,49
+86,150
+38,116
+36,13
+183,101
+91,141
+57,83
+Cost of Triangulation is 2309.173691
+
+Number of Vertices: 10
+48,67
+6,120
+164,120
+0,73
+12,122
+147,172
+190,39
+70,44
+18,61
+111,175
+Cost of Triangulation is 2034.257393
+
+Number of Vertices: 10
+59,76
+73,36
+161,116
+77,186
+49,86
+79,0
+149,55
+11,135
+153,51
+78,107
+Cost of Triangulation is 1848.487222
+
+Number of Vertices: 10
+47,76
+107,59
+60,3
+0,167
+52,48
+50,18
+48,190
+179,126
+179,123
+16,1
+Cost of Triangulation is 2142.419621
+
+Number of Vertices: 10
+97,66
+81,100
+87,151
+116,21
+13,18
+33,127
+148,109
+62,13
+36,195
+123,72
+Cost of Triangulation is 2026.964896
+
+Number of Vertices: 10
+147,80
+63,34
+89,175
+167,130
+88,119
+35,159
+112,172
+136,74
+23,64
+178,169
+Cost of Triangulation is 1942.378499
+
+Number of Vertices: 11
+105,194
+193,52
+43,163
+199,178
+10,83
+69,124
+127,53
+107,9
+82,105
+188,166
+87,62
+Cost of Triangulation is 2395.631788
+
+Number of Vertices: 11
+97,42
+46,176
+173,193
+106,48
+54,88
+20,195
+178,66
+12,9
+35,179
+182,103
+144,50
+Cost of Triangulation is 2733.401623
+
+Number of Vertices: 11
+16,94
+71,40
+94,30
+122,90
+44,75
+33,65
+55,6
+188,58
+44,104
+150,1
+38,118
+Cost of Triangulation is 1678.751612
+
+Number of Vertices: 11
+189,155
+87,96
+193,114
+195,179
+10,70
+162,155
+128,177
+8,48
+118,34
+59,198
+65,22
+Cost of Triangulation is 2504.835190
+
+Number of Vertices: 11
+77,96
+179,26
+35,33
+39,154
+146,68
+21,129
+153,187
+75,92
+9,86
+155,177
+91,56
+Cost of Triangulation is 2224.994258
+
+Number of Vertices: 11
+54,95
+161,115
+152,175
+172,11
+197,114
+41,156
+26,148
+2,56
+23,26
+159,123
+151,174
+Cost of Triangulation is 2254.872725
+
+Number of Vertices: 11
+197,40
+13,63
+106,93
+182,90
+188,62
+11,118
+180,153
+60,14
+9,188
+117,32
+65,98
+Cost of Triangulation is 2662.595952
+
+Number of Vertices: 11
+126,157
+66,55
+76,44
+164,7
+156,27
+29,141
+19,64
+174,32
+189,176
+32,192
+120,45
+Cost of Triangulation is 2339.236454
+
+Number of Vertices: 11
+27,128
+53,165
+105,192
+148,108
+59,70
+193,150
+159,93
+75,168
+165,97
+167,88
+129,3
+Cost of Triangulation is 1917.553563
+
+Number of Vertices: 11
+170,120
+77,129
+4,118
+10,76
+103,115
+17,152
+58,15
+127,85
+42,194
+33,177
+183,58
+Cost of Triangulation is 2211.792568
+
+Number of Vertices: 11
+98,183
+144,10
+188,61
+142,171
+114,93
+94,8
+182,82
+71,168
+81,148
+138,97
+164,180
+Cost of Triangulation is 2107.906185
+
+Number of Vertices: 11
+36,20
+153,105
+176,142
+9,142
+169,59
+152,74
+22,29
+44,24
+185,116
+78,196
+1,175
+Cost of Triangulation is 2556.677477
+
+Number of Vertices: 11
+37,192
+0,137
+17,77
+164,3
+94,162
+64,114
+122,26
+190,154
+162,172
+112,8
+185,53
+Cost of Triangulation is 2669.576018
+
+Number of Vertices: 11
+71,170
+78,190
+171,177
+10,131
+127,180
+147,163
+170,118
+71,48
+153,171
+178,21
+176,20
+Cost of Triangulation is 2029.379565
+
+Number of Vertices: 11
+94,75
+174,141
+129,41
+143,105
+171,116
+95,75
+189,180
+107,16
+79,81
+158,18
+116,35
+Cost of Triangulation is 1596.322562
+
+Number of Vertices: 11
+113,128
+50,113
+38,4
+160,130
+19,163
+134,136
+121,142
+184,22
+170,93
+65,101
+152,57
+Cost of Triangulation is 1918.887772
+
+Number of Vertices: 11
+183,196
+47,181
+15,86
+88,30
+154,78
+137,99
+81,29
+164,41
+174,145
+74,90
+197,100
+Cost of Triangulation is 2291.899729
+
+Number of Vertices: 11
+136,24
+60,138
+155,73
+52,80
+88,117
+138,76
+15,57
+187,155
+62,58
+46,103
+182,124
+Cost of Triangulation is 2128.934880
+
+Number of Vertices: 11
+131,48
+104,134
+154,9
+33,119
+49,173
+160,180
+134,91
+69,182
+195,30
+74,88
+193,101
+Cost of Triangulation is 2321.637643
+
+Number of Vertices: 11
+67,49
+94,156
+126,9
+81,90
+36,197
+144,49
+30,61
+7,140
+108,130
+46,131
+103,183
+Cost of Triangulation is 2127.912647
+
+Number of Vertices: 11
+199,29
+184,187
+89,121
+6,50
+171,44
+144,189
+21,169
+148,133
+69,194
+6,168
+135,66
+Cost of Triangulation is 2659.098144
+
+Number of Vertices: 11
+128,153
+29,54
+136,160
+0,108
+120,59
+124,107
+20,15
+132,62
+54,39
+114,51
+148,75
+Cost of Triangulation is 1779.276243
+
+Number of Vertices: 11
+57,42
+143,11
+29,95
+25,31
+126,194
+8,176
+100,176
+55,197
+37,108
+38,112
+12,155
+Cost of Triangulation is 1939.091839
+
+Number of Vertices: 11
+5,148
+164,163
+124,148
+6,187
+157,142
+22,143
+194,167
+126,10
+174,195
+176,177
+133,25
+Cost of Triangulation is 2199.701504
+
+Number of Vertices: 11
+31,45
+87,103
+76,18
+20,78
+131,33
+79,48
+98,108
+108,10
+51,199
+139,168
+126,70
+Cost of Triangulation is 1927.949126
+
+Number of Vertices: 11
+17,173
+86,98
+73,161
+57,59
+137,184
+27,87
+196,149
+187,194
+114,69
+190,22
+160,162
+Cost of Triangulation is 2304.395532
+
+Number of Vertices: 11
+174,103
+72,101
+79,88
+122,198
+41,198
+104,96
+128,178
+67,86
+115,53
+68,91
+138,33
+Cost of Triangulation is 1524.618012
+
+Number of Vertices: 11
+158,57
+33,133
+78,47
+185,52
+164,195
+36,10
+141,108
+1,151
+125,11
+82,60
+13,58
+Cost of Triangulation is 2573.368842
+
+Number of Vertices: 11
+93,191
+78,130
+65,194
+115,148
+104,88
+1,71
+95,152
+149,86
+18,189
+120,197
+8,151
+Cost of Triangulation is 1769.978238
+
+Number of Vertices: 11
+45,180
+2,184
+68,53
+144,139
+28,103
+116,82
+37,193
+56,53
+80,12
+26,187
+0,112
+Cost of Triangulation is 2037.286909
+
+Number of Vertices: 11
+129,52
+43,168
+46,180
+112,36
+121,6
+40,82
+109,84
+108,13
+48,58
+18,92
+154,150
+Cost of Triangulation is 2032.583891
+
+Number of Vertices: 11
+128,38
+23,176
+32,170
+103,71
+84,46
+57,22
+0,185
+184,92
+167,86
+26,182
+164,129
+Cost of Triangulation is 2384.473253
+
+Number of Vertices: 11
+73,36
+141,173
+108,19
+100,25
+115,151
+191,176
+113,127
+21,137
+100,174
+121,78
+84,11
+Cost of Triangulation is 1633.412743
+
+Number of Vertices: 11
+198,156
+121,106
+132,194
+145,85
+84,21
+153,142
+199,54
+50,115
+78,193
+142,11
+46,138
+Cost of Triangulation is 2309.226581
+
+Number of Vertices: 11
+70,190
+40,46
+141,32
+169,109
+26,155
+80,79
+183,186
+19,146
+175,118
+58,158
+115,6
+Cost of Triangulation is 2563.288329
+
+Number of Vertices: 11
+147,12
+49,160
+48,25
+91,169
+45,95
+116,48
+82,189
+91,123
+187,64
+110,190
+59,137
+Cost of Triangulation is 2057.929111
+
+Number of Vertices: 11
+157,55
+124,73
+39,113
+55,51
+164,59
+140,147
+91,104
+57,54
+91,89
+100,153
+24,57
+Cost of Triangulation is 1760.727945
+
+Number of Vertices: 11
+39,32
+11,82
+20,116
+165,76
+23,107
+52,140
+111,114
+14,38
+51,87
+151,186
+178,162
+Cost of Triangulation is 1917.489175
+
+Number of Vertices: 11
+19,126
+163,180
+183,149
+59,0
+39,67
+64,128
+157,64
+90,88
+54,135
+169,173
+142,39
+Cost of Triangulation is 2320.027102
+
+Number of Vertices: 11
+156,0
+115,167
+145,146
+112,101
+68,161
+144,178
+60,131
+38,191
+156,155
+123,141
+155,165
+Cost of Triangulation is 1575.282521
+
+Number of Vertices: 11
+42,153
+191,102
+150,190
+65,65
+60,44
+154,182
+119,184
+58,82
+86,53
+176,179
+62,193
+Cost of Triangulation is 2304.732230
+
+Number of Vertices: 11
+155,17
+153,32
+19,106
+74,4
+121,54
+118,112
+33,177
+178,1
+125,85
+69,134
+67,80
+Cost of Triangulation is 2034.578731
+
+Number of Vertices: 11
+87,126
+105,47
+48,15
+34,129
+60,154
+92,154
+193,78
+34,51
+120,169
+197,180
+66,75
+Cost of Triangulation is 2143.688196
+
+Number of Vertices: 11
+199,171
+51,121
+115,149
+49,28
+34,30
+166,109
+184,71
+186,26
+142,5
+41,112
+15,192
+Cost of Triangulation is 2361.753317
+
+Number of Vertices: 11
+118,195
+166,2
+60,92
+33,122
+117,188
+196,61
+105,93
+98,137
+155,151
+50,48
+75,172
+Cost of Triangulation is 2270.021806
+
+Number of Vertices: 11
+100,133
+41,33
+4,64
+154,181
+156,65
+80,15
+26,196
+104,169
+193,78
+38,46
+17,71
+Cost of Triangulation is 2608.077284
+
+Number of Vertices: 11
+193,68
+99,35
+4,79
+88,103
+97,1
+66,111
+75,133
+167,107
+106,43
+73,80
+144,154
+Cost of Triangulation is 1867.122276
+
+Number of Vertices: 11
+177,38
+66,62
+76,147
+145,146
+153,104
+141,22
+15,124
+184,47
+176,15
+27,73
+65,149
+Cost of Triangulation is 2242.377406
+
+Number of Vertices: 11
+131,101
+29,181
+60,126
+127,40
+53,196
+4,69
+45,25
+131,65
+101,61
+16,27
+161,15
+Cost of Triangulation is 2169.315207
+
+Number of Vertices: 11
+125,31
+28,72
+109,95
+105,49
+12,159
+130,89
+104,77
+95,77
+55,164
+165,143
+163,26
+Cost of Triangulation is 1742.834688
+
+Number of Vertices: 12
+144,143
+50,93
+51,81
+100,27
+154,1
+130,186
+6,79
+7,28
+164,108
+3,139
+4,129
+60,0
+Cost of Triangulation is 2761.742491
+
+Number of Vertices: 12
+59,196
+123,41
+111,191
+55,41
+148,93
+75,125
+25,78
+46,58
+59,131
+12,120
+114,99
+191,103
+Cost of Triangulation is 2200.333432
+
+Number of Vertices: 12
+12,106
+187,114
+157,96
+29,199
+180,133
+42,0
+90,75
+145,34
+29,17
+101,182
+162,61
+97,60
+Cost of Triangulation is 2687.995390
+
+Number of Vertices: 12
+28,174
+88,163
+107,18
+73,5
+53,170
+136,154
+178,5
+64,57
+184,186
+187,141
+94,133
+5,153
+Cost of Triangulation is 2419.370862
+
+Number of Vertices: 12
+117,178
+102,198
+49,55
+147,50
+101,130
+107,61
+191,94
+14,140
+18,34
+130,26
+21,96
+116,5
+Cost of Triangulation is 2626.433282
+
+Number of Vertices: 12
+41,183
+155,76
+144,199
+151,74
+173,58
+160,76
+45,161
+47,52
+74,69
+40,55
+160,2
+127,111
+Cost of Triangulation is 1968.655791
+
+Number of Vertices: 12
+5,187
+84,108
+190,29
+193,37
+193,86
+50,119
+95,26
+179,130
+63,117
+149,76
+193,58
+142,140
+Cost of Triangulation is 2240.150129
+
+Number of Vertices: 12
+80,107
+82,3
+163,93
+61,59
+199,59
+15,146
+23,122
+182,112
+3,161
+7,152
+133,122
+168,176
+Cost of Triangulation is 2358.940456
+
+Number of Vertices: 12
+59,145
+58,153
+68,73
+35,187
+33,66
+176,128
+140,86
+185,63
+14,98
+166,61
+63,85
+67,122
+Cost of Triangulation is 1901.463820
+
+Number of Vertices: 12
+114,117
+188,189
+25,182
+106,58
+86,114
+83,79
+166,64
+141,172
+52,113
+110,143
+12,194
+66,81
+Cost of Triangulation is 2212.464066
+
+Number of Vertices: 12
+1,31
+128,16
+186,155
+23,130
+106,139
+89,147
+188,61
+192,114
+149,189
+62,55
+198,27
+2,97
+Cost of Triangulation is 2841.053452
+
+Number of Vertices: 12
+78,12
+136,138
+44,184
+22,154
+18,47
+180,125
+22,57
+154,69
+83,71
+47,8
+107,21
+44,110
+Cost of Triangulation is 2345.694994
+
+Number of Vertices: 12
+56,19
+21,56
+199,76
+189,61
+6,106
+72,179
+142,69
+118,63
+98,62
+75,122
+161,74
+143,36
+Cost of Triangulation is 2159.837333
+
+Number of Vertices: 12
+98,160
+159,16
+162,57
+18,20
+120,24
+168,168
+32,54
+74,27
+147,44
+35,111
+95,73
+160,99
+Cost of Triangulation is 2211.818817
+
+Number of Vertices: 12
+163,55
+44,192
+176,7
+147,194
+1,153
+179,29
+172,187
+13,150
+28,75
+112,78
+175,144
+65,150
+Cost of Triangulation is 3123.500549
+
+Number of Vertices: 12
+85,107
+79,125
+144,160
+54,68
+122,197
+52,32
+85,133
+99,106
+48,67
+112,141
+162,118
+110,89
+Cost of Triangulation is 1650.587927
+
+Number of Vertices: 12
+62,186
+175,118
+95,66
+15,102
+162,103
+130,0
+46,162
+139,30
+42,45
+12,71
+68,39
+4,5
+Cost of Triangulation is 2569.323773
+
+Number of Vertices: 12
+197,109
+71,10
+123,24
+145,149
+60,3
+178,38
+45,62
+27,34
+116,169
+125,186
+36,112
+188,2
+Cost of Triangulation is 2668.308904
+
+Number of Vertices: 12
+59,97
+98,182
+114,142
+18,99
+60,167
+130,34
+76,2
+64,63
+147,137
+111,82
+96,184
+152,120
+Cost of Triangulation is 2055.333203
+
+Number of Vertices: 12
+17,175
+54,14
+159,117
+26,55
+93,24
+64,62
+2,13
+169,66
+88,178
+76,165
+181,64
+109,141
+Cost of Triangulation is 2605.336140
+
+Number of Vertices: 12
+50,181
+190,92
+63,75
+96,168
+174,111
+37,39
+32,87
+177,149
+188,119
+15,195
+74,199
+141,32
+Cost of Triangulation is 2656.310352
+
+Number of Vertices: 12
+174,143
+44,159
+119,5
+96,72
+69,1
+165,101
+33,185
+60,22
+127,70
+135,120
+39,10
+148,114
+Cost of Triangulation is 2515.486261
+
+Number of Vertices: 12
+161,19
+130,57
+136,146
+167,188
+149,125
+34,120
+199,141
+53,113
+163,190
+129,45
+62,149
+194,97
+Cost of Triangulation is 2247.573533
+
+Number of Vertices: 12
+36,89
+124,59
+155,83
+29,78
+43,50
+110,18
+159,90
+80,166
+56,54
+142,78
+2,53
+179,82
+Cost of Triangulation is 2131.434729
+
+Number of Vertices: 12
+72,190
+157,197
+130,2
+81,183
+192,81
+22,143
+149,189
+173,91
+149,7
+80,142
+178,127
+150,7
+Cost of Triangulation is 2938.612865
+
+Number of Vertices: 12
+42,197
+32,179
+148,29
+196,153
+80,174
+181,41
+178,169
+45,101
+174,106
+48,181
+32,22
+61,181
+Cost of Triangulation is 2576.232878
+
+Number of Vertices: 12
+75,53
+191,161
+34,126
+47,92
+79,99
+30,96
+76,38
+188,4
+95,194
+7,52
+153,102
+67,152
+Cost of Triangulation is 2553.212856
+
+Number of Vertices: 12
+108,176
+100,46
+123,196
+30,45
+190,80
+115,153
+68,176
+146,88
+120,122
+61,172
+32,128
+149,12
+Cost of Triangulation is 2377.996586
+
+Number of Vertices: 12
+198,66
+137,75
+62,85
+33,83
+159,47
+57,189
+149,34
+60,190
+48,28
+161,37
+192,98
+44,88
+Cost of Triangulation is 2286.016491
+
+Number of Vertices: 12
+173,175
+138,156
+101,22
+144,164
+3,198
+125,117
+192,176
+87,101
+65,76
+98,29
+19,168
+16,12
+Cost of Triangulation is 2558.151993
+
+Number of Vertices: 12
+94,185
+40,14
+12,34
+156,160
+86,31
+100,121
+111,31
+44,48
+99,186
+173,82
+66,35
+27,95
+Cost of Triangulation is 2355.447601
+
+Number of Vertices: 12
+34,9
+158,17
+141,133
+44,32
+123,22
+62,199
+37,174
+121,50
+113,171
+70,74
+129,198
+76,150
+Cost of Triangulation is 2643.033924
+
+Number of Vertices: 12
+186,67
+62,29
+131,157
+173,147
+150,29
+104,15
+198,186
+149,50
+45,82
+178,165
+131,88
+29,153
+Cost of Triangulation is 2571.532247
+
+Number of Vertices: 12
+44,142
+46,195
+165,180
+168,63
+6,179
+166,108
+94,123
+124,191
+152,99
+30,68
+8,100
+57,163
+Cost of Triangulation is 2382.300661
+
+Number of Vertices: 12
+153,19
+162,180
+81,104
+37,45
+148,52
+1,178
+93,65
+199,141
+13,150
+184,50
+103,179
+106,53
+Cost of Triangulation is 2857.943897
+
+Number of Vertices: 12
+93,164
+105,116
+186,47
+171,113
+100,135
+115,92
+179,99
+26,151
+143,40
+65,172
+60,93
+199,180
+Cost of Triangulation is 2195.782130
+
+Number of Vertices: 12
+158,64
+37,23
+49,108
+58,159
+178,158
+62,71
+191,181
+106,92
+102,162
+110,141
+40,25
+54,120
+Cost of Triangulation is 2268.272871
+
+Number of Vertices: 12
+119,168
+12,61
+134,183
+63,179
+175,148
+194,118
+1,186
+74,72
+72,22
+194,84
+98,103
+147,60
+Cost of Triangulation is 2600.494080
+
+Number of Vertices: 12
+164,39
+67,128
+23,55
+59,38
+127,117
+8,82
+94,27
+102,38
+83,91
+1,65
+160,49
+72,92
+Cost of Triangulation is 1984.618206
+
+Number of Vertices: 12
+1,101
+69,92
+191,198
+60,160
+175,48
+191,187
+50,51
+151,50
+81,127
+134,37
+133,65
+37,154
+Cost of Triangulation is 2437.871386
+
+Number of Vertices: 12
+32,199
+106,51
+88,87
+197,117
+98,15
+62,108
+126,20
+151,25
+35,198
+137,47
+134,18
+66,182
+Cost of Triangulation is 2144.354374
+
+Number of Vertices: 12
+2,107
+135,52
+74,90
+175,7
+32,138
+82,29
+86,71
+57,102
+4,76
+90,61
+137,80
+8,138
+Cost of Triangulation is 2026.922955
+
+Number of Vertices: 12
+72,120
+84,141
+23,133
+5,2
+187,0
+67,137
+87,20
+126,143
+55,158
+43,132
+187,188
+59,197
+Cost of Triangulation is 2160.427717
+
+Number of Vertices: 12
+173,152
+147,163
+133,158
+33,82
+63,1
+124,127
+21,44
+167,8
+47,148
+13,55
+58,25
+147,49
+Cost of Triangulation is 2370.190723
+
+Number of Vertices: 12
+58,32
+26,32
+28,32
+68,43
+73,194
+155,84
+97,119
+24,129
+98,34
+19,7
+15,107
+41,27
+Cost of Triangulation is 1757.545205
+
+Number of Vertices: 12
+90,136
+156,145
+0,164
+20,44
+94,22
+181,146
+38,143
+191,106
+86,156
+33,95
+151,179
+76,195
+Cost of Triangulation is 2560.674500
+
+Number of Vertices: 12
+16,171
+179,188
+65,74
+20,199
+195,81
+134,51
+39,31
+107,187
+115,196
+165,193
+188,188
+161,135
+Cost of Triangulation is 2466.570244
+
+Number of Vertices: 12
+158,7
+0,148
+123,104
+73,84
+155,182
+159,117
+18,84
+39,164
+82,84
+7,7
+29,79
+49,107
+Cost of Triangulation is 2242.140153
+
+Number of Vertices: 12
+131,137
+109,186
+17,48
+61,110
+45,130
+0,160
+113,23
+153,26
+6,64
+14,49
+124,165
+19,114
+Cost of Triangulation is 2342.619748
+
+Number of Vertices: 12
+41,126
+166,72
+78,116
+119,38
+178,76
+172,183
+110,193
+116,116
+113,165
+7,46
+163,80
+134,184
+Cost of Triangulation is 2231.863320
+
+Number of Vertices: 13
+146,105
+71,14
+60,139
+147,51
+110,1
+117,113
+143,86
+44,101
+70,118
+159,113
+20,111
+107,193
+114,183
+Cost of Triangulation is 2277.911344
+
+Number of Vertices: 13
+70,117
+178,20
+56,140
+159,32
+70,132
+37,11
+103,161
+49,75
+132,158
+74,178
+19,172
+77,127
+51,187
+Cost of Triangulation is 1994.540840
+
+Number of Vertices: 13
+186,1
+117,109
+127,29
+198,93
+28,165
+119,20
+190,140
+50,96
+31,82
+99,102
+39,162
+77,104
+138,44
+Cost of Triangulation is 2405.652909
+
+Number of Vertices: 13
+100,65
+188,4
+199,34
+170,178
+105,86
+152,54
+122,162
+137,30
+177,42
+64,50
+157,22
+178,32
+4,191
+Cost of Triangulation is 2193.499297
+
+Number of Vertices: 13
+113,105
+104,50
+63,34
+57,136
+128,44
+89,31
+15,187
+172,42
+4,28
+176,119
+171,44
+111,29
+71,98
+Cost of Triangulation is 2250.309132
+
+Number of Vertices: 13
+32,79
+153,149
+74,197
+84,74
+130,27
+177,177
+47,153
+28,74
+175,22
+150,92
+28,95
+174,72
+3,108
+Cost of Triangulation is 2771.002639
+
+Number of Vertices: 13
+125,164
+141,192
+149,117
+22,66
+10,164
+181,129
+181,96
+6,30
+62,75
+9,1
+6,162
+190,101
+156,82
+Cost of Triangulation is 2771.760337
+
+Number of Vertices: 13
+183,161
+23,92
+115,15
+173,64
+188,140
+59,142
+73,11
+65,113
+17,84
+184,95
+119,184
+5,104
+37,4
+Cost of Triangulation is 3007.030582
+
+Number of Vertices: 13
+70,71
+52,59
+61,65
+9,141
+37,130
+183,111
+148,116
+111,188
+164,126
+70,151
+138,189
+182,115
+166,87
+Cost of Triangulation is 1757.428493
+
+Number of Vertices: 13
+186,0
+133,184
+25,140
+140,59
+55,146
+92,51
+120,27
+151,183
+86,138
+45,72
+136,41
+119,176
+107,124
+Cost of Triangulation is 2713.299653
+
+Number of Vertices: 13
+97,134
+104,36
+144,33
+127,115
+92,94
+71,55
+194,34
+75,193
+127,24
+155,185
+37,34
+27,0
+198,20
+Cost of Triangulation is 2836.910663
+
+Number of Vertices: 13
+121,26
+186,116
+59,175
+20,79
+161,43
+181,149
+56,113
+92,19
+183,15
+80,81
+131,25
+64,158
+14,147
+Cost of Triangulation is 2884.390455
+
+Number of Vertices: 13
+140,114
+118,157
+32,195
+179,57
+155,139
+35,83
+172,41
+183,88
+104,9
+105,6
+120,138
+74,190
+12,108
+Cost of Triangulation is 2667.803557
+
+Number of Vertices: 13
+127,5
+158,3
+120,102
+4,93
+134,36
+184,48
+171,67
+4,137
+15,55
+139,73
+113,99
+11,193
+42,115
+Cost of Triangulation is 2510.240456
+
+Number of Vertices: 13
+61,147
+185,37
+155,157
+101,195
+142,63
+164,76
+96,125
+44,88
+107,8
+177,65
+40,193
+91,127
+167,132
+Cost of Triangulation is 2635.663761
+
+Number of Vertices: 13
+65,13
+90,4
+22,175
+14,144
+136,53
+186,81
+52,187
+37,21
+75,29
+161,151
+52,45
+116,91
+59,163
+Cost of Triangulation is 2774.509394
+
+Number of Vertices: 13
+27,152
+93,87
+174,134
+20,99
+142,43
+189,94
+158,182
+125,178
+91,37
+157,154
+61,61
+103,46
+138,165
+Cost of Triangulation is 2468.141837
+
+Number of Vertices: 13
+124,19
+171,66
+190,85
+139,165
+41,42
+97,176
+126,22
+108,132
+102,23
+191,82
+20,130
+71,183
+44,125
+Cost of Triangulation is 2668.413812
+
+Number of Vertices: 13
+118,66
+176,22
+146,158
+132,157
+24,15
+140,23
+160,178
+101,169
+23,130
+194,31
+139,130
+154,16
+170,199
+Cost of Triangulation is 2832.814608
+
+Number of Vertices: 13
+180,182
+148,172
+169,47
+170,68
+103,98
+58,40
+153,133
+42,100
+30,38
+146,155
+67,116
+102,60
+161,91
+Cost of Triangulation is 2170.959862
+
+Number of Vertices: 13
+131,111
+71,163
+56,176
+199,105
+77,121
+80,33
+75,155
+104,152
+94,57
+178,192
+143,170
+94,157
+169,167
+Cost of Triangulation is 1851.869064
+
+Number of Vertices: 13
+191,186
+60,69
+103,126
+79,7
+52,29
+34,167
+114,177
+173,138
+145,16
+76,81
+188,147
+197,109
+113,144
+Cost of Triangulation is 2493.211445
+
+Number of Vertices: 13
+158,75
+38,71
+70,32
+196,131
+3,42
+26,51
+63,91
+20,100
+80,20
+170,93
+50,173
+14,9
+158,7
+Cost of Triangulation is 2706.071230
+
+Number of Vertices: 13
+165,194
+180,168
+108,24
+160,143
+196,17
+13,146
+138,155
+183,49
+124,15
+69,17
+179,172
+162,1
+13,170
+Cost of Triangulation is 3222.213616
+
+Number of Vertices: 13
+154,73
+34,49
+110,24
+75,198
+87,85
+91,147
+50,120
+144,23
+150,168
+97,67
+197,9
+30,111
+149,30
+Cost of Triangulation is 2537.248075
+
+Number of Vertices: 13
+109,115
+111,60
+31,92
+45,137
+120,81
+94,65
+24,48
+27,64
+36,72
+136,133
+197,142
+53,98
+20,128
+Cost of Triangulation is 1875.475957
+
+Number of Vertices: 13
+106,67
+174,107
+127,164
+87,198
+101,24
+149,118
+28,31
+149,61
+94,75
+95,5
+145,24
+162,198
+70,155
+Cost of Triangulation is 2531.173505
+
+Number of Vertices: 13
+36,133
+75,164
+155,174
+188,101
+16,92
+129,128
+113,36
+11,84
+2,123
+103,1
+46,58
+27,183
+192,165
+Cost of Triangulation is 2744.713558
+
+Number of Vertices: 13
+156,193
+198,26
+144,71
+20,176
+57,179
+145,164
+72,75
+5,74
+195,180
+77,55
+49,97
+123,136
+7,67
+Cost of Triangulation is 2927.332108
+
+Number of Vertices: 13
+137,80
+172,166
+43,181
+133,32
+190,39
+111,156
+43,176
+136,65
+171,162
+62,12
+189,95
+141,120
+131,97
+Cost of Triangulation is 2543.009955
+
+Number of Vertices: 13
+29,162
+30,93
+107,36
+157,97
+152,150
+147,154
+174,32
+197,126
+27,69
+81,35
+16,191
+43,63
+110,31
+Cost of Triangulation is 2458.385147
+
+Number of Vertices: 13
+47,35
+32,54
+183,6
+15,21
+69,147
+99,138
+55,65
+6,181
+86,44
+72,64
+82,61
+11,69
+127,153
+Cost of Triangulation is 2094.699777
+
+Number of Vertices: 13
+136,186
+179,36
+27,2
+37,196
+168,87
+143,77
+105,75
+85,193
+195,53
+4,16
+93,139
+120,20
+57,183
+Cost of Triangulation is 3354.057257
+
+Number of Vertices: 13
+73,61
+166,69
+159,126
+141,20
+195,80
+75,179
+64,149
+182,125
+90,184
+11,48
+94,75
+95,155
+18,57
+Cost of Triangulation is 2534.476655
+
+Number of Vertices: 13
+155,48
+5,81
+151,149
+189,102
+194,61
+54,7
+19,118
+55,55
+17,101
+101,146
+172,125
+42,134
+62,152
+Cost of Triangulation is 2604.701923
+
+Number of Vertices: 13
+158,69
+9,121
+101,96
+7,101
+192,118
+159,77
+119,43
+56,170
+143,155
+156,103
+67,10
+99,96
+163,140
+Cost of Triangulation is 2420.659146
+
+Number of Vertices: 13
+49,103
+97,17
+197,186
+83,162
+84,147
+149,72
+97,147
+106,81
+195,29
+121,196
+23,156
+171,129
+52,187
+Cost of Triangulation is 2664.753740
+
+Number of Vertices: 13
+4,171
+111,147
+108,19
+20,96
+116,118
+166,66
+62,97
+85,169
+105,93
+9,16
+54,193
+131,104
+105,46
+Cost of Triangulation is 2569.182345
+
+Number of Vertices: 13
+1,198
+126,74
+33,6
+93,184
+82,54
+49,141
+160,22
+84,50
+181,125
+155,80
+66,137
+107,144
+17,46
+Cost of Triangulation is 2801.666172
+
+Number of Vertices: 13
+77,193
+159,69
+63,6
+19,83
+1,115
+87,5
+3,76
+63,159
+131,14
+6,114
+178,26
+50,44
+13,80
+Cost of Triangulation is 2640.801044
+
+Number of Vertices: 13
+87,163
+135,125
+6,75
+194,197
+65,49
+61,175
+156,199
+168,122
+111,91
+32,175
+148,82
+163,18
+57,33
+Cost of Triangulation is 2940.336829
+
+Number of Vertices: 13
+87,7
+73,111
+124,18
+3,33
+145,189
+149,34
+108,107
+144,117
+74,94
+164,137
+56,77
+78,176
+177,87
+Cost of Triangulation is 2650.883743
+
+Number of Vertices: 13
+187,25
+75,152
+187,36
+35,110
+108,130
+179,12
+5,33
+144,133
+55,39
+89,111
+94,54
+56,190
+113,129
+Cost of Triangulation is 2683.639495
+
+Number of Vertices: 13
+169,166
+44,143
+71,70
+126,13
+54,182
+0,77
+135,0
+112,81
+28,153
+0,28
+168,37
+82,67
+79,43
+Cost of Triangulation is 2780.132619
+
+Number of Vertices: 13
+58,103
+164,169
+179,45
+22,76
+109,77
+165,54
+44,67
+24,187
+122,98
+141,36
+37,190
+98,162
+98,16
+Cost of Triangulation is 2864.532005
+
+Number of Vertices: 13
+115,25
+103,135
+36,62
+157,47
+10,160
+94,30
+7,177
+33,50
+107,189
+61,104
+108,122
+125,151
+66,161
+Cost of Triangulation is 2427.406469
+
+Number of Vertices: 13
+160,45
+189,133
+32,110
+4,57
+154,63
+59,180
+11,120
+124,173
+28,174
+8,11
+125,48
+96,154
+42,28
+Cost of Triangulation is 3114.711836
+
+Number of Vertices: 13
+141,60
+128,32
+61,68
+173,164
+174,10
+10,28
+11,173
+175,30
+2,95
+80,181
+147,42
+18,12
+37,118
+Cost of Triangulation is 3274.923693
+
+Number of Vertices: 13
+66,60
+104,125
+97,82
+49,52
+26,192
+185,82
+190,35
+11,109
+171,136
+171,133
+57,30
+6,130
+133,56
+Cost of Triangulation is 2758.357574
+
+Number of Vertices: 13
+127,153
+169,151
+46,55
+68,89
+73,46
+5,194
+176,113
+141,100
+154,134
+125,42
+68,85
+136,85
+79,19
+Cost of Triangulation is 2340.144046
+
+Number of Vertices: 14
+82,34
+75,1
+82,34
+95,158
+22,161
+174,159
+142,99
+101,122
+79,157
+101,106
+179,67
+17,49
+83,27
+127,150
+Cost of Triangulation is 2236.163296
+
+Number of Vertices: 14
+22,16
+137,124
+40,73
+89,44
+153,97
+172,190
+13,40
+125,37
+173,70
+151,174
+38,37
+90,88
+86,141
+65,149
+Cost of Triangulation is 3028.245361
+
+Number of Vertices: 14
+6,16
+91,27
+106,60
+97,120
+6,148
+128,65
+188,147
+158,112
+188,139
+117,160
+96,32
+101,13
+109,123
+4,17
+Cost of Triangulation is 2190.871081
+
+Number of Vertices: 14
+60,10
+172,12
+7,114
+88,23
+159,78
+103,175
+57,97
+180,56
+41,149
+102,82
+112,84
+86,86
+99,36
+120,175
+Cost of Triangulation is 2621.193547
+
+Number of Vertices: 14
+99,77
+18,40
+102,5
+158,13
+90,159
+111,113
+115,112
+19,176
+90,112
+170,107
+184,166
+9,67
+199,66
+135,85
+Cost of Triangulation is 2512.566385
+
+Number of Vertices: 14
+44,88
+21,42
+121,18
+195,17
+152,132
+44,189
+166,117
+111,175
+199,32
+183,95
+85,140
+19,153
+133,53
+155,149
+Cost of Triangulation is 2959.054055
+
+Number of Vertices: 14
+7,92
+25,162
+16,127
+38,28
+95,149
+124,125
+17,191
+70,96
+174,158
+122,160
+172,12
+49,101
+119,130
+177,117
+Cost of Triangulation is 2640.071225
+
+Number of Vertices: 14
+66,188
+20,112
+183,4
+186,84
+125,109
+16,45
+143,69
+30,123
+156,12
+66,151
+8,59
+104,86
+19,71
+54,5
+Cost of Triangulation is 2979.066149
+
+Number of Vertices: 14
+115,167
+66,199
+106,12
+171,31
+71,38
+12,29
+92,27
+168,199
+78,88
+91,48
+194,58
+159,164
+63,193
+46,67
+Cost of Triangulation is 2764.307635
+
+Number of Vertices: 14
+45,21
+49,101
+155,55
+162,10
+5,195
+137,165
+170,12
+82,44
+175,161
+165,6
+45,184
+125,194
+172,137
+176,53
+Cost of Triangulation is 3293.596996
+
+Number of Vertices: 14
+79,90
+130,21
+117,80
+36,61
+105,55
+144,181
+87,109
+109,125
+164,169
+25,111
+39,92
+74,71
+182,125
+179,139
+Cost of Triangulation is 2169.427802
+
+Number of Vertices: 14
+81,10
+107,108
+153,172
+146,1
+118,11
+34,89
+75,182
+169,32
+28,108
+7,166
+110,123
+152,78
+30,37
+141,84
+Cost of Triangulation is 2866.221443
+
+Number of Vertices: 14
+52,95
+131,139
+82,105
+17,91
+97,193
+97,155
+92,69
+66,85
+39,157
+159,182
+79,36
+87,183
+114,109
+123,23
+Cost of Triangulation is 2452.676959
+
+Number of Vertices: 14
+152,178
+25,186
+25,186
+77,1
+12,32
+182,53
+65,165
+113,24
+106,154
+161,28
+171,175
+87,134
+175,12
+30,102
+Cost of Triangulation is 3386.758339
+
+Number of Vertices: 14
+9,134
+159,182
+109,166
+194,121
+0,190
+177,133
+23,96
+161,91
+161,70
+149,36
+4,109
+8,148
+58,183
+195,96
+Cost of Triangulation is 3011.149430
+
+Number of Vertices: 14
+136,173
+150,106
+106,121
+195,109
+40,39
+23,115
+72,124
+115,123
+74,14
+72,197
+135,62
+47,182
+154,160
+103,57
+Cost of Triangulation is 2698.654220
+
+Number of Vertices: 14
+24,144
+103,117
+140,120
+87,161
+180,48
+167,162
+30,150
+35,82
+191,116
+171,196
+24,120
+42,95
+97,43
+69,164
+Cost of Triangulation is 2634.184462
+
+Number of Vertices: 14
+52,163
+118,184
+155,60
+24,1
+29,137
+47,197
+197,114
+109,6
+104,149
+196,45
+44,195
+149,118
+146,98
+114,15
+Cost of Triangulation is 3385.527547
+
+Number of Vertices: 14
+6,26
+141,162
+182,75
+61,28
+130,166
+171,96
+115,165
+133,167
+195,7
+39,65
+172,96
+149,28
+139,78
+196,83
+Cost of Triangulation is 2715.221745
+
+Number of Vertices: 14
+72,175
+34,37
+96,3
+124,117
+84,73
+136,22
+21,169
+10,89
+101,117
+78,178
+16,29
+136,158
+69,109
+146,79
+Cost of Triangulation is 2923.165469
+
+Number of Vertices: 14
+3,199
+66,194
+116,44
+62,13
+138,189
+143,183
+79,135
+21,95
+34,139
+177,137
+144,45
+74,130
+171,198
+47,74
+Cost of Triangulation is 2967.965757
+
+Number of Vertices: 14
+53,136
+28,133
+90,51
+167,0
+170,129
+32,197
+85,91
+140,117
+38,106
+21,44
+135,190
+110,174
+101,23
+137,42
+Cost of Triangulation is 3006.361487
+
+Number of Vertices: 14
+149,157
+10,160
+186,74
+128,195
+118,7
+170,100
+139,180
+195,30
+163,143
+77,180
+162,26
+199,151
+3,10
+89,28
+Cost of Triangulation is 3428.727864
+
+Number of Vertices: 14
+137,93
+106,132
+184,65
+37,39
+70,168
+135,111
+171,77
+67,82
+42,99
+162,57
+102,62
+195,125
+115,68
+135,148
+Cost of Triangulation is 2273.956550
+
+Number of Vertices: 14
+159,18
+94,47
+114,107
+188,80
+94,17
+82,103
+150,187
+116,45
+82,154
+145,33
+81,44
+149,118
+99,19
+115,199
+Cost of Triangulation is 2453.286121
+
+Number of Vertices: 14
+155,193
+151,55
+79,34
+129,182
+111,101
+54,147
+149,75
+165,23
+40,9
+19,11
+83,153
+150,156
+16,56
+34,88
+Cost of Triangulation is 2978.905738
+
+Number of Vertices: 14
+31,49
+183,99
+36,121
+37,40
+148,45
+143,126
+85,82
+144,108
+81,106
+49,30
+122,50
+124,126
+116,139
+26,196
+Cost of Triangulation is 2553.049827
+
+Number of Vertices: 14
+142,121
+102,89
+138,166
+136,146
+62,177
+136,152
+76,25
+26,86
+147,131
+191,7
+80,94
+193,59
+6,39
+186,163
+Cost of Triangulation is 2621.706117
+
+Number of Vertices: 14
+44,20
+175,63
+8,182
+3,50
+129,79
+50,121
+69,68
+138,75
+91,104
+74,114
+44,17
+143,15
+40,116
+22,123
+Cost of Triangulation is 2686.451411
+
+Number of Vertices: 14
+44,128
+27,144
+169,79
+46,64
+102,174
+84,4
+50,62
+69,155
+142,105
+135,52
+28,89
+153,67
+122,9
+7,180
+Cost of Triangulation is 2847.281780
+
+Number of Vertices: 14
+179,30
+62,72
+7,190
+145,147
+24,133
+185,195
+98,38
+20,162
+108,43
+68,38
+29,72
+188,132
+119,8
+111,83
+Cost of Triangulation is 3001.335595
+
+Number of Vertices: 14
+54,105
+54,105
+128,151
+83,6
+129,184
+82,164
+77,0
+139,160
+60,7
+178,72
+135,114
+198,12
+124,49
+161,130
+Cost of Triangulation is 2643.519253
+
+Number of Vertices: 14
+94,134
+137,104
+137,74
+14,102
+182,84
+1,54
+62,107
+103,126
+128,56
+131,39
+8,35
+23,91
+175,133
+103,65
+Cost of Triangulation is 2481.185551
+
+Number of Vertices: 14
+113,190
+159,184
+190,127
+195,32
+26,77
+78,170
+176,26
+32,175
+167,116
+188,33
+27,146
+153,155
+180,101
+3,116
+Cost of Triangulation is 3298.343923
+
+Number of Vertices: 14
+114,94
+56,198
+115,147
+179,30
+63,5
+29,158
+70,194
+32,79
+5,116
+37,129
+191,120
+51,3
+180,147
+161,50
+Cost of Triangulation is 3088.360024
+
+Number of Vertices: 14
+24,56
+168,146
+8,46
+81,1
+61,172
+116,196
+197,20
+192,106
+23,69
+196,124
+140,178
+12,174
+132,177
+63,22
+Cost of Triangulation is 3089.496106
+
+Number of Vertices: 14
+94,16
+31,151
+50,82
+196,43
+134,197
+2,101
+133,103
+56,144
+169,7
+94,104
+92,77
+164,23
+53,159
+23,86
+Cost of Triangulation is 3021.794050
+
+Number of Vertices: 14
+42,93
+29,167
+135,4
+43,63
+171,121
+27,7
+24,107
+197,92
+190,19
+59,2
+138,155
+172,139
+181,21
+105,16
+Cost of Triangulation is 3388.515785
+
+Number of Vertices: 14
+37,109
+16,88
+125,197
+73,79
+118,79
+84,58
+107,81
+135,181
+3,137
+170,91
+35,85
+113,131
+4,75
+19,118
+Cost of Triangulation is 2207.452569
+
+Number of Vertices: 14
+125,65
+174,194
+25,119
+192,54
+103,92
+177,3
+153,80
+97,78
+152,13
+183,167
+113,89
+89,23
+165,160
+92,177
+Cost of Triangulation is 2765.930687
+
+Number of Vertices: 14
+92,81
+123,55
+50,46
+56,58
+109,69
+65,53
+144,133
+103,62
+34,97
+28,160
+185,16
+55,79
+189,78
+55,8
+Cost of Triangulation is 2160.821309
+
+Number of Vertices: 14
+96,122
+98,20
+167,181
+17,14
+143,50
+3,181
+140,47
+45,187
+10,178
+55,83
+185,17
+37,167
+81,26
+150,5
+Cost of Triangulation is 3269.716090
+
+Number of Vertices: 14
+170,4
+37,27
+57,140
+81,27
+27,127
+37,145
+20,25
+6,149
+164,83
+118,87
+90,122
+74,149
+111,175
+178,123
+Cost of Triangulation is 2732.748636
+
+Number of Vertices: 14
+109,139
+97,141
+174,187
+28,64
+35,176
+101,147
+132,11
+105,117
+136,88
+70,63
+64,79
+79,187
+134,110
+9,183
+Cost of Triangulation is 2283.869963
+
+Number of Vertices: 14
+138,83
+154,69
+66,146
+190,120
+19,57
+175,79
+4,197
+91,181
+112,64
+129,8
+14,128
+44,33
+195,198
+20,82
+Cost of Triangulation is 3303.526488
+
+Number of Vertices: 14
+163,137
+168,177
+23,187
+12,53
+196,66
+19,76
+9,26
+118,54
+176,109
+109,174
+123,78
+112,154
+93,7
+150,81
+Cost of Triangulation is 3004.833322
+
+Number of Vertices: 14
+18,40
+116,14
+155,198
+51,187
+86,55
+102,6
+184,48
+49,26
+186,12
+139,184
+94,130
+161,159
+166,198
+62,182
+Cost of Triangulation is 3177.265811
+
+Number of Vertices: 14
+41,152
+139,150
+89,66
+3,77
+98,75
+27,67
+127,166
+188,2
+100,174
+159,138
+5,96
+115,138
+128,89
+119,55
+Cost of Triangulation is 2527.177252
+
+Number of Vertices: 14
+50,178
+14,62
+178,55
+18,160
+45,108
+133,43
+157,164
+59,19
+192,25
+145,177
+37,6
+153,179
+18,22
+40,24
+Cost of Triangulation is 3377.948750
+
+Number of Vertices: 14
+147,76
+71,190
+11,91
+41,73
+169,159
+126,183
+47,126
+27,18
+117,28
+177,152
+143,98
+179,78
+166,149
+17,13
+Cost of Triangulation is 3022.097625
+
+Number of Vertices: 15
+49,151
+156,152
+16,9
+36,90
+138,94
+176,93
+81,59
+160,145
+147,10
+59,99
+113,82
+60,1
+81,67
+171,56
+64,32
+Cost of Triangulation is 2880.495414
+
+Number of Vertices: 15
+190,30
+80,132
+47,23
+119,2
+195,18
+67,175
+87,51
+172,191
+73,189
+130,144
+144,135
+162,134
+76,180
+26,153
+24,130
+Cost of Triangulation is 2962.778586
+
+Number of Vertices: 15
+163,109
+108,59
+28,110
+12,181
+183,132
+131,16
+69,140
+110,113
+77,31
+68,164
+193,104
+15,79
+122,152
+68,69
+22,181
+Cost of Triangulation is 3346.555319
+
+Number of Vertices: 15
+162,61
+35,143
+160,147
+188,17
+61,175
+194,153
+50,18
+133,182
+168,71
+176,7
+45,148
+175,171
+104,113
+87,105
+128,183
+Cost of Triangulation is 3546.177633
+
+Number of Vertices: 15
+199,49
+63,15
+36,134
+50,129
+180,14
+60,31
+191,172
+128,86
+41,9
+54,164
+121,188
+179,156
+151,93
+72,38
+51,134
+Cost of Triangulation is 3368.885224
+
+Number of Vertices: 15
+82,119
+25,36
+142,193
+24,46
+19,7
+126,32
+147,192
+35,146
+11,90
+28,93
+130,127
+63,150
+120,53
+152,58
+132,85
+Cost of Triangulation is 2783.168447
+
+Number of Vertices: 15
+8,56
+71,29
+185,29
+120,123
+69,117
+161,61
+150,164
+117,44
+144,46
+131,67
+39,71
+155,14
+112,179
+13,35
+164,159
+Cost of Triangulation is 2955.431012
+
+Number of Vertices: 15
+41,60
+164,114
+24,188
+94,19
+190,73
+0,137
+40,37
+77,106
+42,90
+128,0
+93,183
+21,163
+147,122
+26,197
+28,150
+Cost of Triangulation is 3358.779675
+
+Number of Vertices: 15
+69,78
+92,122
+46,34
+123,97
+159,20
+10,179
+1,22
+114,112
+68,180
+154,122
+63,75
+133,90
+1,164
+139,60
+105,186
+Cost of Triangulation is 2990.684249
+
+Number of Vertices: 15
+20,18
+46,140
+148,21
+6,140
+64,130
+119,2
+15,159
+82,195
+130,154
+20,100
+5,118
+54,104
+7,76
+34,142
+173,51
+Cost of Triangulation is 2803.098332
+
+Number of Vertices: 15
+64,39
+14,99
+138,66
+11,42
+95,177
+119,191
+161,12
+103,189
+161,172
+127,138
+14,56
+37,120
+168,166
+0,38
+148,159
+Cost of Triangulation is 3061.277026
+
+Number of Vertices: 15
+95,149
+186,148
+118,42
+42,50
+104,116
+52,58
+61,74
+125,70
+67,65
+20,150
+106,186
+171,4
+22,10
+162,143
+109,6
+Cost of Triangulation is 3047.003248
+
+Number of Vertices: 15
+87,75
+87,87
+87,142
+155,38
+147,2
+171,25
+173,2
+41,94
+11,22
+93,84
+88,70
+35,84
+133,29
+104,131
+32,180
+Cost of Triangulation is 2225.525012
+
+Number of Vertices: 15
+71,74
+122,163
+16,41
+143,81
+131,106
+41,165
+129,30
+147,135
+143,173
+60,181
+123,25
+153,185
+69,98
+110,103
+2,163
+Cost of Triangulation is 2875.413397
+
+Number of Vertices: 15
+53,59
+117,151
+133,174
+84,45
+157,38
+1,23
+65,118
+36,91
+144,35
+27,30
+144,65
+30,84
+66,53
+193,47
+55,85
+Cost of Triangulation is 2667.786931
+
+Number of Vertices: 15
+65,85
+146,64
+132,6
+68,89
+113,147
+154,166
+143,77
+84,109
+2,165
+195,143
+193,12
+15,176
+68,156
+120,104
+126,23
+Cost of Triangulation is 2844.359031
+
+Number of Vertices: 15
+141,57
+50,57
+122,57
+66,191
+61,146
+148,148
+67,48
+42,19
+52,75
+74,23
+95,181
+174,160
+149,183
+177,92
+50,101
+Cost of Triangulation is 2726.657774
+
+Number of Vertices: 15
+34,189
+20,161
+30,181
+128,100
+156,11
+157,82
+2,143
+176,148
+190,183
+193,121
+195,88
+63,41
+189,140
+111,36
+105,68
+Cost of Triangulation is 2591.182013
+
+Number of Vertices: 15
+124,84
+106,57
+29,44
+9,188
+160,84
+44,54
+141,111
+147,19
+60,150
+139,40
+26,169
+70,169
+125,115
+5,29
+59,179
+Cost of Triangulation is 3081.991505
+
+Number of Vertices: 15
+25,135
+3,195
+195,39
+86,69
+53,199
+115,158
+43,69
+54,105
+105,161
+90,110
+51,85
+54,194
+179,117
+183,83
+139,65
+Cost of Triangulation is 3002.258051
+
+Number of Vertices: 15
+130,197
+130,75
+130,129
+45,51
+77,53
+31,188
+150,61
+84,161
+197,112
+122,80
+126,139
+91,25
+4,147
+37,14
+77,149
+Cost of Triangulation is 3036.365415
+
+Number of Vertices: 15
+123,163
+16,90
+164,70
+181,170
+24,189
+137,26
+172,40
+149,142
+32,58
+169,143
+35,148
+117,6
+167,191
+118,10
+158,31
+Cost of Triangulation is 3556.051486
+
+Number of Vertices: 15
+36,156
+32,185
+56,11
+88,114
+199,34
+64,113
+94,80
+14,130
+128,100
+155,103
+97,92
+18,87
+104,170
+10,24
+52,180
+Cost of Triangulation is 2585.670223
+
+Number of Vertices: 15
+151,11
+187,76
+17,183
+23,85
+166,84
+31,159
+58,12
+192,181
+51,56
+172,76
+194,159
+108,143
+6,21
+188,44
+61,157
+Cost of Triangulation is 3838.051246
+
+Number of Vertices: 15
+14,183
+23,178
+5,188
+155,54
+173,35
+38,166
+147,122
+78,183
+93,60
+23,188
+154,130
+55,154
+34,29
+55,182
+134,167
+Cost of Triangulation is 2680.544671
+
+Number of Vertices: 15
+70,92
+62,96
+50,102
+118,103
+73,139
+197,134
+120,14
+76,145
+71,63
+187,153
+148,120
+2,79
+131,82
+134,138
+149,192
+Cost of Triangulation is 2581.125833
+
+Number of Vertices: 15
+152,49
+77,124
+4,197
+0,164
+44,179
+40,2
+177,23
+191,8
+103,35
+28,48
+194,38
+193,190
+161,57
+67,1
+147,116
+Cost of Triangulation is 2935.611259
+
+Number of Vertices: 15
+197,57
+197,57
+166,139
+130,162
+15,185
+194,32
+83,34
+138,186
+132,37
+40,139
+170,60
+81,186
+68,90
+7,187
+172,110
+Cost of Triangulation is 3337.266441
+
+Number of Vertices: 15
+103,55
+120,175
+189,107
+110,45
+115,110
+185,7
+63,107
+185,123
+144,31
+67,154
+182,29
+13,47
+36,62
+173,10
+108,27
+Cost of Triangulation is 2955.906044
+
+Number of Vertices: 15
+41,13
+122,103
+69,93
+96,14
+151,7
+185,80
+171,105
+64,67
+28,8
+77,3
+157,166
+53,89
+87,83
+104,89
+11,191
+Cost of Triangulation is 2671.345792
+
+Number of Vertices: 15
+181,72
+87,2
+33,178
+133,198
+191,177
+198,37
+76,32
+167,176
+95,57
+99,167
+144,24
+46,103
+127,71
+97,36
+118,171
+Cost of Triangulation is 3458.482677
+
+Number of Vertices: 15
+105,174
+21,193
+167,45
+126,145
+102,74
+179,66
+83,147
+30,46
+199,133
+112,194
+108,89
+165,2
+130,64
+1,0
+104,8
+Cost of Triangulation is 3302.088479
+
+Number of Vertices: 15
+159,101
+29,172
+13,8
+59,40
+109,171
+47,119
+21,68
+109,166
+6,68
+190,9
+131,152
+75,155
+143,115
+198,124
+22,154
+Cost of Triangulation is 3292.383846
+
+Number of Vertices: 15
+189,180
+158,145
+140,154
+186,142
+75,157
+119,170
+175,29
+44,198
+143,137
+65,63
+117,158
+189,168
+199,29
+106,71
+31,152
+Cost of Triangulation is 2831.485619
+
+Number of Vertices: 15
+11,98
+10,76
+12,120
+159,160
+55,75
+19,86
+63,31
+170,96
+43,91
+79,172
+67,45
+2,53
+159,44
+73,79
+173,90
+Cost of Triangulation is 2516.756296
+
+Number of Vertices: 15
+52,33
+190,49
+56,120
+40,82
+196,100
+129,140
+143,122
+144,185
+88,23
+191,115
+38,197
+16,172
+104,46
+152,165
+96,166
+Cost of Triangulation is 3394.663457
+
+Number of Vertices: 15
+148,103
+75,83
+46,151
+70,97
+36,172
+152,183
+152,60
+49,38
+48,118
+126,140
+99,76
+33,157
+181,80
+27,120
+69,136
+Cost of Triangulation is 2633.669931
+
+Number of Vertices: 15
+29,159
+109,56
+52,130
+97,5
+126,79
+5,101
+161,24
+158,147
+8,145
+9,41
+195,36
+176,63
+8,164
+0,80
+74,188
+Cost of Triangulation is 3491.252178
+
+Number of Vertices: 15
+180,169
+166,24
+11,57
+160,65
+89,1
+23,190
+132,104
+198,9
+17,12
+6,197
+18,82
+1,95
+87,154
+23,76
+34,106
+Cost of Triangulation is 3483.294751
+
+Number of Vertices: 15
+115,42
+160,147
+178,189
+29,32
+8,97
+159,22
+57,107
+87,20
+78,52
+186,145
+5,51
+120,14
+188,199
+37,9
+172,80
+Cost of Triangulation is 3646.234733
+
+Number of Vertices: 15
+190,103
+119,53
+70,176
+168,167
+132,101
+52,157
+130,144
+19,50
+131,180
+173,64
+73,30
+36,116
+167,129
+141,17
+155,117
+Cost of Triangulation is 2934.638747
+
+Number of Vertices: 15
+142,160
+111,21
+35,79
+76,163
+104,34
+28,53
+75,174
+145,85
+51,188
+102,133
+112,119
+26,2
+66,79
+158,163
+36,51
+Cost of Triangulation is 2913.910608
+
+Number of Vertices: 15
+143,185
+183,36
+57,160
+185,187
+74,76
+12,161
+173,144
+194,68
+11,7
+117,173
+193,22
+37,197
+194,136
+10,130
+28,161
+Cost of Triangulation is 3853.797155
+
+Number of Vertices: 15
+96,118
+99,159
+168,21
+13,58
+61,75
+13,25
+89,196
+76,93
+38,50
+51,150
+90,148
+163,116
+98,3
+185,188
+198,79
+Cost of Triangulation is 2987.548631
+
+Number of Vertices: 15
+16,169
+109,138
+136,129
+139,131
+73,125
+186,100
+24,57
+37,47
+22,88
+15,79
+179,61
+155,194
+50,83
+18,65
+54,14
+Cost of Triangulation is 2521.920844
+
+Number of Vertices: 15
+165,133
+193,161
+92,60
+175,155
+174,5
+15,61
+4,89
+122,66
+138,188
+183,175
+105,159
+77,164
+47,49
+66,115
+115,33
+Cost of Triangulation is 2888.034835
+
+Number of Vertices: 15
+122,88
+171,44
+132,35
+19,182
+198,35
+28,46
+27,94
+156,122
+137,98
+11,155
+87,181
+109,186
+148,101
+162,46
+58,130
+Cost of Triangulation is 2983.762173
+
+Number of Vertices: 15
+106,67
+86,82
+105,62
+135,156
+30,27
+88,57
+27,118
+20,43
+155,75
+80,73
+47,66
+89,54
+169,125
+63,193
+64,55
+Cost of Triangulation is 2199.587285
+
+Number of Vertices: 15
+14,45
+164,14
+31,78
+103,26
+99,111
+33,56
+137,44
+116,182
+33,87
+6,13
+190,152
+120,103
+67,8
+167,42
+196,142
+Cost of Triangulation is 3344.001985
+
+Number of Vertices: 15
+64,133
+73,157
+28,37
+58,172
+5,77
+125,17
+43,41
+125,107
+45,110
+158,161
+100,67
+93,185
+107,90
+47,189
+26,80
+Cost of Triangulation is 2705.623782
+
